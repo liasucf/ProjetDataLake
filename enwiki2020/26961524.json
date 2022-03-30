@@ -1,0 +1,5 @@
+{
+    "id": "26961524",
+    "text": "A Heyting field is one of the inequivalent ways in constructive mathematics to capture the classical notion of a field. It is essentially a field with an apartness relation. A commutative ring is a Heyting field if \u00ac(0=1), either a or 1-a is invertible for every a, and each noninvertible element is zero. The first two conditions say that the ring is local; the first and third conditions say that it is a field in the classical sense. The apartness relation is defined by writing a # b if a-b is invertible. This relation is often now written as a \u2260 b with the warning that it is not equivalent to \u00ac(a=b). For example, the assumption \u00ac(a=0) is not generally sufficient to construct the inverse of a, but a \u2260 0 is. The prototypical Heyting field is the real numbers. ==References== * Mines, Richman, Ruitenberg. A Course in Constructive Algebra. Springer, 1987. Category:Constructivism (mathematics) ",
+    "title": "Heyting field"
+}

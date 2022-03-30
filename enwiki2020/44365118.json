@@ -1,0 +1,5 @@
+{
+    "id": "44365118",
+    "text": "AtScript was a proposed JavaScript-based scripting language extending Microsoft's TypeScript and transcompiling to JavaScript. It was introduced in October 2014 at the ng-Europe conference by the developers of Google's AngularJS web development framework as the language that the upcoming Angular 2.0 would be built with. AtScript was originally intended to run on top of TypeScript, while including some features from Dart. In October 2014, Google announced that Angular 2.0 would be written in AtScript. In March 2015, Microsoft announced that many of AtScript's features would be implemented in the TypeScript 1.5 release, and that Angular 2.0 would be built on pure TypeScript. The name \u201cAtScript\u201d comes from the @ \u201cat\u201d symbol used for annotations in many languages. ==References== Category:JavaScript programming language family Category:Scripting languages ",
+    "title": "AtScript"
+}

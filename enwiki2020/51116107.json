@@ -1,0 +1,5 @@
+{
+    "id": "51116107",
+    "text": "In mathematics, specifically in the field of group theory, the McKay Conjecture is a conjecture of equality between the number of irreducible complex characters of degree not divisible by a prime number p to that of the normalizer of a Sylow p-subgroup. It is named after Canadian mathematician John McKay. == Statement == Suppose p is a prime number, G is a finite group, and P \\leq G is a Sylow p-subgroup. Define :\\textrm{Irr}_{p'}(G) := \\\\{\\chi \\in \\textrm{Irr}(G) : p mid \\chi(1) \\\\} where \\textrm{Irr}(G) denotes the set of complex irreducible characters of the group G. The McKay conjecture claims the equality :|\\textrm{Irr}_{p'}(G)| = |\\textrm{Irr}_{p'}(N_G(P))| where N_G(P) is the normalizer of P in G. == References == * (Corrected reprint of the 1976 original, published by Academic Press.) * Category:Representation theory of groups ",
+    "title": "McKay conjecture"
+}

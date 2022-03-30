@@ -1,0 +1,5 @@
+{
+    "id": "5707971",
+    "text": "In mathematics, the Weierstrass product inequality states that for any real numbers 0 \u2264 a1, ..., an \u2264 1 we have :(1-a_1)(1-a_2)(1-a_3)(1-a_4)....(1-a_n) \\geq 1-S_n, :(1+a_1)(1+a_2)(1+a_3)(1+a_4)....(1+a_n) \\geq 1+S_n, where S_n=a_1+a_2+a_3+a_4+....+a_n. The inequality is named after the German mathematician Karl Weierstrass. It can be proven easily via mathematical induction. ==References== Category:Inequalities ",
+    "title": "Weierstrass product inequality"
+}

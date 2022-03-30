@@ -1,0 +1,5 @@
+{
+    "id": "56669979",
+    "text": "Rudin's conjecture is a mathematical hypothesis (in additive combinatorics and elementary number theory) concerning an upper bound for the number of squares in finite arithmetic progressions. The conjecture, which has applications in the theory of trigonometric series, was first stated by Walter Rudin in his 1960 paper Trigonometric series with gaps. arXiv.org preprint arXiv.org preprint For positive integers N, q, a define the expression Q(N; q, a) to be the number of perfect squares in the arithmetic progression qn + a, for n = 0, 1, \\ldots, N-1, and define Q(N) to be the maximum of the set . Rudin\u2019s conjecture asserts (in big O notation) that Q(N) = O(\\sqrt { N }) and in its stronger form that, if N > 5, Q(N) = Q(N; 24, 1). ==References== Category:Combinatorics Category:Conjectures ",
+    "title": "Rudin's conjecture"
+}

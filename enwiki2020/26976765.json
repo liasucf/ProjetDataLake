@@ -1,0 +1,5 @@
+{
+    "id": "26976765",
+    "text": "Plymouth is a bootsplash for Linux supporting animations using Direct Rendering Manager (DRM) and KMS driver. It gets packed into the initrd. Besides eye-candy, Plymouth also handles user interaction during boot. Plymouth was first included in Fedora 10 \"Cambridge\" shipped on November 25, 2008 where it replaced Red Hat Graphical Boot (RHGB). Ubuntu includes it in the Ubuntu 10.04 LTS \"Lucid Lynx\" release shipped on April 29, 2010. Mandriva switched from Splashy to Plymouth with version Ad\u00e9lie (2010.0). ==See also== * Usplash * Splashy ==External links== * https://www.freedesktop.org/wiki/Software/Plymouth/ * https://launchpad.net/plymouth Category:Booting Category:Fedora Project Category:Free system software Category:Freedesktop.org ",
+    "title": "Plymouth (software)"
+}

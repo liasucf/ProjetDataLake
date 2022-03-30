@@ -1,0 +1,5 @@
+{
+    "id": "3253617",
+    "text": "Thermotunnel cooling is similar to thermionic emission cooling in that fast moving electrons carry heat across a gap but cannot return due to a voltage difference. The problem with using thermal electrons to carry heat is the fact that, due to the high work function of metals, which are the only practical emitters, the lowest cooling temperate is around 600 \u00b0C - clearly not useful except in the most unusual applications. Thermotunnel cooling avoids this problem by making the gap narrow enough that electrons can tunnel across the gap, carrying the heat with them. The problem with this approach has been getting two surfaces near enough that they can tunnel over a large area, yet not touch at any point, which would short the device out preventing it from doing any useful cooling. == External links == *Tempronics Category:Cooling technology ",
+    "title": "Thermotunnel cooling"
+}

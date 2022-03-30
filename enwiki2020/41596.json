@@ -1,0 +1,5 @@
+{
+    "id": "41596",
+    "text": "The weighing curve of the CCIF 1951 Psophometric voltage is a circuit noise voltage measured with a psophometer that includes a CCIF-1951 weighting network. \"Psophometric voltage\" should not be confused with \"psophometric emf,\" i.e., the emf in a generator or line with 600 \u03a9 internal resistance. For practical purposes, the psophometric emf is twice the corresponding psophometric voltage. Psophometric voltage readings, V, in millivolts, are commonly converted to dBm(psoph) by dBm(psoph) = 20 log10V \u2013 57.78. ==References== * Category:Electrical parameters Category:Noise (electronics) Category:Telecommunications engineering ",
+    "title": "Psophometric voltage"
+}

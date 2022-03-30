@@ -1,0 +1,5 @@
+{
+    "id": "2227555",
+    "text": "In DOS and Windows, a network redirector, or redirector, is an operating system driver that sends data to and receives data from a remote device. A network redirector provides mechanisms to locate, open, read, write, and delete files and submit print jobs. It provides application services such as named pipes and MailSlots. When an application needs to send or receive data from a remote device, it sends a call to the redirector. The redirector provides the functionality of the presentation layer of the OSI model. Networks Hosts communicate through use of this client software: Shells, Redirectors and Requesters. In Microsoft Networking, the network redirectors are implemented as Installable File System (IFS) drivers. == See also == * Universal Naming Convention (UNC) == External links == * Network Redirector Drivers at Microsoft Docs Category:Device drivers Category:Operating system technology ",
+    "title": "Network redirector"
+}

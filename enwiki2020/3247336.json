@@ -1,0 +1,5 @@
+{
+    "id": "3247336",
+    "text": "A Bitstream or 1-bit DAC is a consumer electronics marketing term describing an oversampling digital-to-analog converter (DAC) with an actual 1-bit DAC (that is, a simple \"on/off\" switch) in a delta-sigma loop operating at multiples of the sampling frequency. The combination is equivalent to a DAC with a larger number of bits (usually 16-20). The advantages of this type of converter are high linearity combined with low cost, owed to the fact that most of the processing takes place in the digital domain and requirements for the analog anti-aliasing filter after the output can be relaxed. For these reasons, this design is very popular in digital consumer electronics (CD/DVD players, set-top boxes and the like).Smith, Steven W., The Scientist\u2019s and Engineer\u2019s Guide to Digital Signal Processing (Second Edition). San Diego CA: California Technical Publishing, 1999 (), p. 60. ==See also== *DAC Types *Direct Stream Digital ==References== Category:Consumer electronics Category:Digital media ",
+    "title": "1-bit DAC"
+}

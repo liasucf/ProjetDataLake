@@ -1,0 +1,5 @@
+{
+    "id": "14000575",
+    "text": "RACE encoding is a method for encoding foreign languages that use non-English characters (Chinese, Japanese, etc.) in ASCII characters for storage in domain name system servers.http://tools.ietf.org/html/draft-ietf-idn-race-03 Row- based ASCII Compatible Encoding for IDN All names without non-English characters are unchanged. RACE codes are made up of digits, letters and dashes.\"Definition of: RACE encoding\" by PC Mag Encyclopedia RACE encoding is part of the larger scheme of the Universal Character Set specifically the ISO/IEC 10646. The assignment of characters also coincides with Unicode. Today, it is mostly abandoned in favor of punycode. == Nomenclature == RACE is an acronym for its main purpose. *R stands for Row-based *A for ASCII *C for Compatible *E Encoding == References == ==External links== * Acmqueue.com, DNS Complexity, Paul Vixie, ACM Queue Category:Domain Name System ",
+    "title": "RACE encoding"
+}

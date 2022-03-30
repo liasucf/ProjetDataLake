@@ -1,0 +1,5 @@
+{
+    "id": "14096993",
+    "text": "A security log is used to track security-related information on a computer system. Examples include: * Windows Security Log * Internet Connection Firewall security log According to Stefan Axelsson, \"Most UNIX installations do not run any form of security logging software, mainly because the security logging facilities are expensive in terms of disk storage, processing time, and the cost associated with analyzing the audit trail, either manually or by special software.\"Stefan Axelsson, An Approach to UNIX Security Logging. ==See also== *Audit trail *Server log *Log management and intelligence *Web log analysis software *Web counter *Data logging *Common Log Format *Syslog ==References== Category:Computer security ",
+    "title": "Security log"
+}

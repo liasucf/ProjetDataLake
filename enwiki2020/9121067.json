@@ -1,0 +1,5 @@
+{
+    "id": "9121067",
+    "text": "GPRename is a computer program for renaming multiple files and directories at one time. GPRename is written in Perl, and runs on any Unix-like operating system. == Features == * Rename both files and directories * Case change: to UPPERCASE, to lowercase or Only The First Letter * Insert or delete text at a position * Replace text with the option of case sensitive * Search text with the option of regular expression(regex not supported in replace string) * Rename with numbers (001.jpg, 002.jpg, 003.jpg...) * Automatically trim double spaces to one space, also trim leading and/or trailing spaces around the name * Multilingual : Brazilian Portuguese, English, French, Polish, Spanish == History == At the start of 2007, GPRename has been ported from the deprecated GTK-Perl to the new GTK2-Perl and in mid-2007 the new 2.4 release is now GPL-3. ==Reception== Jack Wallen writing in ghacks.net in August 2010 said: ==References== ==External links== * Category:Free file managers Category:Free software programmed in Perl ",
+    "title": "GPRename"
+}

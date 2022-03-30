@@ -1,0 +1,5 @@
+{
+    "id": "5701305",
+    "text": "It was observed in evolution strategies that significant progress toward the fitness/objective function's optimum, generally, can only happen in a narrow band of the mutation step size \u03c3. That narrow band is called evolution window. There are three well-known methods to adapt the mutation step size \u03c3 in evolution strategies: * (1/5-th) Success Rule * Self-Adaptation (for example through log-normal mutations) * Cumulative Step Size Adaptation (CSA) On simple functions all of them have been empirically shown to keep the step size within the evolution window. ==See also== * Bionics * Cybernetics * Evolutionary Algorithm * Evolution strategy * Optimization (mathematics) ==References== * H.-G. Beyer. Toward a Theory of Evolution Strategies: Self- Adaptation. Evolutionary Computation, 3(3), 311-347. * Ingo Rechenberg: Evolutionsstrategie '94. Stuttgart: Frommann-Holzboog 1994. Category:Evolutionary algorithms ",
+    "title": "Evolution window"
+}

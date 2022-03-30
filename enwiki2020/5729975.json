@@ -1,0 +1,5 @@
+{
+    "id": "5729975",
+    "text": "hash is a command on Unix and Unix-like operating systems that prints the location information for the commands found. The command has also been ported to the IBM i operating system. ==Syntax== $ hash [name] ==Description== When the user gives a command, the shell searches for the command in the path specified in the PATH environmental variable and stores the location in the hash. This command can be used to search for the command given. The command is built into the shell. C shell implements this command in a different way. ==Options== The following options are supported. ;name: Searches the PATH environmental variable for the name given ==Exit Status== This command returns the following exit values: ;0: Successful completion ;1: An Error occurred ==Examples== $ hash Print the hash table. $ hash cat Searches for command cat in the path specified by PATH environmental variable; if found, adds it to the hash. ==See also== * find * Unix shell ==References== ==External links== * * Category:Unix SUS2008 utilities ",
+    "title": "Hash (Unix)"
+}

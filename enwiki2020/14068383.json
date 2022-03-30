@@ -1,0 +1,5 @@
+{
+    "id": "14068383",
+    "text": "RTVideo is Microsoft's default video codec for Office Communications Server 2007 and the Microsoft Office Communicator 2007 client. It is a Microsoft proprietary implementation of the VC-1 codec for real-time transmission purposes. Microsoft extensions to VC-1 are based on cached frame and SP-frame. Also it includes system-level enhancements for recovery of packet loss on IP networks - forward error correction and error concealment. == Licensing == RTVideo is a proprietary codec. Like RTAudio this protocol can also be licensed from Microsoft. ==External links== Category:Video codecs Category:Microsoft proprietary codecs ",
+    "title": "RTVideo"
+}

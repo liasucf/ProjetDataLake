@@ -1,0 +1,5 @@
+{
+    "id": "20552011",
+    "text": "FJG diagrams FJG RAM, short for Floating Junction Gate Random Access Memory, is a type of computer memory invented by Oriental Semiconductor Co., Ltd. The FJG RAM has an ultra-compact cell area of 4F2 (F refers to feature size) and a capacitorless cell configuration. It is made without exotic process steps, materials or new process tools, and the process for making the device is available from all existing DRAM fabs. Due to the absence of a capacitor, the FJG cell process is more compatible with logic processes, allowing its use not only in standalone DRAM applications but also in embedded-DRAM applications. Other properties include non-destructive-read and the possibility for DRAM designers to use shared sense-amplifiers to reduce the complexity of periphery circuits. As of April 2016 there is little evidence of ongoing development or near-term commercialization efforts. ==External links== * Oriental Semiconductor webpage Category:Types of RAM Category:Upcoming integrated circuits Category:Chinese inventions Category:Science and technology in China ",
+    "title": "FJG RAM"
+}

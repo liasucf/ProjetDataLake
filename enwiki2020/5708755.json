@@ -1,0 +1,5 @@
+{
+    "id": "5708755",
+    "text": "MPEG Audio Decoder (MAD) is a GPL library for decoding files that have been encoded with an MPEG audio codec. It was written by Robert Leslie and produced by Underbit Technologies. It was developed as a new implementation, on the ISO/IEC standards. It consists of libmad, a software library, and madplay, a command-line program for MP3 playback. libmad is notable for using only fixed- point arithmetic while madplay is notable for its ReplayGain support. ==References== ==External links== *MAD's home page *MAD's SourceForge page *Official MPEG web site Category:Free audio codecs ",
+    "title": "MPEG Audio Decoder"
+}

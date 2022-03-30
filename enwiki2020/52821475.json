@@ -1,0 +1,5 @@
+{
+    "id": "52821475",
+    "text": "In mathematics, a topological space X is a D-space if for any family \\\\{U_x:x\\in X\\\\} of open sets such that x\\in U_x for all points x\\in X, there is a closed discrete subset D of the space X such that \\bigcup_{x\\in D}U_x=X. == History == The notion of D-spaces was introduced by Eric Karel van Douwen and E.A. Michael. It first appeared in a 1979 paper by van Douwen and Washek Frantisek Pfeffer in the Pacific Journal of Mathematics. Whether every Lindel\u00f6f and regular topological space is a D-space is known as the D-space problem. This problem is among twenty of the most important problems of set theoretic topology. == Properties == * Every Menger space is a D-space * A subspace of a topological linearly ordered space is a D-space iff it is a paracompact space. ==References== Category:Properties of topological spaces Category:Topology ",
+    "title": "D-space"
+}

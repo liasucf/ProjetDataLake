@@ -1,0 +1,5 @@
+{
+    "id": "1509729",
+    "text": "In statistics, the order of a kernel is the degree of the first non-zero moment of a kernel. == Definitions == The literature knows two major definitions of the order of a kernel: === Definition 1 === Let \\ell \\geq 1 be an integer. Then, K: \\mathbb{R} \\rightarrow \\mathbb{R} is a kernel of order \\ell if the functions u\\mapsto u^{j}K(u), ~ j=0,1,...,\\ell are integrable and satisty \\int K(u)du=1, ~ \\int u^{j}K(u)du=0,~ ~j=1,...,\\ell. === Definition 2 === ==References== Category:Nonparametric statistics ",
+    "title": "Order of a kernel"
+}

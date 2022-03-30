@@ -1,0 +1,5 @@
+{
+    "id": "46852034",
+    "text": "In statistics, Bhattacharyya angle, also called statistical angle, is a measure of distance between two probability measures defined on a finite probability space. It is defined as : \\Delta(p,q) = \\arccos \\operatorname{BC}(p,q) where pi, qi are the probabilities assigned to the point i, for i = 1, ..., n, and : \\operatorname{BC}(p,q) = \\sum_{i=1}^n \\sqrt{p_i q_i} is the Bhattacharya coefficient. The Bhattacharya distance is the geodesic distance in the orthant of the sphere S^{n-1} obtained by projecting the probability simplex on the sphere by the transformation p_i \\mapsto \\sqrt{p_i},\\ i=1,\\ldots, n. This distance is compatible with Fisher metric. It is also related to Bures distance and fidelity between quantum states as for two diagonal states one has : \\Delta(\\rho,\\sigma) = \\arccos \\sqrt{F(\\rho, \\sigma)}. == See also == * Bhattacharyya distance * Hellinger distance == References == Category:Statistical distance ",
+    "title": "Bhattacharyya angle"
+}

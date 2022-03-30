@@ -1,0 +1,5 @@
+{
+    "id": "61252857",
+    "text": "AMDD otherwise known as Antimicrobial Drug Database is a biological database that seeks to consolidate antibacterial and antifungal drug information from a variety of sources such as PubChem, PubChem Bioassay, ZINC, ChemDB and DrugBank in order to advance the field of treatment of resistance microbes. As of 2012, AMDD contains ~2900 antibacterial and ~1200 antifungal compounds. These compounds are organized via their description, target, format, bioassay, molecular weight, hydrogen bond donor, hydrogen bond acceptor and rotatable bond. AMDD was built on Apache server 2.2.11. The function of this database is to ultimately provide a comprehensive tool that is intuitively navigated such that development of novel antibacterial and antifungal compounds are facilitated. == See also == * Antimicrobial Resistance databases == References == Category:Biological databases Category:Biological database stubs ",
+    "title": "Antimicrobial Drug Database"
+}

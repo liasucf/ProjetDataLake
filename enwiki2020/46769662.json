@@ -1,0 +1,5 @@
+{
+    "id": "46769662",
+    "text": "In cosmology, the relic abundance of a given elementary particle is a measure of the present quantity of that particle remaining from the Big Bang. ==Uses== Relic abundance is modelled for WIMPs (weakly interacting massive particles) in the study of dark matter.Kim Griest, \"Relic Abundance in More Detail\", The Net Advance of Physics: The Nature of Dark Matter, Section 6C, MIT ==Calculation== Assuming that an elementary particle was formerly in thermal equilibrium, its relic abundance may be calculated using a Boltzmann equation. The temperature scaled abundance of a particle is defined by Y \\equiv n/T^3 ,, where n is the number density: n \\equiv N/V, that is, number of particles per physical volume (not the comoving volume). The relic abundance of a particle is shown by Y_\\infty indicates the asymptotic value of abundance of a species of a particle which it will reach after its \"freeze-out\". ==References== Category:Physical cosmology ",
+    "title": "Relic abundance"
+}

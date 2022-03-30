@@ -1,0 +1,5 @@
+{
+    "id": "45668983",
+    "text": "Sludge Volume Index (SVI) is used to describe the settling characteristics of sludge in the aeration tank in Activated Sludge Process. It is a process control parameter to determine the recycle rate of sludge. It was introduced by Mohlman in 1934, and has become the standard measure of the physical characteristics of activated sludge processes. It is defined as 'the volume (in mL) occupied by 1 gram of activated sludge after settling the aerated liquid for 30 minutes'. SVI (mL/g) = settled sludge volume (mL/L) X 1000/mixed liquor suspended solids(MLSS)(mg/L) As MLSS is mostly given in g/L and because the sludge often has to be diluted before analyzing the settling volume, the equation will be : SVI (mL/g) = settled sludge volume (mL/L)/mixed liquor suspended solids(MLSS)(mg/L) * (1000 [mL]/original sludge sample [mL]) ==References== Category:Waste treatment technology ",
+    "title": "Sludge volume index"
+}

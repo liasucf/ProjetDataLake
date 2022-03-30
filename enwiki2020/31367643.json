@@ -1,0 +1,5 @@
+{
+    "id": "31367643",
+    "text": "OMA (Orthologous MAtrix) is a database of orthologs extracted from available complete genomes. The orthology predictions of OMA are available in several forms: * OMA Pairs: for a given gene, a list of predicted orthologs in other species is provided. * OMA Groups: a set of genes across different species which are all orthologous. * OMA Hierarchical Groups: the set of all genes that have evolved from a single ancestral gene in a given taxonomic range. * OMA Genome Pair view: the list of all predicted orthologs between two species. ==See also== * Homology (biology) * OrthoDB * TreeFam ==References== Category:Biological databases Category:Evolutionary biology Category:Phylogenetics ",
+    "title": "Orthologous MAtrix"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1290005",
+    "text": "The FISH (FIbonacci SHrinking) stream cipher is a fast software based stream cipher using Lagged Fibonacci generators, plus a concept from the shrinking generator cipher. It was published by Siemens in 1993. FISH is quite fast in software and has a huge key length. However, in the same paper where he proposed Pike, Ross Anderson showed that FISH can be broken with just a few thousand bits of known plaintext. ==References== *. *. Category:Stream ciphers Category:Fibonacci numbers ",
+    "title": "FISH (cipher)"
+}

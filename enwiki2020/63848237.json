@@ -1,0 +1,5 @@
+{
+    "id": "63848237",
+    "text": "In automata theory (a branch of theoretical computer science), NFA minimization is the task of transforming a given nondeterministic finite automaton (NFA) into an equivalent NFA that has a minimum number of states, transitions, or both. While efficient algorithms exist for DFA minimization, NFA minimization is NP-hard. No efficient (polynomial time) algorithms are known. Nonetheless, algorithms exist which implement useful functionality such as Kameda-Weiner. Additional research has been published on the topic. == State minimal NFA == Unlike deterministic finite automata (DFA), minimal NFAs may not be unique. There may be multiple NFAs of the same size which accept the same input sequences (recognize the same regular language), but for which there are no NFAs with fewer states which also recognize the same input sequences. == References == ==External links== * A modified C# implementation of Kameda-Weiner (1970) ",
+    "title": "NFA minimization"
+}

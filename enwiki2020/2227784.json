@@ -1,0 +1,5 @@
+{
+    "id": "2227784",
+    "text": "JRockit was a proprietary Java virtual machine (JVM) originally developed by Appeal Virtual Machines, acquired by BEA Systems in 2002, and became part of Oracle Fusion Middleware as part of acquisition of BEA Systems in 2008. The JRockit code base was discontinued by Oracle, with some features being integrated into the HotSpot virtual machine as part of the mainline development of the Java platform. JRockit only ever supported Java 6, which is now considered an obsolete release. == History == Following the finalization of the acquisition of Sun Microsystems, Oracle announced in JavaOne 2010 that the best features of JRockit would be implemented in OpenJDK. In May 2011, Oracle announced that JRockit has become free, and confirmed the plan to port JRockit features on OpenJDK. ==References== == External links == Category:Discontinued Java virtual machines Category:BEA Systems Category:Oracle software ",
+    "title": "JRockit"
+}

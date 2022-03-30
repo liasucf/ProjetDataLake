@@ -1,0 +1,5 @@
+{
+    "id": "7820243",
+    "text": "In category theory, an abstract branch of mathematics, distributive laws between monads are a way to express abstractly that two algebraic structures distribute one over the other one. Suppose that (S,\\mu^S,\\eta^S) and (T,\\mu^T,\\eta^T) are two monads on a category C. In general, there is no natural monad structure on the composite functor ST. However, there is a natural monad structure on the functor ST if there is a distributive law of the monad S over the monad T. Formally, a distributive law of the monad S over the monad T is a natural transformation :l:TS\\to ST such that the diagrams :Image:Distributive law monads mult1.png Image:Distributive law monads unit1.png : Image:Distributive law monads mult2.png Image:Distributive law monads unit2.png commute. This law induces a composite monad ST with * as multiplication: STST\\xrightarrow{SlT}SSTT\\xrightarrow{\\mu^S\\mu^T}ST, * as unit: 1\\xrightarrow{\\eta^S\\eta^T}ST. == See also == * distributive law == References == * * * * * * * * * * * * * * * * Category:Adjoint functors ",
+    "title": "Distributive law between monads"
+}

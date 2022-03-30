@@ -1,0 +1,5 @@
+{
+    "id": "3265720",
+    "text": "In optics the noise-equivalent flux density (NEFD) or noise-equivalent irradiance (NEI) of a system is the level of flux density required to be equivalent to the noise present in the system. It is a measure used by astronomers in determining the accuracy of observations. The NEFD can be related to a light detector's Noise-equivalent power for a collection area A and a photon bandwidth u by: NEFD = \\eta \\frac{NEP}{A u}, where a factor \\eta (often 2, in the case of switching between measuring a source and measuring off-source) accounts for the photon statistics for the mode of operation. ==References== Category:Physical quantities Category:Vector calculus ",
+    "title": "Noise-equivalent flux density"
+}

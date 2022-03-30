@@ -1,0 +1,5 @@
+{
+    "id": "2212612",
+    "text": "The Zilog Z16C01 SCC was introduced in the early 1980s and provided the ability to do both standard UART style serial communications along with the HDLC protocol for a reasonable price. It was a descendant of the earlier Zilog SIO, and its main enhancement was the inclusion of a built-in baud rate generator. It was part of the Zilog Z8000 chip set. ==External links== * Zilog.com Classic Microcontrollers - Z16C01 * Zilog.com - Z16C01/Z16C02 Product Specification Category:Microcontrollers ",
+    "title": "Zilog Z16C01"
+}

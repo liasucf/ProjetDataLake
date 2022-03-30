@@ -1,0 +1,5 @@
+{
+    "id": "26964342",
+    "text": "MATSim (the Multi-Agent Transport Simulation Toolkit) is an open source software development project developing agent-based software modules intended for use with transportation planning models. ==History== \"The MATSim project started with Kai Nagel, then at ETH Zurich, and his interest in improving his work with, and for, the TRansportation ANalysis and SIMulation System (TRANSIMS) project; he also wanted to make the resulting code open-source. After Kai Nagel\u2019s departure to TU Berlin in 2004, Kay W. Axhausen joined the team, bringing a different approach and experience.\" The Multi-Agent Transport Simulation MATSim, edited by Andreas Horni, Kai Nagel, Kay W. Axhausen. https://github.com/matsim-org/book ==Areas of Application== MATSim has been applied to various areas: road transport, public transport, freight transport, regional evacuation etc. ==References== ==External links== * http://www.matsim.org/ Category:Models of computation Category:Complex systems theory Category:Multi-agent systems Category:Traffic simulation ",
+    "title": "MATSim"
+}

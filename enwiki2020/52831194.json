@@ -1,0 +1,5 @@
+{
+    "id": "52831194",
+    "text": "sc is a discontinued, libre, TUI, spreadsheet and calculator application that runs on Unix and Unix-like operating systems. It has also been ported to Windows. It can be accessed through a terminal emulator, and has a simple interface and keyboard shortcuts resembling the key bindings of the Vim text editor. It can be used in a similar manner to other spreadsheet programs, e.g. for financial and budgeting purposes. The program is based on the ncurses interface library, and has a rich manual page describing its options and configuration. It has a rich mathematical formula library and uses the same file format as Xspread, also supporting plugins as external commands. The program was previously known as vc. sc is already present in the default repositories of popular Linux distributions such as Ubuntu, Fedora, and Arch Linux. ==See also== * * Ubuntu Linux manual page * * * ==References== Category:Spreadsheet software Category:Software that uses ncurses ",
+    "title": "Sc (spreadsheet calculator)"
+}

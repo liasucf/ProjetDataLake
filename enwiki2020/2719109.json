@@ -1,0 +1,5 @@
+{
+    "id": "2719109",
+    "text": "Channel use is a quantity used in signal processing or telecommunication related to symbol rate and channel capacity. Capacity is measured in bits per input symbol into the channel (bits per channel use). If a symbol enters the channel every Ts seconds (for every symbol period a symbol is transmitted) the channel capacity in bits per second is C/Ts. The phrase \"1 bit per channel use\" denotes the transmission of 1 symbol (of duration Ts) containing 1 data bit. ==See also== *Adaptive communications *End instrument *Spectral efficiency and modulation efficiency in (bit/s)/Hz Category:Data transmission Category:Information theory ",
+    "title": "Channel use"
+}

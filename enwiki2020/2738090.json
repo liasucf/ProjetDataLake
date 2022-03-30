@@ -1,0 +1,5 @@
+{
+    "id": "2738090",
+    "text": "In mathematics, a trident curve (also trident of Newton or parabola of Descartes) is any member of the family of curves that have the formula: :xy+ax^3+bx^2+cx=d trident curve with a = b = c = d = 1 Trident curves are cubic plane curves with an ordinary double point in the real projective plane at x = 0, y = 1, z = 0; if we substitute x = and y = into the equation of the trident curve, we get :ax^3+bx^2z+cxz^2+xz = dz^3, trident curve at y = \u221e with a = b = c = d = 1 which has an ordinary double point at the origin. Trident curves are therefore rational plane algebraic curves of genus zero. ==References== * ==External links== * Category:Algebraic curves ",
+    "title": "Trident curve"
+}

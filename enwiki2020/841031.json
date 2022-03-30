@@ -1,0 +1,5 @@
+{
+    "id": "841031",
+    "text": "HostAP was one of the most popular IEEE 802.11 device drivers for Linux and since November 2016 is officially obsolete in Linux kernel.https://git.kernel.org/cgit/linux/kernel/git/stable/linux- stable.git/commit/?id=ffd74aca44b70a2564da86e8878c1dd296009ffb It works with cards using the Conexant (formerly Intersil) Prism 2/2.5/3 chipset and support Host AP mode, which allows a WLAN card to perform all the functions of a wireless access point. The driver code was written by Jouni Malinen, hired by Atheros in 2008,http://madwifi-project.org/wiki/news/20080725/ath9k-atheros- unveils-free-linux-driver-for and was included into the main kernel tree in Linux 2.6.14. == See also == *Hostapd *wpa supplicant * Intel PRO/Wireless 2200BG AP Driver for Linux, an open source 802.11 b/g access point driver for the ipw2200 and ipw2915 == References == == External links == * HostAP Homepage * Network overview by Rami Rosen Category:Wi-Fi Category:Device drivers ",
+    "title": "HostAP"
+}

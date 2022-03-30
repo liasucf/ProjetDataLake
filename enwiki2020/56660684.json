@@ -1,0 +1,5 @@
+{
+    "id": "56660684",
+    "text": "The Dittert conjecture, or Dittert\u2013Hajek conjecture, is a mathematical hypothesis (in combinatorics) concerning the maximum achieved by a particular function \\phi of matrices with real, nonnegative entries satisfying a summation condition. The conjecture is due to Eric Dittert and (independently) Bruce Hajek. Let A = [a_{ij}] be a square matrix of order n with nonnegative entries and with \\sum_{i=1}^n \\left ( \\sum_{j=1}^n a_{ij} \\right ) = n. Its permanent is defined as \\operatorname{per}(A)=\\sum_{\\sigma\\in S_n}\\prod_{i=1}^n a_{i,\\sigma(i)}, where the sum extends over all elements \\sigma of the symmetric group. The Dittert conjecture asserts that the function \\operatorname{\\phi}(A) defined by \\prod_{i=1}^n \\left ( \\sum_{j=1}^n a_{ij} \\right ) + \\prod_{j=1}^n \\left ( \\sum_{i=1}^n a_{ij} \\right ) - \\operatorname{per}(A) is (uniquely) maximized when A = (1/n) J_n, where J_n is defined to be the square matrix of order n with all entries equal to 1. ==References== Category:Conjectures Category:Combinatorics Category:Inequalities ",
+    "title": "Dittert conjecture"
+}

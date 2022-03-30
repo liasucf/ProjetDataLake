@@ -1,0 +1,5 @@
+{
+    "id": "61253455",
+    "text": "Integrall is a database that seeks to document and annotate integrons and all other transposable elements that confer resistance to antibiotics in bacteria. As of release 1.2, Integrall contains ~4800 integron sequences. Transposable elements and Integrons in bacteria are a major threat in the field of antimicrobial drug research because they allow bacteria to develop resistances through interbacterial interactions. They allow bacteria to develop resistances that they typically cannot. Thus, Integrall seeks to be a comprehensive and unified database that facilitates the understanding and usage of integron information. Integrall is built on PHP5 using MySQL 5.0. == See also == * Antimicrobial resistance databases == References == Category:Biological database stubs Category:Biological databases ",
+    "title": "INTEGRALL"
+}

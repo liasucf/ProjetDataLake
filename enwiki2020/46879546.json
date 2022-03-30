@@ -1,0 +1,5 @@
+{
+    "id": "46879546",
+    "text": "Creating a logical conjunction of the five controls out of Toffoli gates and ancilla bits. Uncomputation is used to restore the ancilla bits to the OFF state before finishing. Uncomputation is a technique, used in reversible circuits, for cleaning up temporary effects on ancilla bits so they can be re- used. Uncomputation is a fundamental step quantum computing algorithms. Whether or not intermediate effects have been uncomputed affects how states interfere with each other when measuring results. ==References== Category:Quantum information science ",
+    "title": "Uncomputation"
+}

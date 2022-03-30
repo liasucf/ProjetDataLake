@@ -1,0 +1,5 @@
+{
+    "id": "3259100",
+    "text": "The Open Document Management API is an API that simplifies the communication of desktop applications with document management systems (DMS). ODMA standardizes the access to the DMS, which makes getting to these files as easy as if the files were in the actual local file system. ODMA was an effort to standardize the API to be used by desktop applications on Microsoft Windows to interface with back-end, server based document management systems (DMS). Version 1.0 of the API specification was completed in 1994, and went on to be supported by many of the major DMS vendors. Version 2.0 of the specification was completed in 1997. ODMA has subsequently been superseded by other, more standard ways of interfacing, such as WebDAV or CMIS. ==See also== *Enterprise content management *AIIM ==External links== *ODMA Interoperability Exchange - ODMA Resources * Orcmid's Lair - ODMA: The Little Middleware That Could (Comments from current maintainer) *ODM Attributes Category:Information technology management Category:Document management systems ",
+    "title": "ODMA"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3247924",
+    "text": "In mathematics, in the field of group theory, a conjugate-permutable subgroup is a subgroup that commutes with all its conjugate subgroups. The term was introduced by Tuval Foguel in 1997. and arose in the context of the proof that for finite groups, every quasinormal subgroup is a subnormal subgroup. Clearly, every quasinormal subgroup is conjugate-permutable. In fact, it is true that for a finite group: * Every maximal conjugate-permutable subgroup is normal. * Every conjugate-permutable subgroup is a conjugate-permutable subgroup of every intermediate subgroup containing it. * Combining the above two facts, every conjugate-permutable subgroup is subnormal. Conversely, every 2-subnormal subgroup (that is, a subgroup that is a normal subgroup of a normal subgroup) is conjugate-permutable. ==References== Category:Subgroup properties ",
+    "title": "Conjugate-permutable subgroup"
+}

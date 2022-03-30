@@ -1,0 +1,5 @@
+{
+    "id": "41800",
+    "text": "A T-interface or T reference point is used for basic rate access in an Integrated Services Digital Network (ISDN) environment. It is a User\u2013network interface reference point that is characterized by a four-wire, 144 kbit/s (2B+D) user rate. Other characteristics of a T-interface are: * it accommodates the link access and transport layer function in the ISDN architecture * it is located at the user premises * it is distance sensitive to the servicing Network termination 1 * it functions in a manner similar to that of the Channel service units (CSUs) and the Data service units (DSUs). The T interface is electrically equivalent to the S interface, and the two are jointly referred to as the S/T interface. ==See also== * R interface * S interface * U interface ==References== Category:Networking hardware Category:Integrated Services Digital Network ",
+    "title": "T interface"
+}

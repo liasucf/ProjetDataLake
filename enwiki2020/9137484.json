@@ -1,0 +1,5 @@
+{
+    "id": "9137484",
+    "text": "Venturi Transport Protocol (VTP) is a patented proprietary transport layer protocol that is designed to transparently replace TCP in order to overcome inefficiencies in the design of TCP related to wireless data transport. It is owned by Venturi Wireless. The protocol is employed by various wireless broadband internet service providers such as Verizon Wireless and Unwired (Unwired calls the Venturi Client application that provides transparent VTP connectivity the Unwired Optimizer) in order to speed up their network and to overcome latency issues. ==External links== * Venturi Wireless Solutions: Broadband Services - Optimization Technology * Unwired Optimizer FAQ Category:Internet protocols Category:Transport layer protocols Category:Wireless networking ",
+    "title": "Venturi Transport Protocol"
+}

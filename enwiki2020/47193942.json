@@ -1,0 +1,5 @@
+{
+    "id": "47193942",
+    "text": "Kernel patch may refer to: * Kernel Patch Protection (KPP), a feature of 64-bit (x64) editions of Microsoft Windows that prevents patching the kernel, informally known as PatchGuard * kpatch, a feature of the Linux kernel that implements live patching of a running kernel * Ksplice, an extension of the Linux kernel that allows security patches to be applied to a running kernel * XNU kernel patch, a series of initial patches necessary to run the OSx86 kernel on non-Apple hardware * TRESOR, a Linux kernel patch which provides CPU-only based encryption to defend against cold boot attacks ",
+    "title": "Kernel patch"
+}

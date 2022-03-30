@@ -1,0 +1,5 @@
+{
+    "id": "61345471",
+    "text": "ARGminer is database that focuses on the novel method of crowd-sourced curation over manual curation of Antibiotic Resistance Genes (ARG) pulled from a multiple sources such as CARD, ARDB, NDARO, DeepARG, Uniprot, ResFinder, and SARG. Additionally, due to the existence of Mobile Genetic Elements (MGE), ARGminer also interfaces with PATRIC and ACLAME. ARGminer annotated genes using their gene name, antibiotic category, resistance mechanism, evidence for mobility and occurrence in clinically important bacterial strains. There are two groups of crowd-sourced curators. One was hired on Amazon Mechanical Turk which offers a broad audience of crowd-sourced experts and non-experts that can annotate for monetary reward. Due to the presence of mixed expertise, each user is only allowed maximum 20 annotations. The other group is a graduate- level microbiology class. == See also == * Antimicrobial Resistance databases == References == Category:Scientific databases ",
+    "title": "ARGminer"
+}

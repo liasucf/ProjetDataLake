@@ -1,0 +1,5 @@
+{
+    "id": "2719222",
+    "text": "In sampling theory, the sampling fraction is the ratio of sample size to population size or, in the context of stratified sampling, the ratio of the sample size to the size of the stratum. The formula for the sampling fraction is :f=\\frac{n}{N}, where n is the sample size and N is the population size. A sampling fraction value close to 1 will occur if the sample size is relatively close to the population size. When sampling from a finite population without replacement, this may cause dependence between individual samples. To correct for this dependence when calculating the sample variance, a finite population correction (or finite population multiplier) of (N-n)/(N-1) may be used. If the sampling fraction is small, less than 0.05, then the sample variance is not appreciably affected by dependence, and the finite population correction may be ignored. ==References== Category:Sampling (statistics) Category:Statistical ratios ",
+    "title": "Sampling fraction"
+}

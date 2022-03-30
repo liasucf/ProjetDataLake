@@ -1,0 +1,5 @@
+{
+    "id": "1424595",
+    "text": "In geometric topology, the spherical space form conjecture states that a finite group acting on the 3-sphere is conjugate to a group of isometries of the 3-sphere. ==History== The conjecture was posed by Heinz Hopf in 1926 after determining the fundamental groups of three-dimensional spherical space forms as a generalization of the Poincar\u00e9 conjecture to the non-simply connected case. ==Status== The conjecture is implied by Thurston's geometrization conjecture, which was proven by Grigori Perelman in 2003. The conjecture was independently proven for groups whose actions have fixed points\u2014this special case is known as the Smith conjecture. It is also proven for various groups acting without fixed points, such as cyclic groups whose orders are a power of two (George Livesay, Robert Myers) and cyclic groups of order 3 (J. Hyam Rubinstein). ==See also== *Killing\u2013Hopf theorem ==References== Category:Conjectures that have been proved Category:Geometric topology ",
+    "title": "Spherical space form conjecture"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "41646",
+    "text": "Refractive index contrast, in an optical fiber, is a measure of the relative difference in refractive index of the core and cladding. The refractive index contrast of an optical fibre, \u0394, is typically given by \u0394 = (n12\\- n22)/(2n12), where n1 is the maximum refractive index in the core and n2 is the refractive index of the homogeneous cladding. Normal optical fibers have very low refractive index contrast(\u0394<<1)hence are weakly guided medium. The weak guiding will cause more of the Electrical field to \"leak\" and travel through the cladding(as evanescent waves) as compared to the strongly guided wave guides. The refractive index for core is greater than that of cladding. ==References== * Category:Fiber optics Category:Refraction ",
+    "title": "Refractive index contrast"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "46178836",
+    "text": "BeatRoot is an audio beat tracking and modelling application. In 2006, it won the MIREX prize. The application is written in Linux/C++, with a Java-based user interface. The code is open source. BeatRoot accepts file input in either digital audio or MIDI format. uses two simultaneous processes to model the rhythm of a piece of music, one to establish the tempo of the piece and one to sychronise a beat to the music. Since these two processes may at times be at odds, a system of multiple agents model their respective results and arrive at an optimum solution for the music being studied. ==See also== * List of music software ==References== Homepage: http://www.eecs.qmul.ac.uk/~simond/beatroot/ Category:Music software ",
+    "title": "BeatRoot"
+}

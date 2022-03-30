@@ -1,0 +1,5 @@
+{
+    "id": "52880829",
+    "text": "As a natural generalization of the fractional Schr\u00f6dinger equation, the variable-order fractional Schr\u00f6dinger equation has been exploited to study fractional quantum phenomena A. Bhrawy and M. Zaky, \" An improved collocation method for multi-dimensional space-time variable-order fractional Schr\u00f6dinger equations\u201d, Applied Numerical Mathematics, Volume 111, January 2017, Pages 197\u2013218 :i\\hbar \\frac{\\partial \\psi^{\\alpha(\\mathbf{r})} (\\mathbf{r},t)}{\\partial t^{\\alpha(\\mathbf{r})} }= (-\\hbar^2\\Delta )^{\\frac{\\beta(t)}{2}}\\psi (\\mathbf{r},t)+V(\\mathbf{r},t)\\psi (\\mathbf{r},t). where is the Laplace operator and the operator (\u2212\u01272\u0394)\u03b2 (t)/2 is the variable- order fractional quantum Riesz derivative. ==References== Category:Schr\u00f6dinger equation ",
+    "title": "Variable-order fractional Schr\u00f6dinger equation"
+}

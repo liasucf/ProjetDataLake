@@ -1,0 +1,5 @@
+{
+    "id": "9098647",
+    "text": "Serial Bus Protocol 2 (SBP-2) standard is a transport protocol within Serial Bus, IEEE Std 1394-1995 (also known as FireWire or i.Link), developed by T10.Serial Bus Protocol 2 (SBP-2) Draft, revision 4 Original work on Serial Bus Protocol started as an attempt to adapt SCSI to IEEE Std 1394-1995 serial interface. Later on it was recognized that SBP-2 may have more general use, and the work on the standard was targeted to provide generic framework for delivery of commands, data and status between Serial Bus peripherals. ==See also== * IEEE 1394 * DMA attack * USB ==References== ==External links== * An overview Category:IEEE standards ",
+    "title": "Serial Bus Protocol 2"
+}

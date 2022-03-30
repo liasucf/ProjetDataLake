@@ -1,0 +1,5 @@
+{
+    "id": "1273016",
+    "text": "In the main type of anagram dictionary, the letters in words or phrases are rearranged in alphabetical order, and these transpositions are themselves then ordered alphabetically within word-length groups, so that any words consisting of this group of letters can be found. This arrangement is designed for use in solving word puzzles such as crosswords, or for playing games such as Scrabble. The first such anagram dictionary was The Crossword Anagram Dictionary by R.J. Edwards In the other kind of anagram dictionary, words are categorized into equivalence classes that consist of words with the same number of each kind of letter. Thus words will only appear when other words can be made from the same letters. Anagram dictionaries were formerly produced by hand, but can now be trivially generated from any machine-readable word list by computer, for example, by the Internet Anagram Server and this Scrabble Word Finder, by sorting words in order of their sorted letter- strings. ==References== Category:Dictionaries by type ",
+    "title": "Anagram dictionary"
+}

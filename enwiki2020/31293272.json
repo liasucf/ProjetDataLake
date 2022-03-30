@@ -1,0 +1,5 @@
+{
+    "id": "31293272",
+    "text": "The charged-device model (CDM) is a model for characterizing the susceptibility of an electronic device to damage from electrostatic discharge (ESD). The model is an alternative to the human-body model (HBM). Devices that are classified according to CDM are exposed to a charge at a standardized voltage level, and then tested for survival. If it withstands this voltage level, it is tested at the next level and so on, until the device fails. CDM is standardized as ANSI/ESDA/JEDEC joint standard JS-002. ==See also== * Human-body model * Transmission-line pulse == External links == * JEDEC standard JS-002-2014, ESDA/JEDEC Joint Standard for Electrostatic Discharge Sensitivity Testing - Charged Device Model (CDM) - Device Level Category:Electrical breakdown Category:Electrical safety Category:Electrostatics Category:Plasma physics ",
+    "title": "Charged-device model"
+}

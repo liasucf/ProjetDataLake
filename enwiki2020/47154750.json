@@ -1,0 +1,5 @@
+{
+    "id": "47154750",
+    "text": "The zero lag exponential moving average (ZLEMA) indicator was created by John Ehlers and Ric Way. As is the case with the double exponential moving average (DEMA) and the triple exponential moving average (TEMA) and as indicated by the name, the aim is to eliminate the inherent lag associated to all trend following indicators which average a price over time. The formula for a given N-Day period and for a given data series is: :\\begin{align} \\textit{Lag} &= \\frac{Period - 1}{2} \\\\\\ \\textit{EmaData} &= \\textit{Data}+(\\textit{Data} - \\textit{Data}(\\text{Lag days ago})) \\\\\\ \\textit{ZLEMA} &= \\textit{EMA}(\\textit{EmaData}, \\textit{Period}) \\end{align} The idea is do a regular exponential moving average (EMA) calculation but on a de-lagged data instead of doing it on the regular data. Data is de-lagged by removing the data from \"lag\" days ago thus removing (or attempting to) the cumulative effect of the moving average. ==References== ==External links== Category:Technical indicators ",
+    "title": "Zero lag exponential moving average"
+}

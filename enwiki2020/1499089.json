@@ -1,0 +1,5 @@
+{
+    "id": "1499089",
+    "text": "In mathematics, Hardy's theorem is a result in complex analysis describing the behavior of holomorphic functions. Let f be a holomorphic function on the open ball centered at zero and radius R in the complex plane, and assume that f is not a constant function. If one defines :I(r) = \\frac{1}{2\\pi} \\int_0^{2\\pi}\\\\! \\left| f(r e^{i\\theta}) \\right| \\,d\\theta for 0< r < R, then this function is strictly increasing and is a convex function of \\log r. ==See also== * Maximum principle * Hadamard three-circle theorem ==References== * John B. Conway. (1978) Functions of One Complex Variable I. Springer-Verlag, New York, New York. Category:Theorems in complex analysis ",
+    "title": "Hardy's theorem"
+}

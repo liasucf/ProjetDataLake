@@ -1,0 +1,5 @@
+{
+    "id": "7849795",
+    "text": "In cryptography, Mercy is a tweakable block cipher designed by Paul Crowley for disk encryption. The block size is 4096 bits\u2014unusually large for a block cipher, but a standard disk sector size. Mercy uses a 128-bit secret key, along with a 128-bit non-secret tweak for each block. In disk encryption, the sector number would be used as a tweak. Mercy uses a 6-round Feistel network structure with partial key whitening. The round function uses a key-dependent state machine which borrows some structure from the stream cipher WAKE, with key-dependent S-boxes based on the Nyberg S-boxes also used in AES. Scott Fluhrer has discovered a differential attack that works against the full 6 rounds of Mercy. This attack can even be extended to a seven-round variant. ==References== Category:Broken block ciphers Category:Feistel ciphers ",
+    "title": "Mercy (cipher)"
+}

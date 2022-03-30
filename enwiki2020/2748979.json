@@ -1,0 +1,5 @@
+{
+    "id": "2748979",
+    "text": "Rotated quadrifolium Quadrifolium created with gears The quadrifolium (also known as four-leaved cloverC G Gibson, Elementary Geometry of Algebraic Curves, An Undergraduate Introduction, Cambridge University Press, Cambridge, 2001, . Pages 92 and 93) is a type of rose curve with n=2. It has the polar equation: :r = |\\cos(2\\theta)|, \\, with corresponding algebraic equation :(x^2+y^2)^3 = (x^2-y^2)^2. \\, Rotated by 45\u00b0, this becomes :r = |\\sin(2\\theta)| \\, with corresponding algebraic equation :(x^2+y^2)^3 = 4x^2y^2. \\, In either form, it is a plane algebraic curve of genus zero. The dual curve to the quadrifolium is :(x^2-y^2)^4 + 837(x^2+y^2)^2 + 108x^2y^2 = 16(x^2+7y^2)(y^2+7x^2)(x^2+y^2)+729(x^2+y^2). \\, Dual quadrifolium The area inside the curve is \\tfrac 12 \\pi, which is exactly half of the area of the circumcircle of the quadrifolium. The length of the curve is about 9.6884.Quadrifolium - from Wolfram MathWorld ==Notes== ==References== * ==External links== * Interactive example with JSXGraph Category:Sextic curves ",
+    "title": "Quadrifolium"
+}

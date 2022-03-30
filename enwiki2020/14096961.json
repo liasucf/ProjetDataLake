@@ -1,0 +1,5 @@
+{
+    "id": "14096961",
+    "text": "An external memory interface is a bus protocol for communication from an integrated circuit, such as a microprocessor, to an external memory device located on a circuit board. The memory is referred to as external because it is not contained within the internal circuitry of the integrated circuit and thus is externally located on the circuit board. The external memory interface enables the processor to interface with third level caches, peripherals, and external memory.About the external memory interface Some common external memory interfaces include: * DDR * DDR2 * GDDR == References == Category:Computer memory ",
+    "title": "External memory interface"
+}

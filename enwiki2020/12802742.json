@@ -1,0 +1,5 @@
+{
+    "id": "12802742",
+    "text": "In mathematics, a Jaffard ring is a type of ring, more general than a Noetherian ring, for which Krull dimension behaves as expected in polynomial extensions. They are named for Paul Jaffard who first studied them in 1960. Formally, a Jaffard ring is a ring R such that the polynomial ring :\\dim R[T_1,\\ldots,T_n] = n + \\dim R, \\, where \"dim\" denotes Krull dimension. A Jaffard ring that is also an integral domain is called a Jaffard domain. The Jaffard property is satisfied by any Noetherian ring R, and examples of non- Noetherian rings might appear to be quite difficult to find, however they do arise naturally. For example, the ring of (all) algebraic integers, or more generally, any Pr\u00fcfer domain. Another example is obtained by \"pinching\" formal power series at the origin along a subfield of infinite extension degree, such as the example given in 1953 by Abraham Seidenberg: the subring of :\\overline{\\mathbf{Q}} T consisting of those formal power series whose constant term is rational. ==References== * * * ==External links== * Category:Ring theory ",
+    "title": "Jaffard ring"
+}

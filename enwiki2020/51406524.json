@@ -1,0 +1,5 @@
+{
+    "id": "51406524",
+    "text": "KFRlib is an open-source cross-platform C++ DSP framework written in C++. It is covered by a dual GPL/commercial license. == Official support == ===Supported platforms=== KFR is supported on the following platforms.List of tested compilers * Mac OS X * Linux * Microsoft Windows * iOS * Android ===Supported compilers=== * Xcode 6.3 and later * Clang 3.6 and later * Visual Studio 2015 using LLVM-vs2014 toolkit ==Features== * Optimized for ARM NEON,Version 1.0 Release notes SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2 instruction sets * Fast Fourier transform * Convolution * Finite impulse response filters * Infinite impulse response filters * Digital biquad filter * Sample rate conversion * Window function * Goertzel algorithm * Digital delay line * Pseudorandom number generator * SIMD versions of many C mathematical functions == References == == External links == * Official website * Category:C++ Category:C++ libraries Category:Multimedia software * ",
+    "title": "KFRlib"
+}

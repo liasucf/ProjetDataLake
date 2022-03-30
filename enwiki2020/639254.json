@@ -1,0 +1,5 @@
+{
+    "id": "639254",
+    "text": "Sacix is a Debian Pure Blend originally created to support the educational and free software diffusion goals of the Telecentres project of the city of S\u00e3o Paulo, Brazil. Sacix is now being used in different projects with similar goals, basically because its main feature is an integrated LTSP-based solution with a profile for each project (login screen, wallpaper, pre-selected software) that provides a ready GNOME desktop to multiple thin clients, right after install. The project is currently supported by an NGO called RITS with the help of the Coletivo Digital (\"digital collective\"), who were part of the original development team in S\u00e3o Paulo and volunteer developers. == Release history == * 1.0 - Tuiui\u00fa, 2003 * 2.0 - Tamandu\u00e1, 2004 * 3.0 - Jaguatirica, 2005 * 5.11 - Arara, November 3, 2005 == External links == === Project resources === *Sacix (new official website) === Miscellaneous === *RITS *Coletivo Digital *S\u00e3o Paulo Telecentres Project homepage Category:Debian- based distributions ",
+    "title": "Sacix"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "46899907",
+    "text": "In Air Traffic Management, \"ATM-grade\" or \"ATM grade\" defines a system or solution that fulfills certain requirements so that it can be used within the Air Traffic Management environment. Those requirements cover for example aspects of * reliability: certain applications require \"six nines\" availability. An ATM-grade solution has to offer end-to-end availability of up to at least 99,9999% availability. * well tested and documented: the European Air Traffic Management industry requires equipment to be developed according to specific standards and guidelines (e.g., ED-153 ) that allow a safety certification. Therefore, an ATM-grade solution needs to be implemented according to ED-153. The term has been coined by EUROCONTROL to clearly state the advanced requirements of Air Traffic Management to ensure flight safety. ==References== Category:Air traffic management ",
+    "title": "ATM-grade"
+}

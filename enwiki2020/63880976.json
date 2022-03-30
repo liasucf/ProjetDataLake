@@ -1,0 +1,5 @@
+{
+    "id": "63880976",
+    "text": "Bitsquatting is a form of cybersquatting which relies on bit-flip errors that occur during the process of making a DNS request. These bit-flips may occur due to factors such as faulty hardware or cosmic rays. When such an error occurs, the user requesting the domain may be directed to a website registered under a domain name similar to a legitimate domain, except with one bit flipped in their respective binary representations. A 2011 Black Hat paper detailed an analysis where eight legitimate domains were targeted with thirty one bitsquat domains. Over the course of one day, 3,434 requests were made to bitsquat domains. ==References== Category:Domain Name System Category:Types of cyberattacks Category:Network addressing Category:URL ",
+    "title": "Bitsquatting"
+}

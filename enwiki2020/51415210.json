@@ -1,0 +1,5 @@
+{
+    "id": "51415210",
+    "text": "In probability theory, Bienaym\u00e9's identity states that :\\operatorname{Var}(S_n) = \\sum_{k=1}^n \\operatorname{Var}(X_k), where X_1, \\ldots, X_n are pairwise independent integrable random variables with finite second moments and S_n = \\sum_{k=1}^n X_k. Bienaym\u00e9's identity may be used in proving certain variants of the law of large numbers. == References == Category:Algebra of random variables ",
+    "title": "Bienaym\u00e9's identity"
+}

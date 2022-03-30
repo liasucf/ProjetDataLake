@@ -1,0 +1,5 @@
+{
+    "id": "643800",
+    "text": "Monolithic system can have different meanings in the contexts of computer software and hardware. ==In software== A software system is called \"monolithic\" if it has a monolithic architecture, in which functionally distinguishable aspects (for example data input and output, data processing, error handling, and the user interface) are all interwoven, rather than containing architecturally separate components. ==In hardware== An electronic hardware system, such as a multi-core processor, is called \"monolithic\" if its components are integrated together in a single integrated circuit. Note that such a system may consist of architecturally separate componentsin a multi- core system, each core forms a separate componentas long as they are realized on a single die. ==References== == See also == * Monolithic application Category:Software architecture ",
+    "title": "Monolithic system"
+}

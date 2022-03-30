@@ -1,0 +1,5 @@
+{
+    "id": "1488264",
+    "text": "Akelarre is a block cipher proposed in 1996, combining the basic design of IDEA with ideas from RC5. It was shown to be susceptible to a ciphertext-only attack in 1997. Akelarre is a 128-bit block cipher with a variable key-length which must be some multiple of 64 bits. The number of rounds is variable, but four are suggested. The round function of Akelarre is similar to IDEA in structure. After the successful cryptanalysis of Akelarre, its designers responded with an updated variant called Ake98. This cipher differs from the original Akelarre in the new AR-box (addition\u2013rotation box), the swapping of words at the end of a round, and the addition of subkeys at the beginning of each round. In 2004, Jorge Nakahara, Jr. and Daniel Santana de Freitas found large classes of weak keys for Ake98. These weak keys allow a cryptanalysis faster than exhaustive search using only 71 known plaintexts, for up to 11.5 rounds of Ake98. ==References== * * * * * Category:Broken block ciphers ",
+    "title": "Akelarre (cipher)"
+}

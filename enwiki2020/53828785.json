@@ -1,0 +1,5 @@
+{
+    "id": "53828785",
+    "text": "In the area of mathematics known as graph theory, a tree is said to be starlike if it has exactly one vertex of degree greater than 2\\. This high- degree vertex is the root and a starlike tree is obtained by attaching at least three linear graphs to this central vertex. == Properties == Two finite starlike trees are isospectral, i.e. their graph Laplacians have the same spectra, if and only if they are isomorphic.M. Lepovic, I. Gutman (2001). No starlike trees are cospectral. ==References== ==External links == * * Category:Trees (graph theory) Category:Spectral theory ",
+    "title": "Starlike tree"
+}

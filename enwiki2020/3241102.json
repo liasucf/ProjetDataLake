@@ -1,0 +1,5 @@
+{
+    "id": "3241102",
+    "text": "HP 9000 C360 displaying dtlogin dtlogin is a display manager for the X Window System. It is typically found on Unix and Unix-like computer systems running The Open Group's Common Desktop Environment (CDE) desktop environment. It allows users to log into a local system; it can also handle remote XDMCP requests. This is still the default display manager for Solaris 10 even though CDE is no longer the default desktop environment, having been replaced by the Java Desktop System, a modification of GNOME. It can also start other environments like KDE, Xfce or Window Maker. ==See also== * Other display managers Category:X display managers ",
+    "title": "Dtlogin"
+}

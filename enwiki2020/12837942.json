@@ -1,0 +1,5 @@
+{
+    "id": "12837942",
+    "text": "The Fermi filter is a common image processing filter that uses the Fermi-Dirac distribution in the Frequency domain to perform a low-pass filter or high-pass filter similar to a Gaussian blur, but the harshness can be scaled. == References == * Spider doc for using Fermi filter in cryoEM Category:Image processing ",
+    "title": "Fermi filter"
+}

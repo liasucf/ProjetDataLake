@@ -1,0 +1,5 @@
+{
+    "id": "60252975",
+    "text": "A modular computer network switch is a computer network switch which can be modified using field-replaceable units after they are acquired. Modular network switches give network operators more flexibility as the network requirements change. They also allow the switches to be serviced on the operator site. Some components which can usually be added or replaced are : # Additional network interfaces using line cards # Power supplies # Cooling fans Modular switches may have a supervisor module which controls the operation of other components and one or more line cards that add additional functionality to the switch ==See also== * Network switch * Catalyst 6500 * Stackable switch ==References== == Further reading == * Examples of Network Equipment, University of Aberdeen Internet Communications Engineering Course, 2019. * Introducing Backpack: Our second-generation modular open switch, Facebook Backpack introduction Category:Computing/Computer Hardware task force articles needing expert attention Category:Networking hardware ",
+    "title": "Modular computer network switch"
+}

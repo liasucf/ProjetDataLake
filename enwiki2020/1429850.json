@@ -1,0 +1,5 @@
+{
+    "id": "1429850",
+    "text": "NTLMSSP (NT LAN Manager (NTLM) Security Support Provider) is a binary messaging protocol used by the Microsoft Security Support Provider Interface (SSPI) to facilitate NTLM challenge-response authentication and to negotiate integrity and confidentiality options. NTLMSSP is used wherever SSPI authentication is used including Server Message Block / CIFS extended security authentication, HTTP Negotiate authentication (e.g. IIS with IWA turned on) and MSRPC services. The NTLMSSP and NTLM challenge-response protocol have been documented in Microsoft's Open Protocol Specification. MS-NLMP - NT LAN MANAGER (NTLM) Authentication Protocol Specification == References == Category:Microsoft Windows security technology Category:Computer access control protocols ",
+    "title": "NTLMSSP"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "41373",
+    "text": "In fiber optics, the mode field diameter (MFD) is a measure of the width of an irradiance distribution, i.e., the optical power per unit area, across the end face of a single-mode fiber. It is similar to the 1/e^2 measure of beam diameter. The mode field diameter is defined as the distance from the center at which the electric and magnetic field strengths are reduced to 1/e of their maximum values. Since the intensity (given by the Poynting vector) is proportional to the square of the field amplitude, the MFD is also the distance at which the intensity drops by 1/e^2 = 0.135 or -8.69 dB. For a Gaussian distribution, the mode field diameter is twice the standard deviation of the intensity. The MFD is typically slightly larger than the core of an optical fiber extending slightly into the cladding. Types of Optical Fiber ==See also== * Beam diameter ==References== ==External links== * Mode Radius on the Encyclopedia of Laser Physics and Technology Category:Fiber optics ",
+    "title": "Mode field diameter"
+}

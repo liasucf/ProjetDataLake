@@ -1,0 +1,5 @@
+{
+    "id": "9151146",
+    "text": "A wavefront curvature sensor is a device for measuring the aberrations of an optical wavefront. Like a Shack\u2013Hartmann wavefront sensor it uses an array of small lenses (or lenslets) to focus the wavefront into an array of spots. Unlike the Shack-Hartmann, which measures the position of the spots, the curvature sensor measures the intensity on either side of the focal plane. If a wavefront has a phase curvature, it will alter the position of the focal spot along the axis of the beam, thus by measuring the relative intensities in two places the curvature can be deduced. ==See also== * Adaptive optics * Wavefront sensor ==Sources== * * Category:Sensors Category:Optics Category:Optical metrology ",
+    "title": "Wavefront curvature sensor"
+}

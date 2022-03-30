@@ -1,0 +1,5 @@
+{
+    "id": "41717",
+    "text": "The S interface or S reference point, also known as S0, is a user\u2013network interface reference point for basic rate access in an Integrated Services Digital Network (ISDN) environment, that * is characterized by a four-wire circuit, 144kbit/s (2 bearer and 1 signaling channel; 2B+D) user rate, * serves as a universal interface between ISDN terminals or terminal adapters and the network channel termination, * allows a variety of terminal types and subscriber networks, such as PBXs, local area networks (LANs), and controllers, to be connected to the network, and * operates at 4000 48-bit frames per second; i.e., 192kbit/s, with a user portion of 36bits per frame; i.e., 144kbit/s., Entry \"S interface\" The S interface is electrically equivalent to the T interface, and the two are jointly referred to as the S/T interface. ==See also== * R interface * T interface * U interface ==References== Category:ITU-T recommendations Category:Integrated Services Digital Network ",
+    "title": "S interface"
+}

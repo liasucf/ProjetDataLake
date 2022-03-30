@@ -1,0 +1,5 @@
+{
+    "id": "521815",
+    "text": "D channel (delta channel) is a telecommunications term which refers to the ISDN channel in which the control and signalling information is carried. The bit rate of the D channel of a basic rate interface is 16 kbit/s, whereas it amounts to 64 kbit/s on a primary rate interface. For DSS1 signalling, the D channel layer 2 protocol is Q.921 also called LAPD and it carries Layer 3 messages according to Q.931 protocol. ==See also== * B channel * H channel Category:Integrated Services Digital Network ",
+    "title": "D channel"
+}

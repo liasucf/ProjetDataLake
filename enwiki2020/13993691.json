@@ -1,0 +1,5 @@
+{
+    "id": "13993691",
+    "text": "In mathematics, Grothendieck's connectedness theorem (, ) states that if A is a complete Noetherian local ring whose spectrum is k-connected and f is in the maximal ideal, then Spec(A/fA) is (k \u2212 1)-connected. Here a Noetherian scheme is called k-connected if its dimension is greater than k and the complement of every closed subset of dimension less than k is connected. (). It is a local analogue of Bertini's theorem. ==References== * * Category:Theorems in algebraic geometry ",
+    "title": "Grothendieck's connectedness theorem"
+}

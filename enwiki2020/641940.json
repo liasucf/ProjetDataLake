@@ -1,0 +1,5 @@
+{
+    "id": "641940",
+    "text": "In computing, a GLX visual is a set of attributes that define a mode in which OpenGL programs can write to an X window with GLX. A list of GLX visuals can be found with the command \"glxinfo\". Programs can get a GLX visual matching the desired properties with `glXChooseVisual`. In principle, a GLX visual is an X visual augmented with ancillary buffer information. An error message that has puzzled many an X user is \"Couldn't find matching GLX visual\" (or similar) -- it means that the program tried to use a GLX visual that was not available on that X server. A possible solution is to change the color depth to something that supports the requested capabilities. == See also == *X visual == External links == * GLX visuals Category:X-based libraries ",
+    "title": "GLX visual"
+}

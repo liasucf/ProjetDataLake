@@ -1,0 +1,5 @@
+{
+    "id": "60266373",
+    "text": "DBOMP (Database Organization and Maintenance Processor) was an early hierarchical database system from IBM for DOS. DBOMP was introduced in the late 1960s as a successor to IBM's \"Bill of Materials Processor\" called BOMP, introduced in 1961. DBOMP stored records on disk and was generalized beyond bill of materials. There is some disagreement as to whether DBOMP should be called a hierarchical or a network database. The structure of DBOMP databases limited its use to CKD disk drives with no more than 511 cylinders. The structure of DBOMP files heavily influenced later databases such as Cincom's Total. ==References== Category:Proprietary database management systems Category:Structured storage Category:NoSQL Category:IBM mainframe software ",
+    "title": "DBOMP"
+}

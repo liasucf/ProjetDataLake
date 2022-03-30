@@ -1,0 +1,5 @@
+{
+    "id": "5732549",
+    "text": "thumb|right|Gingerbreadman map for subset Q^2, [-10..10,-10..10]: the color of each point is related to the relative orbit period. To view the gingerbread man, you must rotate the image 135 degrees clockwise. In dynamical systems theory, the Gingerbreadman map is a chaotic two-dimensional map. It is given by the piecewise linear transformation:. See in particular Fig. 3.3. : \\begin{cases} x_{n+1} = 1 - y_n + |x_n|\\\\\\ y_{n+1} = x_n \\end{cases} ==See also== * List of chaotic maps ==References== ==External links== * Category:Chaotic maps Category:Exactly solvable models ",
+    "title": "Gingerbreadman map"
+}

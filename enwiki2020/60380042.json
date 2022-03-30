@@ -1,0 +1,5 @@
+{
+    "id": "60380042",
+    "text": "Liquid Haskell is a program verifier for Haskell which allows developers to specify correctness properties by using refinement types. Properties are verified using an SMTLIB2-compliant SMT solver, such as the Z3 Theorem Prover. ==See also== * Formal verification ==References== * * ==Further reading== * * ==External links== * Category:Formal methods tools Category:Static program analysis tools Category:Type systems ",
+    "title": "Liquid Haskell"
+}

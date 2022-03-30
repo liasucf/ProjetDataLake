@@ -1,0 +1,5 @@
+{
+    "id": "17287701",
+    "text": "The WIEN2k package is a computer program written in Fortran which performs quantum mechanical calculations on periodic solids. It uses the full-potential (linearized) augmented plane-wave and local-orbitals [FP-(L)APW+lo] basis set to solve the Kohn-Sham equations of density functional theory. WIEN2k was originally developed by Peter Blaha and Karlheinz Schwarz from the Institute of Materials Chemistry of the Vienna University of Technology. The first public release of the code was done in 1990. Then, the next releases were WIEN93, WIEN97, and WIEN2k. == See also == *List of quantum chemistry and solid state physics software ==References== == External links == *WIEN2k homepage Category:Computational chemistry software Category:Density functional theory software Category:Physics software ",
+    "title": "WIEN2k"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "1498921",
+    "text": "The Blitzen was a miniaturized SIMD (single instruction, multiple data) computer system designed for NASA in the late 1980s by a team of researchers at Duke University, North Carolina State University and the Microelectronics Center of North Carolina. The Blitzen was composed of a control unit and a set of simple processors connected in a grid topology. The machine influenced, to some extent, the design of the MasPar MP-1 computer. Applications of the Blitzen machine include high-speed image processing, where each processor operates on a pixel of the input image and communicates with its grid neighbours to apply image processing filters on the image. ==References== Category:Classes of computers Category:SIMD computing ",
+    "title": "Blitzen (computer)"
+}

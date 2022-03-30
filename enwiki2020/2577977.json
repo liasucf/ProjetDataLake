@@ -1,0 +1,5 @@
+{
+    "id": "2577977",
+    "text": "The Intel Performance Acceleration Technology (PAT) is technology built onto Intel i875 Canterwood mainboards and other Pentium 4 based motherboards that based on the Intel D875PBZ reference board. Performance Acceleration Technology delivers additional system-level performance by optimizing memory access between CPU and system memory, allowing increased performance to be exhibited at standard operating specification. There are three types of Performance Mode: Disabled, Partially enabled, and fully Enabled.www.devhardware.com/forums/memory-35/performance-mode-114624.html There may be BIOS settings that affect this parameter. The PAT status is reported by some versions of Memtest86 and CPU-Z, and at boot time by Dell motherboards. Asus managed to turn this same feature on, on their 865PE chipset based boards but called it \"Memory Acceleration Mode\" (MAM) to avoid infringement issues. == References == * * Category:Computer hardware tuning Category:Intel products ",
+    "title": "Performance acceleration technology"
+}

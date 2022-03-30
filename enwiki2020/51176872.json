@@ -1,0 +1,5 @@
+{
+    "id": "51176872",
+    "text": "`read` is a command found on Unix and Unix-like operating systems such as Linux. It reads a line of input from standard input or a file passed as an argument to its `-u` flag, and assigns it to a variable. In Unix shells, like Bash, it is present as a shell built in function, and not as a separate executable file. ==References== Category:Standard Unix programs Category:Unix process- and task-management-related software ",
+    "title": "Read (Unix)"
+}

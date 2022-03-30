@@ -1,0 +1,5 @@
+{
+    "id": "12885890",
+    "text": "In mathematics, a toric manifold is a topological analogue of toric variety in algebraic geometry. It is an even-dimensional manifold with an effective smooth action of an n-dimensional compact torus which is locally standard with the orbit space a simple convex polytope... The aim is to do combinatorics on the quotient polytope and obtain information on the manifold above. For example, the Euler characteristic and the cohomology ring of the manifold can be described in terms of the polytope. ==The Atiyah and Guillemin-Sternberg theorem== This theorem states that the image of the moment map of a Hamiltonian toric action is the convex hull of the set of moments of the points fixed by the action. In particular, this image is a convex polygon ==References== Category:Structures on manifolds Category:Manifolds Category:Topology ",
+    "title": "Toric manifold"
+}

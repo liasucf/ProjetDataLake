@@ -1,0 +1,5 @@
+{
+    "id": "46836089",
+    "text": "In mathematical group theory, the Thompson replacement theorem is a theorem about the existence of certain abelian subgroups of a p-group. The Glauberman replacement theorem is a generalization of it introduced by . ==Statement== Suppose that P is a finite p-group for some prime p, and let A be the set of abelian subgroups of P of maximal order. Suppose that B is some abelian subgroup of P. The Thompson replacement theorem says that if A is an element of A that normalizes B but is not normalized by B, then there is another element A* of A such that A*\u2229B is strictly larger than A\u2229B, and [A*,A] normalizes A. The Glauberman replacement theorem is similar, except p is assumed to be odd and the condition that B is abelian is weakened to the condition that [B,B] commutes with B and with all elements of A. Glauberman says in his paper that he does not know whether the condition that p is odd is necessary. ==References== * * * Category:Finite groups Category:Theorems in group theory ",
+    "title": "Replacement theorem"
+}

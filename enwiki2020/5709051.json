@@ -1,0 +1,5 @@
+{
+    "id": "5709051",
+    "text": "gameswf (pronounced \"game swiff\") is an open-source public domain library for parsing and rendering SWF movies, using 3D hardware APIs for rendering. It is designed to be used as a UI library for video games. It is written in C++, and compiles under Microsoft Windows, OS X, Linux, iOS and Android, using GCC and MSVC. It includes code for rendering with OpenGL ES. The rendering module is factored out so that the code can be ported to other APIs. gameswf is used by other open source projects such as Gnash. It is also used in Oddworld: Stranger's Wrath and many Gameloft games to display user interface screens and menus such as the player's inventory. gameswf is a prototype of Scaleform, advanced cross-platform GUI solution. ==References== ==External links== * gameswf project homepage * Realtime video compositing software using gameswf Category:Adobe Flash Category:Free software programmed in C++ Category:Graphics-related software for Linux Category:MacOS graphics software Category:MacOS programming tools Category:Public-domain software with source code Category:Windows graphics-related software ",
+    "title": "Gameswf"
+}

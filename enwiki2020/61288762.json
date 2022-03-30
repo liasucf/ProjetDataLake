@@ -1,0 +1,5 @@
+{
+    "id": "61288762",
+    "text": "u-CARE otherwise known as user-friendly Comprehensive Antibiotic resistance Repository of Escherichia coli is a database focused on the documentation of multi-drug resistant Escherichia coli (E.coli). This database aims to provide a tool that is easily accessible to researchers unfamiliar with bioinformatics and to medical practitioners as a reference for which antibiotic to use/not use in the treatment of an E.coli infection. u-CARE is manually curated with 52 antibiotics, 107 genes, transcription factors, and SNP. Information provided include resistance mechanism for the gene and summary, chemical description, and structural descriptions for the antibiotic. On the antibiotic page, there is an external link linking to public databases like GO, CDD, Ecocyc, DEG, KEGG, DrugBank, Pubchem and Uniprot. u-CARE can be accessed at http://www.e-bioinformatics.net/ucare.. == See also == * Antimicrobial Resistance databases == References == Category:Biological databases ",
+    "title": "U-CARE"
+}

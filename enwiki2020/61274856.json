@@ -1,0 +1,5 @@
+{
+    "id": "61274856",
+    "text": "In game theory, asynchrony occurs when gameplay does not proceed in consistently paced rounds. A system is synchronous if agents in a game move in lockstep according to a global timing system, whereas \"in an asynchronous system, there is no global clock. The agents in the system can run at arbitrary rates relative to each other.\"Halpern, J. Y. (2003). A computer scientist looks at game theory. Games and Economic Behavior, 45(1), p. 120 ==External Links== Abraham, I., Alvisi, L., & Halpern, J. Y. (2011). Distributed computing meets game theory: combining insights from two fields. Acm Sigact News, 42(2), 69-76. Ben-Or, M. (1983). Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols. In Proc. 2nd ACM Symp. on Principles of Distributed Computing, pp. 27\u201330. == References == Category:Game theory ",
+    "title": "Asynchrony (game theory)"
+}

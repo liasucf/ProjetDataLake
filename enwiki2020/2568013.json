@@ -1,0 +1,5 @@
+{
+    "id": "2568013",
+    "text": "A metafile is a file format that can store multiple types of data such as graphics file formats . These graphics files can contain raster, vector, and type data. A common use for these files is to provide support for an operating system's computer graphics; e.g., Microsoft Windows uses Windows Metafile, and Mac OS X uses PDF. Some examples: *(PICT) Macintosh PICT resource, superseded by PDF in Mac OS X *(WMF) Windows Metafile = (EMF) Enhanced Metafile *(EPS) Encapsulated PostScript *(CGM) Computer Graphics Metafile *(PDF) Portable Document Format *(CDR) Corel Draw File *(SVG) Scalable Vector Graphics *(WPG) Word Perfect Graphics File *(RTF) Rich Text Format file == See also == * Digital container format * NTFS#Metafiles Category:Computer file formats ",
+    "title": "Metafile"
+}

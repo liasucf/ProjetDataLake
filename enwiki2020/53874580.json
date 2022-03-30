@@ -1,0 +1,5 @@
+{
+    "id": "53874580",
+    "text": "A metadata engine collects, stores and analyzes information about data and metadata (data about data) in use within a domain. It virtualizes the view of data for an application by separating the data (physical) path from the metadata (logical) path so that data management can be performed independently of where the data physically resides. This expands the domain beyond a single storage device to span all devices within its namespace. The main use of a metadata engine is to enable flexible IT infrastructure or environments, by making applications more storage aware and conversely, a storage device application\u2014or data\u2014aware. ==Purpose== Metadata engines virtualize the view of data. Combined with client access protocols such as NFS v4.2 and SMB 2.1 or SMB 3.0 (Samba), a metadata engine can create a global namespace to allow applications to see a logical view of their data, and can orchestrate data movement between different types or tiers of storage without disrupting the application\u2019s access to its data. ==References== Category:Metadata registry ",
+    "title": "Metadata engine"
+}

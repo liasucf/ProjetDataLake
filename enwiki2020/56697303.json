@@ -1,0 +1,5 @@
+{
+    "id": "56697303",
+    "text": "A separating equilibrium describes one type of perfect Bayesian equilibria that may arise in signaling games. The simplest example of such signaling games involves two players, who each take an action in sequence. The first player is privately informed with some payoff-relevant information, which is unavailable to the second player. After the first player acts, the second player chooses an action after observing the first player's action. A separating equilibrium is an equilibrium where the first player's action fully reveals her private information. Equivalently, in such an equilibrium, the first player's action is different for different private information. == See also == *Signaling games *Pooling equilibrium *Cheap talk Category:Game theory game classes ",
+    "title": "Separating equilibrium"
+}

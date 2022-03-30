@@ -1,0 +1,5 @@
+{
+    "id": "41854",
+    "text": "In open systems, a virtual terminal (VT) is an application service that: # Allows host terminals on a multi-user network to interact with other hosts regardless of terminal type and characteristics, # Allows remote log-on by local area network managers for the purpose of management, # Allows users to access information from another host processor for transaction processing, # Serves as a backup facility. PuTTY is an example of a virtual terminal. ITU-T defines a virtual terminal protocol based on the OSI application layer protocols. However, the virtual terminal protocol is not widely used on the Internet. ==See also== * Pseudo terminal for the software interface that provides access to virtual terminals * Secure Shell * Telnet * Terminal emulator for an application program that provides access to virtual terminals * Virtual console for an analogous concept that provides several local consoles ==Sources== * Category:Computer terminals Category:ITU-T recommendations ",
+    "title": "Virtual terminal"
+}

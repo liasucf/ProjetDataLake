@@ -1,0 +1,5 @@
+{
+    "id": "45664376",
+    "text": "In mathematics, Ferrers functions are certain special functions defined in terms of hypergeometric functions. They are named after Norman Macleod Ferrers. == Definitions == ;Ferrers function of the first kind : P_v^\\mu(x) = \\left(\\frac{1+x}{1-x}\\right)^{\\mu/2}\\cdot\\frac{F(v+1,-v;1-\\mu;1/2-x/2)}{\\Gamma(1-\\mu)} ;Ferrers function of the second kind : Q_v^\\mu(x)= \\cos(\\mu\\pi)\\left(\\frac{1+x}{1-x}\\right)^{\\mu/2}\\frac{F(v+1,-v;1-\\mu;1/2-2/x)} {\\Gamma(1-\\mu ) } == See also == * Legendre function ==References== Category:Special functions ",
+    "title": "Ferrers function"
+}

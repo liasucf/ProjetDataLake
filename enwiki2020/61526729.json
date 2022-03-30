@@ -1,0 +1,5 @@
+{
+    "id": "61526729",
+    "text": "Sensorvault is the name of an internal Google database that contains records of users' historical geo-location data. It has been used by law enforcement to obtain a geo-fence warrant and to search for all devices within the vicinity of a crime, (within a geo-fenced area) and after looking at those devices' movements and narrowing those devices down to potential suspects or witnesses, then asking Google for the information about the owners of those devices. Members of the United States House Committee on Energy and Commerce sent a letter to Google CEO Sundar Pichai inquiring about many aspects of this database, such as what data is stored and how it is used; which affiliates and subsidiaries have access to the data or derived analytics; whether Google has other similar databases; who can access it; and whether Google sells, licenses or otherwise discloses the data to third parties in addition to law enforcement. ==References== Category:Geographic data and information Category:Internet privacy Category:Google Category:Databases ",
+    "title": "Sensorvault"
+}

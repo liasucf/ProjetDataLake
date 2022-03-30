@@ -1,0 +1,5 @@
+{
+    "id": "52799458",
+    "text": "Indexing software are computer software programs in form of application which help to build a book index. == Features == There are several methodologies for indexing: * Embedded indexing includes the index headings in the midst of the text itself, but surrounded by codes so that they are not normally displayed. A usable index is then generated automatically from the embedded text using the position of the embedded headings to determine the locators. Thus, when the pagination is changed the index can be regenerated with the new locators. * Tagging allow indexing codes to be embedded in the text after the indexing is complete. The indexer inserts numbered dummy tags in the files, and then builds the index separately * Many word processors and desktop publishing software have integrated automated indexing functions. These tools build a concordance or word lists from processed files. They have often limited usage. ==See also== * Index (publishing) ==References== Category:Book publishing Category:Book design Category:Information science Category:Publishing ",
+    "title": "Indexing software"
+}

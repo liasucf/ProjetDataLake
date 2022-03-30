@@ -1,0 +1,5 @@
+{
+    "id": "52900144",
+    "text": "The Scruton number Sc is an important parameter for vortex-induced vibration (excitation) of structures, vibrations caused by rain or wind, dry inclined cable galloping, and wake galloping, the unstable airflow that forms around bridge cables and other cylindrically-structured buildings. It is named after Christopher \"Kit\" Scruton, a British industrial dynamics engineer. It is defined by: :Sc = \\frac{2\\delta_sm_e}{\\rho b^2_\\text{ref}}, where :{| |- | \\delta_s || is the structural damping expressed by the logarithmic damping decrement, |- |m_e || is the effective mass per unit length, |- |\\rho || is the density of the air, or liquid, |- |b_\\text{ref} || is the characteristic width of the structure. |} ==References== Category:Dimensionless numbers of fluid mechanics ",
+    "title": "Scruton number"
+}

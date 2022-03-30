@@ -1,0 +1,5 @@
+{
+    "id": "9094735",
+    "text": "XAP (eXtensible Ajax Platform) is a software product presently under development at the Apache Software Foundation. XAP is an XML-based declarative framework for building interactive Ajax web applications. Developers hope to create a product that will interface with various Ajax software toolkits, reduce the need of program scripting and solve the development challenge as well as application maintenance challenges associated with Ajax programming. XAP applications are defined using the XAL programming language, which differs from available declarative user interface languages in that it also includes declarations pointing to local or http-requestable data sources. XAL also makes provision for algorithmic alteration or replacement of the initially declared interface \u2014 for example, a button or link can easily be made to add a new piece of page layout to the page, defined using either XAL or HTML. == Example == Here an example of login screen: ==External links== * Apache Incubator - XAP Category:Ajax (programming) Category:Beta software ",
+    "title": "Apache XAP"
+}

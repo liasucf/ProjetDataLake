@@ -1,0 +1,5 @@
+{
+    "id": "5705488",
+    "text": "In mathematics, a topological space is feebly compact if every locally finite cover by nonempty open sets is finite. Some facts: * Every compact space is feebly compact. * Every feebly compact paracompact space is compact. * Every feebly compact space is pseudocompact but the converse is not necessarily true. * For a completely regular Hausdorff space the properties of being feebly compact and pseudocompact are equivalent. * Any maximal feebly compact space is submaximal. Category:Compactness (mathematics) Category:Properties of topological spaces ",
+    "title": "Feebly compact space"
+}

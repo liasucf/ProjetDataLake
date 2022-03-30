@@ -1,0 +1,5 @@
+{
+    "id": "46845197",
+    "text": "ClearVolume is an open source real-time live 3D visualization library designed for high-end volumetric light sheet microscopes. ClearVolume enables the live visualization of microscope data - allowing the biologists to immediately decide whether a sample is worth imaging. ClearVolume can easily be integrated into existing Java, C/C++, Python, or LabVIEW based microscope software. It has a dedicated interface to MicroManager/OpenSpim/OpenSpin control software. ClearVolume supports multi-channels, live 3D data streaming from remote microscopes, and uses a multi-pass Fibonacci rendering algorithm that can handle large volumes. Moreover, ClearVolume is integrated into the FiJi/ImageJ2/KNIME ecosystem. ==See also== * FiJi * KNIME * Light sheet fluorescence microscopy * Volume rendering ==References== ==External links== * Website of the open source ClearVolume project with links to the wiki, code repositories and issue tracking. * ClearVolume KNIME plugin project page. * ClearVolume FiJi plugin project page. Category:Computational science Category:Bioinformatics ",
+    "title": "ClearVolume"
+}

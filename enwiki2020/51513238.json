@@ -1,0 +1,5 @@
+{
+    "id": "51513238",
+    "text": "In the mathematical area of graph theory, a contact graph or tangency graph is a graph whose vertices are represented by geometric objects (e.g. curves, line segments, or polygons), and whose edges correspond to two objects touching (but not crossing) according to some specified notion. online PDF It is similar to the notion of an intersection graph but differs from it in restricting the ways that the underlying objects are allowed to intersect each other. The circle packing theorem states that every planar graph can be represented as a contact graph of circles. The contact graphs of unit circles are called penny graphs.. See especially p. 176. Representations as contact graphs of triangles, rectangles, squares, line segments, or circular arcs. have also been studied. ==References== Category:Geometric graph theory Category:Graph families Category:Planar graphs ",
+    "title": "Contact graph"
+}

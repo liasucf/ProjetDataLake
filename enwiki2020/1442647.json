@@ -1,0 +1,5 @@
+{
+    "id": "1442647",
+    "text": "Sintran is a range of operating systems for Norsk Data's line of minicomputers. The original version of SINTRAN, released in 1968, was developed by the Department of Engineering Cybernetics at the Norwegian Institute of Technology in cooperation with the affiliated research institute, SINTEF. The OS's name is a portmanteau of SINTEF and Fortran, Fortran being the implementation language. Norsk Data itself took part in the development of Sintran II, a multi-user system that constituted the software platform for the NORD-1 range of terminal servers. By far the most common version of the OS was Sintran III, developed solely by Norsk Data and launched in 1974. This real- time multitasking system was used for Norsk Data's server machines (such as the Nord-10, -100) for the remainder of the company's lifetime, i.e. until 1992. ==See also== *Sintran III Category:Fortran software Category:Proprietary operating systems Category:Norsk Data software ",
+    "title": "Sintran"
+}

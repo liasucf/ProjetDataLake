@@ -1,0 +1,5 @@
+{
+    "id": "61728386",
+    "text": "In abstract algebra, Krull's separation lemma is a lemma in ring theory. It was proved by Wolfgang Krull in 1928. ==Statement of the lemma== Let I be an ideal and let M be a multiplicative system (i.e. M is closed under multiplication) in a ring R, and suppose I \\cap M = \\varnothing. Then there exists a prime ideal P satisfying I \\subseteq P and P \\cap M = \\varnothing. ==References== Category:Ring theory Category:Theorems in abstract algebra Category:Lemmas ",
+    "title": "Krull's separation lemma"
+}

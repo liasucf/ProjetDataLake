@@ -1,0 +1,5 @@
+{
+    "id": "12845371",
+    "text": "In mathematics, the Borel fixed-point theorem is a fixed-point theorem in algebraic geometry generalizing the Lie\u2013Kolchin theorem. The result was proved by . ==Statement== If G is a connected, solvable, linear algebraic group acting regularly on a non-empty, complete algebraic variety V over an algebraically closed field k, then there is a G fixed-point of V. A more general version of the theorem holds over a field k that is not necessarily algebraically closed. A solvable algebraic group G is split over k or k-split if G admits a composition series whose composition factors are isomorphic (over k) to the additive group \\mathbb G_a or the multiplicative group \\mathbb G_m. If G is a connected, k-split solvable algebraic group acting regularly on a complete variety V having a k-rational point, then there is a G fixed-point of V.Borel (1991), Proposition 15.2 ==References== * * ==External links== * Category:Fixed-point theorems Category:Group actions (mathematics) Category:Theorems in algebraic geometry ",
+    "title": "Borel fixed-point theorem"
+}

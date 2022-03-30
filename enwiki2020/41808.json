@@ -1,0 +1,5 @@
+{
+    "id": "41808",
+    "text": "In telecommunication, the term transmission block has the following meanings: #A group of characters or bits transmitted as a block, unit, message, or packet. It usually includes additional encoded characters for error detection and correction. #In data transmission, a group of records sent, processed, or recorded as a unit. Some protocols require each transmission block to end with an end-of-message marker. This is often a control character such as End-of- Text (ETX), End-of-Transmission-Block (ETB), or End-of-Transmission (EOT). Some protocols (especially those requiring ETX) require each transmission block to begin with a Start-of-Text character (STX). ==See also== *Frame (networking) *Network packet ==References== * Category:Data transmission ",
+    "title": "Transmission block"
+}

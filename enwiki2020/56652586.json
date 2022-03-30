@@ -1,0 +1,5 @@
+{
+    "id": "56652586",
+    "text": "In elementary number theory, a highly powerful number is a positive integer that satisfies a property introduced by the Indo-Canadian mathematician Mathukumalli V. Subbarao. The set of highly powerful numbers is a proper subset of the set of powerful numbers. Define prodex(1) = 1. Let n be a positive integer, such that n = \\prod_{i=1}^k p_i^{E(p_i)} , where p_1, \\ldots , p_k are k distinct primes in increasing order and E(p_i) is a positive integer for i = 1, \\ldots ,k. Define \\operatorname{prodex}(n) = \\prod_{i=1}^k E(p_i). The positive integer n is defined to be a highly powerful number if and only if, for every positive integer m,\\, 1 \\le m < n implies that \\operatorname{prodex}(m) < \\operatorname{prodex}(n). The first 25 highly powerful numbers are: 1, 4, 8, 16, 32, 64, 128, 144, 216, 288, 432, 864, 1296, 1728, 2592, 3456, 5184, 7776, 10368, 15552, 20736, 31104, 41472, 62208, 86400. ==References== Category:Integer sequences ",
+    "title": "Highly powerful number"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "46853133",
+    "text": "In algebraic topology, a simplicial homotopypg 23 is an analog of a homotopy between topological spaces for simplicial sets. If :f, g: X \\to Y are maps between simplicial sets, a simplicial homotopy from f to g is a map :h: X \\times \\triangle^{1} \\to Y such that the diagram (see ) formed by f, g and h commute; the key is to use the diagram that results in f(x) = h(x, 0) and g(x) = h(x, 1) for all x in X. == See also == *Kan complex *Dold\u2013Kan correspondence (under which a chain homotopy corresponds to a simplicial homotopy) *Simplicial homology ==References== == External links == *http://ncatlab.org/nlab/show/simplicial+homotopy Category:Homotopy theory Category:Simplicial sets ",
+    "title": "Simplicial homotopy"
+}

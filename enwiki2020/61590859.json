@@ -1,0 +1,5 @@
+{
+    "id": "61590859",
+    "text": "SAP Business Explorer is a tool of the software company SAP SE to create planning applications, and for planning and data entry in BW Integrated Planning. == Architecture == The architecture of SAP Business Explorer can be separated into 3 areas: ; Ad-hoc Query and Analyse : This mainly consists Web Analyzer. ; Reporting and Analyse Design : Main components are Web Application Designer and Report Designer. ; Microsoft Excel Integration : This consists Analyser (Add-in). == See also == * SAP NetWeaver Application Server == References == == External links == * Official Documentation Category:SAP SE ",
+    "title": "SAP Business Explorer"
+}

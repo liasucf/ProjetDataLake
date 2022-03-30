@@ -1,0 +1,5 @@
+{
+    "id": "848048",
+    "text": "The MOS Technology 6509, an enhanced version of the popular 6502 microprocessor, was capable of addressing up to 1 megabyte of RAM via bank switching. While numerous 6502-based processors could do bank switching, they did this via separate logic. The 6509 had this logic on-chip. The 6509 had a reputation for being difficult to program, due to its bank switching scheme, and never fared well. It was used in the ill-fated Commodore CBM-II line of computers. ==References== ==Further reading== ==External links== *MOS 6509 datasheet (GIF format, zipped) *MOS 6509 datasheet (PDF format) Category:65xx microprocessors Category:MOS microprocessors Category:8-bit microprocessors ",
+    "title": "MOS Technology 6509"
+}

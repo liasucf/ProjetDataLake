@@ -1,0 +1,5 @@
+{
+    "id": "14110027",
+    "text": "The Metro Ring Protocol (MRP) is a Layer 2 resilience protocol developed by Foundry Networks and currently being delivered in products manufactured by Brocade Communications Systems and Hewlett Packard. The protocol quite tightly specifies a topology in which layer 2 devices, usually at the core of a larger network, are configured and as such is able to achieve much faster failover times than other Layer 2 protocols such as Spanning Tree. ==See also== *ITU-T G.8032 Ethernet Ring Protection Switching *EAPS, Ethernet Automatic Protection Switching Category:Internet protocols Category:Link protocols ",
+    "title": "Metro Ring Protocol"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "3253502",
+    "text": "IEEE Std 854-1987, the Standard for Radix-Independent Floating-Point Arithmetic, was the first Institute of Electrical and Electronics Engineers (IEEE) international standard for floating-point arithmetic with radices other than 2, including radix 10. IEEE 854 did not specify any data formats, whereas IEEE 754-1985 did specify formats for binary (radix 2) floating point. IEEE 754-1985 was superseded in 2008 by IEEE 754-2008, which specifies floating-point arithmetic for both radix 2 (binary) and radix 10 (decimal), and specifies two alternative formats for radix 10 floating-point values, and then again in 2019 by minor revision IEEE 754-2019. IEEE 754-2008 also has many other updates to the IEEE floating-point standardisation. IEEE 854 arithmetic was first commercially implemented in the HP-71B handheld computer, which used decimal floating point with 12 digits of significand, and an exponent range of \u00b1499, with a 15 digit significand used for intermediate results. ==References== Category:Computer arithmetic Category:IEEE standards Category:Floating point ",
+    "title": "IEEE 854-1987"
+}

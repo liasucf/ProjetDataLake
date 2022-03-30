@@ -1,0 +1,5 @@
+{
+    "id": "43315",
+    "text": "This is a list of mail server software: mail transfer agents, mail delivery agents, and other computer software which provide e-mail. ==Product statistics== All such figures are necessarily estimates because data about mail server share is difficult to obtain; there are few reliable primary sources\u2014and no agreed methodologies for its collection. Surveys probing Internet-exposed systems typically attempt to identify systems via their banner, or other identifying features; and report Postfix and exim as overwhelming leaders, with greater than 80% share between them.Security Space Mail (MX) Server Survey, April 1, 2014. ==SMTP== ==POP/IMAP== ==Mail filtering== ==Mail server packages== * Mail-in-a-Box ==See also== * Comparison of mail servers * Message transfer agent ==References== Category:Message transfer agents Mail servers ",
+    "title": "List of mail server software"
+}

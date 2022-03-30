@@ -1,0 +1,5 @@
+{
+    "id": "7812353",
+    "text": "A Margules function is a function added to the Raoult's law description of a liquid solution to account for deviations from ideality. See also Margules activity model. The amended Raoult's law description of the vapor pressure above the solution becomes: :P1=P*1x1fM,1 :P2=P*2x2fM,2 The Margules function has the general form: :fM,1 = exp(\u03b1x22+\u03b2x23+\u03b3x23+\u03b4x24+...) The function always contains the opposite mole fraction x2 (= 1-x1 for a binary system). The numbers of Margules parameters \u03b1, \u03b2, \u03b3, \u03b4, .. varies. The larger the deviations from ideality the more parameters are required. The Gibbs-Duhem relation can be used to fix the Margules function for the second component once the first has been chosen. The case where only one parameter \u03b1 is needed is known as the regular solution model. ==See also== Van Laar equation ==External links== * http://wikis.lib.ncsu.edu/index.php/CH_431/Lecture_14#Margules_functions Category:Chemical thermodynamics ",
+    "title": "Margules function"
+}

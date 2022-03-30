@@ -1,0 +1,5 @@
+{
+    "id": "41408",
+    "text": "In computing, a network interface is a software or hardware interface between two pieces of equipment or protocol layers in a computer network.What Is a Network Interface? A network interface will usually have some form of network address. This may consist of a node identifier and a port number or may be a unique node ID in its own right. Network interfaces provide standardized functions such as passing messages, connecting and disconnecting, etc. ==Examples== * Computer port (hardware), an interface to other computers or peripherals * Network interface controller, the device a computer uses to connect to a computer networknetwork interface card (NIC) * Network interface device, a demarcation point for a telephone network * Network socket, a software interface to the network * Port (computer networking), a protocol interface to the network ==References== * Ethernet Networking Interface * Understanding the network interface layer Category:Network architecture Category:Telecommunications engineering ",
+    "title": "Network interface"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "14041062",
+    "text": "Function means tree In engineering design, a function\u2013means tree (a.k.a. function/means tree or F/M tree) is a method for functional decomposition and concept generation. At the top level, main functions are identified. Under each function, a means (or solution element) is attached. Alternative solution elements can also be attached. Each means is in turn decomposed into functions with means attached to each of them. A well-elaborated function means tree span, a design space where all concepts under consideration are represented. Requirements can be attached to functions. In addition to product level requirements, there might be requirements on sub functions that may be a consequence of means at a higher level. The function means tree is a tool that can aid in the creative part of the design process. It can also be a tool for mapping requirements to parts in a design. This requires that there be also a mapping between means and parts in the product architecture. == References == == Further reading == * * Category:Engineering concepts ",
+    "title": "Function\u2013means tree"
+}

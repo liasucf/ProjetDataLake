@@ -1,0 +1,5 @@
+{
+    "id": "3233639",
+    "text": "Commons Daemon, formerly known as JSVC, is a Java software library belonging to the Apache Commons Project. Daemon provides a portable means of starting and stopping a Java Virtual Machine (JVM) that is running server-side applications. Such applications often have additional requirements compared to client-side applications. For example, the servlet container Tomcat 4 would need to serialize sessions and shutdown web applications before the JVM process terminates. Daemon comprises 2 parts: a native library written in C that interfaces with the operating system, and the library that provides the Daemon API, written in Java. There are two ways to use Commons Daemon: by implementing the daemon interface or by calling a class that provides the required methods for daemon. For example, Tomcat-4.1.x uses the daemon interface and Tomcat-5.0.x provides a class whose methods are called by JSVC directly. Category:Java (programming language) libraries Commons Daemon ",
+    "title": "Commons Daemon"
+}

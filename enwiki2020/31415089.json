@@ -1,0 +1,5 @@
+{
+    "id": "31415089",
+    "text": "HTML5 File API aspect provides an API for representing file objects in web applications and programmatic selection and accessing their data. In addition, this specification defines objects to be used within threaded web applications for the synchronous reading of files. The File API describes how interactions with files are handled, for reading information about them and their data as well, to be able to upload it. Despite the name, the File API is not part of HTML5. ==See also== *File select *HTML5 *W3C Geolocation API *Binary Large Object ==References== # HTML5 File Writer API # HTML5 File API # Reading local files in JavaScript # A state of limbo: the html5 file api, filereader, and blobs # Geolocation API ==External links== *HTML5 Video Player Category:HTML5 ",
+    "title": "HTML5 File API"
+}

@@ -1,0 +1,5 @@
+{
+    "id": "61252293",
+    "text": "CBMAR otherwise known as Comprehensive \u03b2-lactamase Molecular Annotation Resource is a database focused on the annotation and discovery of novel beta- lactamase genes and proteins in bacteria. Beta-lactamases are characterized on CBMAR using the Ambler Classification system. CBMAR organizes beta-lactamases according to their classes: A, B, C, and D. They are then further categorized by their (i) sequence variability, (ii) antibiotic resistance profile, (iii) inhibitor susceptibility, (iv) active site, (v) family fingerprints, (vi) mutational profile, (vii) variants, (viii) gene location, (ix) phylogenetic tree, etc. The primary sources of database for CBMAR are GenBank and Uniprot. CBMAR is built on an Apache HTTP Server 2.2.17 with MySQL Ver 14.14 and hosted on Ubuntu 11.04 Linux platform. == See also == * Antimicrobial Resistance databases == References == Category:Biological databases ",
+    "title": "CBMAR"
+}

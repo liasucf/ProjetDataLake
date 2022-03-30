@@ -1,0 +1,5 @@
+{
+    "id": "306157",
+    "text": "There are a number of common mathematical meanings of the term digital sum: == Values == * The digit sum - add the digits of the representation of a number in a given base. For example, considering 84001 in base 10 the digit sum would be 8 + 4 + 0 + 0 + 1 = 13\\. * The digital root - repeatedly apply the digit sum operation to the representation of a number in a given base until the outcome is a single digit. For example, considering 84001 in base 10 the digital root would be 4 (8 + 4 + 0 + 0 + 1 = 13, 1 + 3 = 4). == Operations == The mathematical operation digital sum in base b can also be called the digital sum. This is where each place is summed independently, ignoring digit carry. For example, 84001 + 56734 = (8 + 5 = 13)(4 + 6 = 10)(0 + 7 = 7)(0 + 3 = 3)(1 + 4 = 5) = 30735\\. Category:Integers ",
+    "title": "Digital sum"
+}

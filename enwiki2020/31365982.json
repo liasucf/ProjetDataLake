@@ -1,0 +1,5 @@
+{
+    "id": "31365982",
+    "text": "ZBar is an open-source C barcode reading library with C++, Python 2 , Perl, and Ruby bindings. It is also implemented on Linux and Microsoft Windows as a command-line application, and as an iPhone application. It was originally developed at SourceForge. As the latest official release (version 0.10) was in 2009-10-27, a fork was created in March, 2017, converting it to use qt5 and libv4l, improving it to better support the Video4Linux API version 2. ==Features== * Image scanning * Real-time scanning of video streams * C++, Python, Perl, and Ruby bindings * Qt, GTK+, and PyGTK GUI bindings * Recognition of EAN-13, UPC-A, UPC-E, EAN-8, Code 128, Code 39, Interleaved 2 of 5 and QR code symbologies ==References== ==External links== * LinuxTV site where the latest version is available * GitHub ZBar clone of the latest version * Official site Category:Free software programmed in C ",
+    "title": "ZBar"
+}

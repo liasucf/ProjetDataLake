@@ -1,0 +1,5 @@
+{
+    "id": "2737674",
+    "text": "Bullet-nose curve with a = 1 and b = 1 In mathematics, a bullet-nose curve is a unicursal quartic curve with three inflection points, given by the equation :a^2y^2-b^2x^2=x^2y^2 \\, The bullet curve has three double points in the real projective plane, at x=0 and y=0, x=0 and z=0, and y=0 and z=0, and is therefore a unicursal (rational) curve of genus zero. If :f(z) = \\sum_{n=0}^{\\infty} {2n \\choose n} z^{2n+1} = z+2z^3+6z^5+20z^7+\\cdots then :y = f\\left(\\frac{x}{2a}\\right)\\pm 2b\\ are the two branches of the bullet curve at the origin. ==References== * Category:Curves Category:Algebraic curves ",
+    "title": "Bullet-nose curve"
+}

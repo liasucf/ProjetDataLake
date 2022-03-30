@@ -1,0 +1,5 @@
+{
+    "id": "44312199",
+    "text": "Emacs Web Wowser (a backronym of \"eww\") is a web browser written entirely in Emacs Lisp. It became part of GNU Emacs starting with version 24.4. If Emacs is compiled with the suitable image libraries, and is used in a graphical environment (such as under the X Window System), it can render images inline directly into Emacs's display buffer. It requires an Emacs built with libxml2 support. Written by Lars Magne Ingebrigtsen, it was originally developed as part of the Emacs mail reader Gnus, to display HTML-formatted email, but with the addition of HTTP support from Emacs' package it became a fully-fledged browser. == See also == *w3m used with emacs-w3m interface *Emacs/W3 == References == == External links == * GNU Emacs manual * Source code Category:Free web browsers Category:Emacs Category:Cross-platform free software Category:Free software programmed in Lisp Category:Software using the GPL license Category:Emacs modes ",
+    "title": "Eww (web browser)"
+}

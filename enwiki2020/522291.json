@@ -1,0 +1,5 @@
+{
+    "id": "522291",
+    "text": "Internet e-mail functions through the use of Internet standards. Although many more standards actually apply to e-mail, virtually all mail servers and e-mail clients support at least the following basic set. * SMTP (or RFC 5321) specifies the protocol by which e-mail is transmitted * RFC 5322 specifies the basic format for e-mail * MIME supplements the e-mail formatting rules to allow non-English text in both e-mail headers and bodies, and defines a mechanism for including non-textual attachments in e-mail bodies * POP3 and IMAP4 specify e-mail retrieval protocols used by e-mail clients == See also == * Internet standard ==External links== * Internet Mail Consortium's list of e-mail standards * ",
+    "title": "Internet mail standard"
+}

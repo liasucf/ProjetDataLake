@@ -1,0 +1,5 @@
+{
+    "id": "2767457",
+    "text": "Wired for Management (WfM) was a primarily hardware-based system allowing a newly built computer without any software to be manipulated by a master computer that could access the hard disk of the new PC to paste the install program. It could also be used to update software and monitor system status remotely. Intel developed the system in the 1990s; it is now considered obsolete. WfM included the Preboot Execution Environment (PXE) and Wake-on-LAN (WOL) standards. WfM has been replaced by the Intelligent Platform Management Interface standard for servers and Intel Active Management Technology for PCs. ==References== * * Category:Networking hardware Category:System administration ",
+    "title": "Wired for Management"
+}

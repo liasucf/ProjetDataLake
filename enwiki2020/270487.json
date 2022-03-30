@@ -1,0 +1,5 @@
+{
+    "id": "270487",
+    "text": "words is a standard file on Unix and Unix-like operating systems, and is simply a newline-delimited list of dictionary words. It is used, for instance, by spell-checking programs. The words file is usually stored in or . On Debian and Ubuntu, the file is provided by the package, or its provider packages , , etc. On Fedora and Arch Linux, the file is provided by the package. ==References== ==External links== * Sample words file from Duke CS department Category:Unix Category:Unix software ",
+    "title": "Words (Unix)"
+}

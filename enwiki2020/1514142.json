@@ -1,0 +1,5 @@
+{
+    "id": "1514142",
+    "text": "Convergence is a phenomenon in evolutionary computation. It causes evolution to halt because precisely every individual in the population is identical. Full convergence might be seen in genetic algorithms (a type of evolutionary computation) using only crossover (a way of combining individuals to make new offspring). Premature convergence is when a population has converged to a single solution, but that solution is not as high of quality as expected, i.e. the population has gotten 'stuck'. However, convergence is not necessarily a negative thing, because populations often stabilise after a time, in the sense that the best programs all have a common ancestor and their behaviour is very similar (or identical) both to each other and to that of high fitness programs from the previous generations. Often the term convergence is loosely used. Convergence can be avoided with a variety of diversity-generating techniques. ==References== Foundations of Genetic Programming Category:Evolutionary computation ",
+    "title": "Convergence (evolutionary computing)"
+}

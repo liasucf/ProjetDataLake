@@ -1,0 +1,5 @@
+{
+    "id": "7752431",
+    "text": "Data Storage Technology (DST) is a wide magnetic tape data storage format created by Ampex in 1992. The DST format was also made by Ampex as a digital videotape format, DCT, using the same design of cassette. DST is relatively high capacity and high speed, especially compared to other tape technologies available in the 1990s. There are 3 standard tape cartridge sizes compatible with each generation, \"Small\", \"Medium\", and \"Large\". == Generations == {| class=\"wikitable\" style=\"margin-left: 1em;\" ! Generation ! Original ! Double Density ! Quad Density |- | Release Date | 1992 || 1996 || 2000 |- | \"Small\" Capacity (GB) | 25 || 50 || 100 |- | \"Medium\" Capacity (GB) | 75 || 150 || 300 |- | \"Large\" Capacity (GB) | 165 || 330 || 660 |- | Max Speed (MB/s) | 15 || || 20 |} ==External links== * Entry in Computer Desktop Encyclopedia (Search for \"DST\") * Ampex's History (Search for \"DST\") Category:Computer storage tape media ",
+    "title": "Data Storage Technology"
+}

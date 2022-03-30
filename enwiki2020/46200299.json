@@ -1,0 +1,5 @@
+{
+    "id": "46200299",
+    "text": "The AN/AYK-14(V) is an airborne computer that was designed in 1976 by the Control Data Aerospace Division in Bloomington, Minnesota. It has a microprogrammed 16-bit CPU based on AMD 2900 series ICs that can use 4, 8, 16, or 32-bit data. The processor runs between 0.3 and 2.3 MIPS depending on the instruction mix. The instructions are a superset of the AN/UYK-20 computer and it can run AN/UYK-20 software. Due to its use in avionics, the AN/AYK-14 is designed for use at altitudes up to 70,000 feet and temperatures from -54C to 71C. The Navy directed the development and procurement of the AYK-14 in 1976. It is still in use on Navy fleet aircraft including the F/A-18, AV-8B, and the EA-6B. == See also == * AN/UYK-20 * AN/UYK-44 * CMS-2 programming language ==References== Category:Military computers Category:Equipment of the United States Navy Category:Military electronics of the United States ",
+    "title": "AN/AYK-14"
+}

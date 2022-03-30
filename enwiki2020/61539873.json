@@ -1,0 +1,5 @@
+{
+    "id": "61539873",
+    "text": "In quantum information, the diamond norm is a distance metric between quantum operations. Informally, the diamond norm measures the \"single use distinguishability\" of the operations. If a player is randomly given one of two operations, permitted to pass one state through the unknown operation, and then measures the state in an attempt to determine which operation they were given, then the amount that such a player can bias their success probability away from 0.5 is proportional to the diamond norm between the two operations. == Definition == The diamond norm is the trace distance between the output states of the respective operations, maximized over all possible input states (including states entangled with qubits that are not being operated on): :\\mathrm{Diamond}(U, V) = \\max_\\rho \\mathrm{TraceDistance}((U \\otimes I) \\cdot \\rho \\cdot (U \\otimes I)^\\dagger, (V \\otimes I) \\cdot \\rho \\cdot (V \\otimes I)^\\dagger) where \\rho is a density matrix and the identity operation I covers the same number of qubits as U or V. ==References== Category:Quantum information theory ",
+    "title": "Diamond norm"
+}

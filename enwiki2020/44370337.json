@@ -1,0 +1,5 @@
+{
+    "id": "44370337",
+    "text": "mpack and munpack are utilities used to encode and decode binaries for use in mail messages following the MIME standard. It was originally written by John Gardiner Myers of Carnegie Mellon University in 1993, and has been ported to the classic Mac OS and Windows. == External links == * Unix source * Windows port Category:Email Category:1993 software ",
+    "title": "Mpack (Unix)"
+}

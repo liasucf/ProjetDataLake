@@ -1,0 +1,5 @@
+{
+    "id": "58368249",
+    "text": "BeyondCorp is an implementation, by Google, of zero-trust computer security concepts creating a zero trust network. It was created in 2009 in response to an APT attack. An open source implementation inspired by Google's research paper on an access proxy is known as \"transcend\". transcend github, accessed: 2019-04-22. ==Security mechanisms== Unlike traditional VPNs BeyondCorp's access policies are based on information about a device, its state, and its associated user. BeyondCorp considers both internal networks and external networks to be completely untrusted, and gates access to applications by dynamically asserting and enforcing levels, or \u201ctiers,\u201d of access. ==See also== * VPN * RADIUS ==References== Category:Computer security Category:Google software ",
+    "title": "BeyondCorp"
+}

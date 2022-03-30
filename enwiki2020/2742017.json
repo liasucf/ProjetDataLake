@@ -1,0 +1,5 @@
+{
+    "id": "2742017",
+    "text": "{| border=\"1\" align=right cellpadding=\"4\" cellspacing=\"0\" style=\"margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;\" |- | ! C ! D |- ! C | 2, 2 | 0, 3 |- ! D | 3, 0 | 1, 1 |} In game theory, a symmetric equilibrium is an equilibrium where all players use the same strategy (possibly mixed) in the equilibrium. In the Prisoner's Dilemma game pictured to the right, the only Nash equilibrium is (D, D). Since both players use the same strategy, the equilibrium is symmetric. Symmetric equilibria have important properties. Only symmetric equilibria can be evolutionarily stable states in single population models. ==See also== *Symmetric game Category:Game theory equilibrium concepts ",
+    "title": "Symmetric equilibrium"
+}

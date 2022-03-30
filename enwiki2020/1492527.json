@@ -1,0 +1,5 @@
+{
+    "id": "1492527",
+    "text": "A three-state bus is a computer bus connected to multiple tri-state output devices, only one of which can be enabled at any point to avoid bus contention. This scheme allows for the same bus to be shared among multiple devices. Each three-state bus usually has associated control signals from a decoder that select one device at a time to drive data onto the three-state bus. Category:Computer buses ",
+    "title": "Three-state bus"
+}

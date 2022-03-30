@@ -1,0 +1,5 @@
+{
+    "id": "58417911",
+    "text": "In mathematics, Weibel's conjecture gives a criterion for vanishing of negative algebraic K-theory groups. The conjecture was proposed by and proven by using methods from derived algebraic geometry. ==Statement of the conjecture== Weibel's conjecture asserts that for a Noetherian scheme X of finite Krull dimension d, the K-groups vanish in degrees < \u2212d: : K_i(X) = 0 \\text{ for } i<-d and asserts moreover a homotopy invariance property for negative K-groups : K_i(X) = K_i(X\\times \\mathbb A^r) \\text{ for } i\\le -d \\text{ and arbitrary } r. ==References== * * Category:Algebraic geometry Category:K-theory ",
+    "title": "Weibel's conjecture"
+}

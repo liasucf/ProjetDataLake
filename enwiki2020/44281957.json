@@ -1,0 +1,5 @@
+{
+    "id": "44281957",
+    "text": "Maximum experimental safe gap (MESG) is a standardized measurement of how easily a gas flame will pass through a narrow gap bordered by heat-absorbing metal. MESG is used to classify flammable gases for the design and/or selection of electrical equipment in hazardous areas, and flame arrestor devices. The National Electric Code classifies Class I hazardous locations into different groups depending on the respective MESG's of gases in the area. Class I: Flammable gases, vapors or liquids ==Examples== {| class=\"wikitable\" |+ NEC Class I Group and Gas MESG ! NEC Class I Group ! Gas MESG ! Example Gas |- ! Group A | 0.25 mm|| Acetylene |- ! Group B | \u22640.45 mm (Except acetylene) | Hydrogen |- ! Group C | 0.45 mm < x \u2264 0.75 mm || Ethylene |- ! Group D | > 0.75 mm | Propane |} ==References== http://site.ul.com/global/documents/offerings/services/hazardouslocations/CI_groups.pdf Category:Electrical safety Category:Fire test standards ",
+    "title": "Maximum experimental safe gap"
+}

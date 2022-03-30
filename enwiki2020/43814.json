@@ -1,0 +1,5 @@
+{
+    "id": "43814",
+    "text": "The Java Transaction Service (JTS) is a specification for building a transaction manager that maps onto the Object Management Group (OMG) Object Transaction Service (OTS) used in the Common Object Request Broker Architecture (CORBA) architecture. It uses General Inter-ORB Protocol (IIOP) to propagate the transactions between multiple JTS transaction managers. == Additional resources == * Sun's JTS description. Transaction service ",
+    "title": "Java transaction service"
+}

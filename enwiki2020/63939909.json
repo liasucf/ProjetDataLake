@@ -1,0 +1,5 @@
+{
+    "id": "63939909",
+    "text": "Code page 1116 (also known as CP 1116 or IBM 01116) is a code page used under DOS to write the Estonian language. It is a modification of code page 850. ==Character set== The following table shows code page 1116. Each character appears with its equivalent Unicode code-point. Only the second half of the table (code points 128\u2013255) is shown, the first half (code points 0\u2013127) being the same as code page 850. {| |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |} ==References== 1116 ",
+    "title": "Code page 1116"
+}

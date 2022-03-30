@@ -1,0 +1,5 @@
+{
+    "id": "26909443",
+    "text": "jsMath was a JavaScript library for displaying mathematics in browsers in a cross-platform way. jsMath is free software released under the Apache License. jsMath was succeeded by MathJax. == See also == * MathJax * TeX and LaTeX, from which jsMath inherits its syntax and layout algorithms * MathML, a W3C standard enabling direct math rendering in the browser, using an XML syntax * ASCIIMathML, a client-side library for writing MathML in a subset of LaTeX math syntax * Google Chart API == References == ==External links== * * Category:Free mathematics software Category:Free TeX software Category:JavaScript libraries ",
+    "title": "JsMath"
+}

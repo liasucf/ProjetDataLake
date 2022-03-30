@@ -1,0 +1,5 @@
+{
+    "id": "1280656",
+    "text": "The LSE/OS kernel was a research kernel designed by a French research laboratory named Epita System Laboratory. The project is now open source. The main goal of the kernel was to never crash prompting the original designers to implement it as a modular nanokernel instead of the traditional monolithic kernel of \"traditional\" operating systems. This choice was good because it allowed the drivers and services code to be moved out of the kernel (to user space). These services would then become unprivileged processes so that any error that occurs e.g. in a driver won't crash the system. In a monolithic kernel this is impossible. ==See also== * Nanokernel ==External links== * http://sourceforge.net/projects/lseos * http://www.lse.epita.fr/ Category:Nanokernels Category:Free software operating systems Category:Software using the BSD license ",
+    "title": "LSE/OS"
+}

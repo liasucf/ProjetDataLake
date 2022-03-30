@@ -1,0 +1,5 @@
+{
+    "id": "5710256",
+    "text": "Effective Torque is often referred to as wheel torque or torque to the wheels is primarily associated with automotive tuning. Torque can be measured using a dynamometer. Common units used in automotive applications can include ft\u00b7lbf and N\u00b7m. For more on units see: Foot-pound force. The formula for effective torque to the wheels is: Tw = Te * Ntf * \u03b7tf Ntf = Nt * Nf \u03b7tf = \u03b7t * \u03b7f ... where Tw is wheel torque, Te is engine torque, N is the gear ratio, \u03b7 is the efficiency, and the subscripts t and f are for the gearbox and differential, respectively. Effective torque will often be 5-15% lower than the shaft or crank ratings of an engine due to a loss through the drivetrain. For a general article please see: Machine torque. ==References== Category:Engine technology ",
+    "title": "Effective torque"
+}

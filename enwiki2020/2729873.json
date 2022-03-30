@@ -1,0 +1,5 @@
+{
+    "id": "2729873",
+    "text": "Transparent Network Substrate (TNS), a proprietary Oracle computer-networking technology, supports homogeneous peer-to-peer connectivity on top of other networking technologies such as TCP/IP, SDP and named pipes. TNS operates mainly for connection to Oracle databases. == Protocol == TNS uses a proprietary protocol. Some details have, however, been reverse engineered.http://anonsvn.wireshark.org/wireshark/trunk/epan/dissectors/packet- tns.c == See also == *Transparency (computing) *Oracle Net Services *Protocol stack == References == == External links== * Oracle 8 Architecture and Concepts * Oracle 9i Architecture of Oracle Net Services Category:Oracle Corporation Category:Network protocols Category:Oracle software ",
+    "title": "Transparent Network Substrate"
+}

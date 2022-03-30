@@ -1,0 +1,5 @@
+{
+    "id": "53897801",
+    "text": "Chassis Management Controller (also known as a CMC) is an embedded system management hardware and software solution to manage multiple servers, networking, and storage. Chassis Management Controllers provide a secure browser-based interface that enables an Information Technology system administrator to take inventory, perform configuration and monitoring tasks, remotely power on/off blade servers, enable alerts for events on servers, as well as components in the blade chassis. It has its own microprocessor and memory and powered by the modular chassis it is plugged into. The discovery is built-in and a Chassis Management Controller has a dedicated internal network. The blade enclosure, which can hold multiple blade servers, provides power, cooling, various interconnects and additional systems management capabilities. Unlike a tower or rack server, a blade server cannot run by itself; it requires a compatible blade enclosure. Category:Embedded systems ",
+    "title": "Chassis Management Controller"
+}

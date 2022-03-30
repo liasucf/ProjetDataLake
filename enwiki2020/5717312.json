@@ -1,0 +1,5 @@
+{
+    "id": "5717312",
+    "text": "In electronic design automation, maze runner is a connection routing method that represents the entire routing space as a grid. Parts of this grid are blocked by components, specialised areas, or already present wiring. The grid size corresponds to the wiring pitch of the area. The goal is to find a chain of grid cells that go from point A to point B. A maze runner may use the Lee algorithm. It uses a wave propagation style (a wave are all cells that can be reached in n steps) throughout the routing space. The wave stops when the target is reached, and the path is determined by backtracking through the cells. == See also == *Autorouter == References == *. One of the first descriptions of a maze router. Category:Electronic engineering Category:Electronic design automation Category:Electronics optimization ",
+    "title": "Maze runner"
+}

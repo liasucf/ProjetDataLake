@@ -1,0 +1,5 @@
+{
+    "id": "648071",
+    "text": "SynFactory is a free and open source software synthesizer for Windows. It is based on the same sound generating principles such as subtractive synthesis as used in vintage modular synthesizers. Patches can be built from separate components and connected together with virtual patch cables. Due to the flexibility of the system, the range of sounds that can be created is huge. The synthesizer is always 'live' and there is no separate edit mode. All changes and edits to the patch can be done while the patch is playing. Generated sounds can be stored in WAV or MP3 format and can be used as samples in other programs. For MP3 compression the open source LAME encoder is used. SynFactory is licensed under the terms of the GNU General Public License. ==External links== * Category:Free audio software Category:Open source software synthesizers ",
+    "title": "SynFactory"
+}
