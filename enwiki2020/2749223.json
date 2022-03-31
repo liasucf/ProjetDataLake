@@ -1,5 +1,0 @@
-{
-    "id": "2749223",
-    "text": "An example In mathematics, a conchospiral a specific type of three-dimensional spiral on the surface of a cone (a conical spiral), whose floor projection is a logarithmic spiral. ==Parameterization== In cylindrical coordinates, the conchospiral is described by the parametric equations: :r=\\mu^t a :\\theta=t :z=\\mu^t c. The projection of a conchospiral on the (r,\\theta) plane is a logarithmic spiral. The parameter \\mu controls the opening angle of the projected spiral, while the parameter c controls the slope of the cone on which the curve lies. ==History== The name \"conchospiral\" was given to these curves by 19th-century German mineralogist Georg Amadeus Carl Friedrich Naumann, in his study of the shapes of sea shells. ==Applications== The conchospiral has been used in the design for radio antennas. In this application, it has the advantage of producing a radio beam in a single direction, towards the apex of the cone. ==References== ==External links== * Category:Spirals ",
-    "title": "Conchospiral"
-}

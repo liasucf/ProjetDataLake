@@ -1,5 +1,0 @@
-{
-    "id": "46876400",
-    "text": "An indiscrete category is a category C in which every hom-set C(X, Y) is a singleton. Every class X gives rise to an indiscrete category whose objects are the elements of X with exactly one morphism between any two objects. Any two nonempty indiscrete categories are equivalent to each other. The functor from Set to Cat that sends a set to the corresponding indiscrete category is right adjoint to the functor that sends a small category to its set of objects. ==References== Category:Category theory ",
-    "title": "Indiscrete category"
-}

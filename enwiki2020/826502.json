@@ -1,5 +1,0 @@
-{
-    "id": "826502",
-    "text": "Sqsh (pronounced skwish), short for SQSHell (pronounced s-q-shell), is an open-source substitute for isql, the interactive SQL client supplied with Sybase's Adaptive Server Enterprise (ASE) relational database management system. isql and sqsh are, essentially, rudimentary command-line tools for issuing Transact-SQL commands to an ASE Server and receiving and displaying results. Sqsh supports, among others, command history, aliases and piping output to or from external programs and sources. It runs on various flavours of Unix, including Linux as well as Windows through the Cygwin libraries. ==External links== * Download site * Sqsh man page * articles: ** Tricks with sqsh ** Use sqsh, not isql Category:Database administration tools Category:Free software programmed in C ",
-    "title": "Sqsh"
-}

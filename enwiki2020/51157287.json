@@ -1,5 +1,0 @@
-{
-    "id": "51157287",
-    "text": "In artificial intelligence, especially computer vision and artificial neural networks, a hard sigmoid is non-smooth function used in place of a sigmoid function. These retain the basic shape of a sigmoid, rising from 0 to 1, but using simpler functions, especially piecewise linear functions or piecewise constant functions. These are preferred where speed of computation is more important than precision. == Examples == The most extreme examples are the sign function or Heaviside step function, which go from \u22121 to 1 or 0 to 1 (which to use depends on normalization) at 0.Curves and Surfaces in Computer Vision and Graphics, Volume 1610, SPIE, 1992, p. 301 Other examples include the Theano library, which provides two approximations: `ultra_fast_sigmoid`, which is a multi-part piecewise linear approximation and `hard_sigmoid`, which is a 3-part piecewise linear approximation (output 0, line with slope 0.2, output 1).nnet \u2013 Ops for neural networksTheano/sigm.py at 38a6331ae23250338290e886a72daadb33441bc4 \u00b7 Theano/Theano \u00b7 GitHub ==References== Category:Artificial neural networks ",
-    "title": "Hard sigmoid"
-}

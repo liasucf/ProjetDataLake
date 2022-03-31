@@ -1,5 +1,0 @@
-{
-    "id": "5745477",
-    "text": "In mathematics, in the realm of group theory, a subgroup of a group is said to be centrally closed if the centralizer of any nonidentity element of the subgroup lies inside the subgroup. Some facts about centrally closed subgroups: * Every malnormal subgroup is centrally closed. * Every Frobenius kernel is centrally closed. * SA subgroups are precisely the centrally closed Abelian subgroups. * The trivial subgroup and the whole group are centrally closed. Category:Subgroup properties ",
-    "title": "Centrally-closed subgroup"
-}

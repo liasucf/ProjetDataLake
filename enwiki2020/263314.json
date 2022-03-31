@@ -1,5 +1,0 @@
-{
-    "id": "263314",
-    "text": "In the OSI networking model, Data Link Control (DLC) is the service provided by the data link layer. Network interface cards have a DLC address that identifies each card; for instance, Ethernet and other types of cards have a 48-bit MAC address built into the cards' firmware when they are manufactured. There is also a network protocol with the name Data Link Control. It is comparable to better-known protocols such as TCP/IP or AppleTalk. DLC is a transport protocol used by IBM SNA mainframe computers and peripherals and compatible equipment. In computer networking, it is typically used for communications between network-attached printers, computers and servers, for example by HP in their JetDirect print servers. While it was widely used up until the time of Windows 2000, versions from Windows XP onward do not include support for DLC. == External links == * Generic DLC Environment Overview * Microsoft DLC protocol in Windows 2000 * Microsoft TechNet: The Data Link Control Interface, 30.3.2013 ==References== Category:OSI protocols ",
-    "title": "Data Link Control"
-}

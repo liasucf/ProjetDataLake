@@ -1,5 +1,0 @@
-{
-    "id": "12825134",
-    "text": "Advanced Digital Recording (ADR) is a magnetic tape data storage format developed by OnStream from 1998 to 2003. Since the demise of OnStream, the format has been orphaned. ADR is an 8-track, linear tape format. == Generations == {| class=\"wikitable\" style=\"margin-left: 1em;\" |- ! Generation ! ADR 30 ! ADR 50 ! ADR 2.60 ! ADR 2.120 |- | Release Date | 1999 | 1999 | 2001 | 2001 |- | Data Capacity | 15 GB | 25 GB | 30 GB | 60 GB |- | Transfer Rate (MB/s) | 2 | 2 | 4 | 4 |- | Tape Length (m) | | | | |} == Compatibility == The drive models for ADR 120 GB tapes can use both the ADR 60 GB and the ADR 120 GB tapes, while the 50 GB drives can use both ADR 30 GB and ADR 50 GB tapes. == References == == External links == * Table of ADR formats. * The tribology of advanced digital recording (ADR) systems(Subscription required) * Future directions in advanced digital recording technology (Subscription required) * Image of ADR cartridge Category:Computer storage tape media ",
-    "title": "Advanced Digital Recording"
-}

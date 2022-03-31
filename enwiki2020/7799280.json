@@ -1,5 +1,0 @@
-{
-    "id": "7799280",
-    "text": "Suppose a Lorentzian manifold contains a closed timelike curve (CTC). No CTC can be continuously deformed as a CTC (is timelike homotopic) to a point, as that point would not be causally well behaved. Therefore, any Lorentzian manifold containing a CTC is said to be timelike multiply connected. A Lorentzian manifold that does not contain a CTC is said to be timelike simply connected. Any Lorentzian manifold which is timelike multiply connected has a diffeomorphic universal covering space which is timelike simply connected. For instance, a three-sphere with a Lorentzian metric is timelike multiply connected, (because any compact Lorentzian manifold contains a CTC), but has a diffeomorphic universal covering space which contains no CTC (and is therefore not compact). By contrast, a three-sphere with the standard metric is simply connected, and is therefore its own universal cover. ==References== Category:Algebraic topology Category:Homotopy theory Category:Lorentzian manifolds ",
-    "title": "Timelike simply connected"
-}

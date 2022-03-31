@@ -1,5 +1,0 @@
-{
-    "id": "31365520",
-    "text": "In mathematics, a Beurling zeta function is an analogue of the Riemann zeta function where the ordinary primes are replaced by a set of Beurling generalized primes: any sequence of real numbers greater than 1 that tend to infinity. These were introduced by . A Beurling generalized integer is a number that can be written as a product of Beurling generalized primes. Beurling generalized the usual prime number theorem to Beurling generalized primes. He showed that if the number N(x) of Beurling generalized integers less than x is of the form N(x) = Ax + O(x log\u2212\u03b3x) with \u03b3 > 3/2 then the number of Beurling generalized primes less than x is asymptotic to x/log x, just as for ordinary primes, but if \u03b3 = 3/2 then this conclusion need not hold. ==See also== * Abstract analytic number theory ==References== * * Category:Zeta and L-functions ",
-    "title": "Beurling zeta function"
-}

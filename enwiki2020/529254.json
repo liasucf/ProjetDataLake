@@ -1,5 +1,0 @@
-{
-    "id": "529254",
-    "text": "In mathematics, the category of medial magmas, also known as the medial category, and denoted Med, is the category whose objects are medial magmas (that is, sets with a medial binary operation), and whose morphisms are magma homomorphisms (which are equivalent to homomorphisms in the sense of universal algebra). The category Med has direct products, so the concept of a medial magma object (internal binary operation) makes sense. As a result, Med has all its objects as medial objects, and this characterizes it. There is an inclusion functor from Set to Med as trivial magmas, with operations being the right projections : (x, y) -> y. An injective endomorphism can be extended to an automorphism of a magma extension--the colimit of the constant sequence of the endomorphism. ==See also== * Eckmann\u2013Hilton argument Medial magmas ",
-    "title": "Category of medial magmas"
-}

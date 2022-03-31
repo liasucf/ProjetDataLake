@@ -1,5 +1,0 @@
-{
-    "id": "2557724",
-    "text": "FuseDocs is a program definition language created by Hal Helms in the late 1990s. In its original form, FuseDocs used a proprietary vocabulary to define the responsibilities, properties, and I/O of code module in the ColdFusion programming language. In its second form (2.0), FuseDocs uses an XML vocabulary. In essence, FuseDocs forms a sort of work order, telling the programmer everything needed to write the module, and nothing more. A Fusebox architect is responsible for creating the FuseDocs for an application. A DTD for FuseDocs is available at fusebox.org. Although FuseDocs was so named because of its creation within the Fusebox community, it is also used by developers who do not employ Fusebox as an application framework. ==References== Category:CFML programming language Category:XML ",
-    "title": "FuseDocs (programming)"
-}

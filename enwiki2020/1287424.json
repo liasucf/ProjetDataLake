@@ -1,5 +1,0 @@
-{
-    "id": "1287424",
-    "text": "MEX (Multiple EXposure) was \"Silicon Graphics' original high-performance windowing system\", used on 68k-based IRIS systems and early IRIS 4D systems.Rocky Rhodes, Paul Haeberli, Kipp Hickman, \"Mex \u2014 A Window Manager for the IRIS\", USENIX Conference Proceedings, Summer 1985, pages 381\u2013392. MEX was originally loaded over a network through the utilization of GL1 routines kept on a remote host machine, usually a VAX. When the IRIS 1400 workstation and GL2-W (IRIX) were introduced, MEX was allowed to run locally. MEX was used in IRIX from the GL2-W2.1.0 release to the 4D1-2.3 release. With the introduction of 4D1-3.0 (IRIX 3.0), and the complete migration to MIPS processors, support for the GL / GL2 powered MEX ended in the late 1980s, replaced by Sun Microsystems' NeWS and the 4Sight window manager. == References == Category:Computer-related introductions in 1985 Category:Windowing systems Category:SGI graphics ",
-    "title": "MEX (windowing system)"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "51530038",
-    "text": "In mathematics, Witt vector cohomology was an early p-adic cohomology theory for algebraic varieties introduced by . Serre constructed it by defining a sheaf of truncated Witt rings Wn over a variety V and then taking the inverse limit of the sheaf cohomology groups Hi(V, Wn) of these sheaves. Serre observed that though it gives cohomology groups over a field of characteristic 0, it cannot be a Weil cohomology theory because the cohomology groups vanish when i > dim(V). For Abelian varieties showed that one could obtain a reasonable first cohomology group by taking the direct sum of the Witt vector cohomology and the Tate module of the Picard variety. ==References== * * Category:Algebraic geometry Category:Cohomology theories ",
-    "title": "Witt vector cohomology"
-}

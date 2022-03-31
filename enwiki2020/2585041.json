@@ -1,5 +1,0 @@
-{
-    "id": "2585041",
-    "text": "Multicast Listener Discovery (MLD) is a component of the Internet Protocol Version 6 (IPv6) suite. MLD is used by IPv6 routers for discovering multicast listeners on a directly attached link, much like Internet Group Management Protocol (IGMP) is used in IPv4. The protocol is embedded in ICMPv6 instead of using a separate protocol. MLDv1 is similar to IGMPv2 and MLDv2 similar to IGMPv3. The protocol is described in RFC 3810 which has been updated by RFC 4604. ==Protocol== The ICMPv6 messages use type 143. ==Support== Several operating system support MLDv2: * Windows Vista and later * FreeBSD since release 8.0 * The Linux kernel since 2.5.68 ==References== Category:Internet protocols Category:Internet Standards Category:Network layer protocols Category:IPv6 ",
-    "title": "Multicast Listener Discovery"
-}

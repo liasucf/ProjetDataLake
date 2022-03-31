@@ -1,5 +1,0 @@
-{
-    "id": "51395548",
-    "text": "Object points are an approach used in software development effort estimation under some models such as COCOMO II. Object points are a way of estimating effort size, similar to Source Lines Of Code (SLOC) or Function Points. They are not necessarily related to objects in Object-oriented programming, the objects referred to include screens, reports, and modules of the language. The number of raw objects and complexity of each are estimated and a weighted total Object-Point count is then computed and used to base estimates of the effort needed. == See also == * COCOMO (Constructive Cost Model) * Comparison of development estimation software * Function point * Software development effort estimation * Software Sizing * Source lines of code * Use Case Points == References == Category:Software development ",
-    "title": "Object point"
-}

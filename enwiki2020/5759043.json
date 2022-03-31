@@ -1,5 +1,0 @@
-{
-    "id": "5759043",
-    "text": "Direct read after write is a procedure that compares data recorded onto a medium against the source. A typical example would be CD burning software which reads a CD-ROM once it has been burned onto, effectively ensuring that data written is the same as the data it was copied from. == External links== *Smart Computing Dictionary entry Category:Storage software ",
-    "title": "Direct read after write"
-}

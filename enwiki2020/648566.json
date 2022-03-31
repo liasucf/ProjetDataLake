@@ -1,5 +1,0 @@
-{
-    "id": "648566",
-    "text": "QNX4FS is an extent-based file system used by the QNX4 and QNX6 operating systems. As the file system uses soft updates, it remains consistent even after a power failure, without using journaling. Instead, the writes are carefully ordered and flushed to disk at appropriate intervals so that the on- disk structure always remains consistent, no matter if the operation is interrupted. However, unflushed changes to the file system are nevertheless lost, as the disk cache is typically stored in volatile memory. This design has a considerable performance gain over journaling, by just bypassing that step. Another notable property of this file system is that its actual metadata, like inode information and disk bitmaps, are accessible in the same way as any other file on the file system (as `/.inodes` and `/.bitmap`, respectively). This is consistent with QNX's (in fact, Plan 9 from Bell Labs's, or historically Unix's) philosophy that \"everything is a file\". ==External links== * Category:BlackBerry Category:Disk file systems ",
-    "title": "QNX4FS"
-}

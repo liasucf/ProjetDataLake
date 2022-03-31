@@ -1,5 +1,0 @@
-{
-    "id": "58423453",
-    "text": "SigSpoof () is a family of security vulnerabilities that affected the software package GNU Privacy Guard (\"GnuPG\") since version 0.2.2, that was released in 1998. Several other software packages that make use of GnuPG were also affected, such as Pass and Enigmail. In un-patched versions of affected software, SigSpoof attacks allow cryptographic signatures to be convincingly spoofed, under certain circumstances. This potentially enables a wide range of subsidiary attacks to succeed. According to Marcus Brinkmann, who discovered the SigSpoof vulnerabilities in June 2018, their existence, and the fact that they were present \"in the wild\" for so long, throws into question the integrity of past emails, \"backups, software updates, ... and source code in version control systems like Git.\" ==References== Category:Vulnerability Category:Computer security exploits ",
-    "title": "SigSpoof"
-}

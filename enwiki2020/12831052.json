@@ -1,5 +1,0 @@
-{
-    "id": "12831052",
-    "text": "A sphere world is a mathematical concept used in robotic motion planning. Essentially, if the environment is represented as a sphere, and the robot and obstacles within the environment are represented as spheres, then it is possible to construct navigation functions which create paths from a start position to a goal position. Although the real world is rarely composed of spheres, sphere worlds are still useful for motion planning, as they are topologically equivalent to star worlds. ==See also== *Navigation function *Sphere-world *Star world *Forest of stars *Topology == References == * E. Rimon, D. Koditschek Exact Robot Navigation Using Artificial Potential Functions IEEE Transactions on Robotics and Automation, Vol 8, No 5, Oct 1992 Category:Robot navigation ",
-    "title": "Sphere world"
-}

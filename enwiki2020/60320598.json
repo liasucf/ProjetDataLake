@@ -1,5 +1,0 @@
-{
-    "id": "60320598",
-    "text": "Inceptionv3 is a convolutional neural network for assisting in image analysis and object detection, and got its start as a module for Googlenet. It is the third edition of Google's Inception Convolutional Neural Network, originally introduced during the ImageNet Recognition Challenge. Just as ImageNet can be thought of as a database of classified visual objects, Inception helps classification of objects in the world of computer vision. One such use is in life sciences, where it aids in the research of Leukemia. It was \"codenamed 'Inception' after the film of the same name\". ==References== Category:Neural networks ",
-    "title": "Inceptionv3"
-}

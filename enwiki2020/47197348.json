@@ -1,5 +1,0 @@
-{
-    "id": "47197348",
-    "text": "The dose-fractionation theorem is a statement that says the total dose required to achieve statistical significance for each voxel of a computed 3D reconstruction is the same as that required to obtain a single 2D image of that isolated voxel at the same level of statistical significance. Hegerl and Hoppe have pointed out that a statistically significant 3D image can be computed from statistically insignificant projections, as long as the total dose that is distributed among these projections is high enough that it would have resulted in a statistically significant projection, if applied to only one image. ==References== Category:Condensed matter physics Category:Electron microscopy Category:Medical imaging Category:Geometric measurement Category:X-ray computed tomography Category:Multidimensional signal processing ",
-    "title": "Dose-fractionation theorem"
-}

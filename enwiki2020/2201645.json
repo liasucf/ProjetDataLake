@@ -1,5 +1,0 @@
-{
-    "id": "2201645",
-    "text": "An Entry Sequenced Data Set (ESDS) is a type of data set used by the VSAM computer data storage system. Records are accessed based on their sequential order, that is, the order in which they were written to the file; which means that accessing a particular record involves searching all the records sequentially until it is located, or by using a relative physical address (Relative byte address, RBA), i.e. the number of bytes from the beginning of the file to start reading. Keys may be used to access records in an RRDS by defining an alternate index. ==See also== *Key Sequenced Data Set *Relative Record Data Set *Random access ==References== Category:Computer file systems ",
-    "title": "Entry Sequenced Data Set"
-}

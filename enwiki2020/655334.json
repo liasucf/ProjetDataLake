@@ -1,5 +1,0 @@
-{
-    "id": "655334",
-    "text": "In mathematical logic, weak interpretability is a notion of translation of logical theories, introduced together with interpretability by Alfred Tarski in 1953. Let T and S be formal theories. Slightly simplified, T is said to be weakly interpretable in S if, and only if, the language of T can be translated into the language of S in such a way that the translation of every theorem of T is consistent with S. Of course, there are some natural conditions on admissible translations here, such as the necessity for a translation to preserve the logical structure of formulas. A generalization of weak interpretability, tolerance, was introduced by Giorgi Japaridze in 1992. ==See also== *Interpretability logic ==References== *. Written in collaboration with Andrzej Mostowski and Raphael M. Robinson. *. * * Category:Proof theory ",
-    "title": "Weak interpretability"
-}

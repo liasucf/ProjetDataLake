@@ -1,5 +1,0 @@
-{
-    "id": "5765221",
-    "text": "The System Management Unit (SMU) is an advanced internal subsystem introduced in late 2004 with the iMac G5 and Power Mac G5 series computers. It manages the functions previously governed by the PMU (Power Management Unit) as well as additional cooling functions. ==Overview== The SMU manages thermal and power conditions to optimize the power and airflow while keeping audible noise to a minimum. Power consumption and temperature are monitored by the operating system, which communicates the necessary adjustments back to the SMU. The SMU makes the changes, slowing down or speeding up fans as necessary. Resetting the SMU may fix certain problems during troubleshooting. == See also == * Power Management Unit (PMU) * System Management Controller (SMC) ==References== * Owen W. Linzmayer (ed.). Desktop and Portable Systems: Second Edition. . Category:Apple Inc. hardware Category:Macintosh computers ",
-    "title": "System Management Unit"
-}

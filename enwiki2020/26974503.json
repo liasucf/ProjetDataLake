@@ -1,5 +1,0 @@
-{
-    "id": "26974503",
-    "text": "A persistence framework is a middleware that assists and automates the storage of program data into databases, especially relational databases. It acts as a layer of abstraction between the application and the database, typically bridging any conceptual differences between the two. Many persistence frameworks are also object-relational mapping (ORM) tools (e.g. Hibernate, MyBatis SQL Maps, Apache Cayenne, Entity Framework, Slick, and Java Ultra-Lite Persistence). Such frameworks map the objects in the application domain to data that needs to be persisted in a database. The mappings can be defined using either XML files or metadata annotations. == External links == * What is Persistence Framework? Rose India * ",
-    "title": "Persistence framework"
-}

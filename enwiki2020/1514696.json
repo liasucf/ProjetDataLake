@@ -1,5 +1,0 @@
-{
-    "id": "1514696",
-    "text": "Parity problems are widely used as benchmark problems in genetic programming but inherited from the artificial neural network community. Parity is calculated by summing all the binary inputs and reporting if the sum is odd or even. This is considered difficult because: #a very simple artificial neural network cannot solve it, and #all inputs need to be considered and a change to any one of them changes the answer. ==References== * Foundations of Genetic Programming Category:Genetic programming ",
-    "title": "Parity benchmark"
-}

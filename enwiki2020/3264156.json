@@ -1,5 +1,0 @@
-{
-    "id": "3264156",
-    "text": "In a data warehouse, a measure is a property on which calculations (e.g., sum, count, average, minimum, maximum) can be made. ==Example== For example if retail store sold a specific product, the quantity and prices of each item sold could be added or averaged to find the total number of items sold and total or average price of the goods sold. ==Use of ISO representation terms== When entering data into a metadata registry such as ISO/IEC 11179, representation terms such as Number, Value and Measure are typically used as measures. ==See also== * Data warehouse * Dimension (data warehouse) ==References== * Kimball, Ralph et al. (1998); The Data Warehouse Lifecycle Toolkit, p17. Pub. Wiley. . * Kimball, Ralph (1996); The Data Warehouse Toolkit, p100. Pub. Wiley. . Category:Data warehousing Category:Metadata ",
-    "title": "Measure (data warehouse)"
-}

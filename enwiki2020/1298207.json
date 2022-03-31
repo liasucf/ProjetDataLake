@@ -1,5 +1,0 @@
-{
-    "id": "1298207",
-    "text": "Standard Architecture for Universal Comment Extensions or SAUCE, as it is most commonly known, is an open metadata protocol for tagging and describing ASCII text files and other files, most of which generally center on or date back to the era of BBSing. SAUCE is very similar in nature to the MP3 ID3 tag format created in 1996 in that it carries metadata such as the title, author (artist), organization (group), as well as specific hierarchical datatype information depending on what type of file it is describing. The SAUCE protocol was invented and developed by the Belgian programmer known by the pseudonym Tasmaniac of ACiD, who later went on to create the XBin image format, in 1994, two years before ID3 was established. The first utility created to add SAUCE descriptions to files was named SPOON. ==References== Category:Metadata ",
-    "title": "Standard Architecture for Universal Comment Extensions"
-}

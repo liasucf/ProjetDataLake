@@ -1,5 +1,0 @@
-{
-    "id": "14048720",
-    "text": "Example output of the command in xterm. pg is a terminal pager program on Unix and Unix-like systems for viewing text files. It can also be used to page through the output of a command via a pipe. pg uses an interface similar to vi, but commands are different.Linux / Unix pg command As of 2018, pg has been removedThe Open Group Base Specifications Issue 7, 2018 edition, C.4 Utilities from the POSIX specification, but is still included in util-linux. Users are expected to use other paging programs, such as more, less or most. == History == pg is the name of the historical utility on BSD UNIX systems. It was written to address the limit of the historical more command not being able to traverse the input backward. Eventually that ability was added also to more, so both are quite similar. == References == == See also == * less * more * most (Unix) Category:Terminal pagers ",
-    "title": "Pg (Unix)"
-}

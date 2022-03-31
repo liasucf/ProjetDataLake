@@ -1,5 +1,0 @@
-{
-    "id": "31372766",
-    "text": "An RRQR factorization or rank-revealing QR factorization is a matrix decomposition algorithm based on the QR factorization which can be used to determine the rank of a matrix. The singular value decomposition can be used to generate an RRQR, but it is not an efficient method to do so. An RRQR implementation is available in MATLAB. == References == Category:Matrix decompositions Category:Numerical linear algebra ",
-    "title": "RRQR factorization"
-}

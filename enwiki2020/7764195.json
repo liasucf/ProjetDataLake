@@ -1,5 +1,0 @@
-{
-    "id": "7764195",
-    "text": "In mathematical analysis, Rademacher's theorem, named after Hans Rademacher, states the following: If is an open subset of and is Lipschitz continuous, then is differentiable almost everywhere in ; that is, the points in at which is not differentiable form a set of Lebesgue measure zero. ==Generalizations== There is a version of Rademacher's theorem that holds for Lipschitz functions from a Euclidean space into an arbitrary metric space in terms of metric differentials instead of the usual derivative. ==See also== *Alexandrov theorem *Pansu derivative == References == * . (Rademacher's theorem is Theorem 3.1.6.) * (Rademacher's theorem with a proof is on page 18 and further.) Category:Lipschitz maps Category:Theorems in measure theory ",
-    "title": "Rademacher's theorem"
-}

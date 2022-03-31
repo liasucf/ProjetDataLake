@@ -1,5 +1,0 @@
-{
-    "id": "63938891",
-    "text": "Code page 3846 is a modification of code page 437 to support the Turkish language. This code page is supported by Star printersStar LC 8021 User's Manual and FreeDOS. == Character set == The following tables show code page 3846. Each character is shown with its equivalent Unicode code point and its decimal Alt code. Only the second half of the table (code points 128-255) is shown, the first half (code points 0-127) being the same as code page 437. {| |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |} When translating to Unicode some codes do not have a unique, single Unicode equivalent; the correct choice may depend upon context; see code page 437. ==References== Category:Character encoding ",
-    "title": "Code page 3846"
-}

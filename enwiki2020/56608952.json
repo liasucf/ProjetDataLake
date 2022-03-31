@@ -1,5 +1,0 @@
-{
-    "id": "56608952",
-    "text": "In mathematics, an algebraic representation of a group G on a k-algebra A is a linear representation \\pi: G \\to GL(A) such that, for each g in G, \\pi(g) is an algebra automorphism. Equipped with such a representation, the algebra A is then called a G-algebra. For example, if V is a linear representation of a group G, then the representation put on the tensor algebra T(A) is an algebraic representation of G. If A is a commutative G-algebra, then \\operatorname{Spec}(A) is an affine G-scheme. == References == *Claudio Procesi (2007) Lie Groups: an approach through invariants and representation, Springer, . Category:Lie groups Category:Representation theory ",
-    "title": "Algebraic representation"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "3255573",
-    "text": "The Lattice Project was once a distributed computing project that combined computing resources, Grid middleware, specialized scientific application software and web services into a comprehensive Grid computing system for scientific analysis. It ran the Genetic Algorithm for Rapid Likelihood Inference (GARLI) software to determine the relationships between different genetic samples. A major aspect of the project makes use of the Berkeley Open Infrastructure for Network Computing (BOINC) platform. The Lattice Project maintained a separate BOINC web site, but the site is dead as of this writing, causing this project to shut down because BOINC depends on this website to get setup information to set this project up on its clients. == References == == External links == * The Lattice Project web site Lattice Project, The ",
-    "title": "The Lattice Project"
-}

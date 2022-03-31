@@ -1,5 +1,0 @@
-{
-    "id": "12852680",
-    "text": "Code page 1133 (CCSID 1133) is a code page created by IBM for representation of Lao script. ==Code page layout== Only the upper half of the table (80\u2013FF) is shown, the lower half (00\u20137F) being the same as ASCII. {| |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |} ==References== 1133 ",
-    "title": "Code page 1133"
-}

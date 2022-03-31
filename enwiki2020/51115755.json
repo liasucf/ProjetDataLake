@@ -1,5 +1,0 @@
-{
-    "id": "51115755",
-    "text": "In statistics, the Conover squared ranks test is a non-parametric version of the parametric Levene's test for equality of variance. Conover's squared ranks test is the only equality of variance test that appears to be non-parametric. Other tests of significance of difference of data dispersion are parametric (i.e., are difference of variance tests). The squared ranks test is arguably a test of significance of difference of data dispersion not variance per se. This becomes important, for example, when the Levene's test fails to satisfy the rather generous conditions for normality associated with that test and is a default alternative under those conditions for certain statistical software programs like the VarianceEquivalenceTest routine in Mathematica. In addition to Levene's test, other parametric tests for equality of variance include the Bartlett, Brown-Forsythe, and Fisher Ratio tests. ==References== Category:Statistical tests Category:Analysis of variance ",
-    "title": "Squared ranks test"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "1516033",
-    "text": "In mathematics, there are several functions known as Kummer's function. One is known as the confluent hypergeometric function of Kummer. Another one, defined below, is related to the polylogarithm. Both are named for Ernst Kummer. Kummer's function is defined by :\\Lambda_n(z)=\\int_0^z \\frac{\\log^{n-1}|t|}{1+t}\\;dt. The duplication formula is :\\Lambda_n(z)+\\Lambda_n(-z)= 2^{1-n}\\Lambda_n(-z^2). Compare this to the duplication formula for the polylogarithm: :\\operatorname{Li}_n(z)+\\operatorname{Li}_n(-z)= 2^{1-n}\\operatorname{Li}_n(z^2). An explicit link to the polylogarithm is given by :\\operatorname{Li}_n(z)=\\operatorname{Li}_n(1)\\;\\;+\\;\\; \\sum_{k=1}^{n-1} (-)^{k-1} \\;\\frac{\\log^k |z|} {k!} \\;\\operatorname{Li}_{n-k} (z) \\;\\;+\\;\\; \\frac{(-)^{n-1}}{(n-1)!} \\;\\left[ \\Lambda_n(-1) - \\Lambda_n(-z) \\right]. ==References== *. Category:Special functions hu:Kummer-f\u00fcggv\u00e9ny ",
-    "title": "Kummer's function"
-}

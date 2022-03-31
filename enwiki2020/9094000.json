@@ -1,5 +1,0 @@
-{
-    "id": "9094000",
-    "text": "Browser synchronization (often simply called sync) is a free cloud service provided by a web browser vendor for sharing settings and data across multiple installs. This is typically used to maintain a consistent browser setup on multiple devices. The user must be logged-in to their account to sync a browser. ==Comparison== These are the items synchronized for browsers that provide this service. {| class=\"wikitable sortable\" style=\"width: auto; text- align: center; table-layout: fixed;\" ! Browser ! Browsing history ! Passwords ! Form entries ! Bookmarks ! Other items |- ! FirefoxFirefox sync | | | | | |- ! Google ChromeGoogle sync | | | | | |- ! OperaOpera sync | | | | | |personal bar, speed dial, notes, search engines, content blocker list}} |- |} ==References== Category:Web browsers ",
-    "title": "Browser synchronization"
-}

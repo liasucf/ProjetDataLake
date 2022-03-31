@@ -1,5 +1,0 @@
-{
-    "id": "56688946",
-    "text": "Nvidia GRID is a family of graphic processing units (GPU) made by Nvidia, introduced in 2008, that is targeted specifically towards cloud gaming. The Nvidia GRID includes both graphics processing and video encoding into a single device which is able to decrease the input to display latency of cloud based video game streaming. Nvidia offer their own game streaming service that makes use of the Nvidia Grid that supports full 1080p at 60 frames per second over the Internet. While GPUs, and Nvidia in particular, are generally considered mainly for video games, there has been a recent growth of business applications that are GPU-accelerated. The Nvidia GRID K1 and K2 are being integrated with Supermicro server clusters for use with 3D-intensive applications such as graphics and computer aided drafting (CAD). In 2015, Microsoft began including Nvidia GRID as part of its Azure Enterprise cloud platform targeted towards professionals such as engineers, designers and researchers. == References == Category:Nvidia graphics processors ",
-    "title": "Nvidia GRID"
-}

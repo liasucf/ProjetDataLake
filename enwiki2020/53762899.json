@@ -1,5 +1,0 @@
-{
-    "id": "53762899",
-    "text": "In mathematics, a fusion category is a category that is rigid, semisimple, k-linear, monoidal and has only finitely many isomorphism classes of simple objects, such that the monoidal unit is simple. If the ground field k is algebraically closed, then the latter is equivalent to \\mathrm{Hom}(1,1)\\cong k by Schur's lemma. ==Examples== * Representation Category of a finite group ==Reconstruction== Under Tannaka-Krein duality, every fusion category arises as the representations of a weak Hopf algebra. Category:Category theory ",
-    "title": "Fusion category"
-}

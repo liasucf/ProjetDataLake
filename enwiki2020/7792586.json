@@ -1,5 +1,0 @@
-{
-    "id": "7792586",
-    "text": "A WAP gateway sits between mobile devices using the Wireless Application Protocol (WAP) and the World Wide Web, passing pages from one to the other much like a proxy. This translates pages into a form suitable for the mobiles, for instance using the Wireless Markup Language (WML). This process is hidden from the phone, so it may access the page in the same way as a browser accesses HTML, using a URL (for example, http://example.com/foo.wml), provided the mobile phone operator has not specifically prevented this. WAP gateway software that encodes and decodes request and response between the smartphones, microbrowser and internet. It decodes the encoded WAP requests from the microbrowser and send the HTTP requests to the internet or to a local application server. It also encodes the WML and HDML data returning from the web for transmission to the microbrowser in the handset. == References == * Kannel: Open Source WAP and SMS Gateway * What is WAP Gateway * Wap- Gateway.com: Free WAP Gateway / Wap Proxy * http://www.squid-cache.org/ Category:Wireless Application Protocol ",
-    "title": "WAP gateway"
-}

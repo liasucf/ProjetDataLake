@@ -1,5 +1,0 @@
-{
-    "id": "31364620",
-    "text": "The modular debugger (mdb) is an extensible, low-level debugger developed by Sun Microsystems for the Solaris 7 operating system. It is now open sourced, under the Common Development and Distribution License (CDDL). Its source code is now available in all open source derivatives of Solaris, such as Illumos. ==History== The mdb project was started in 1997 by Mike Shapiro and others when the Solaris operating system was adding support for 64-bit architectures. Up until that point, Solaris was using the aging adb debugger developed by Steve Bourne (initially for the AT&T; SVR4 Unix distribution). It was very difficult to simply port adb from a 32-bit architecture to a 64-bit architecture, so Sun engineers decided to make a new debugger that would feature enhanced debugging capabilities, while being backward compatible with adb. ==See also== *dbx (debugger) ==References== * Category:Debuggers ",
-    "title": "Modular Debugger"
-}

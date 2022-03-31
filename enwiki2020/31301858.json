@@ -1,5 +1,0 @@
-{
-    "id": "31301858",
-    "text": "Pakistan uses one time zone, which is Pakistan Standard Time (PKT). This is UTC+05:00 \u2014 that is, five hours ahead of Coordinated Universal Time. ==History== {|class=\"wikitable\" | Period in use | Time offset from GMT | Notes |- | Prior until 1907 | UTC+04:28:12 | Karachi Time (KART) |- | 1907\u20131951 | UTC+05:30 | |- | 1951\u20131971 | UTC+05:00 in West Pakistan UTC+06:00 in East Pakistan | Karachi Time (KART) Dacca Time (DACT) |- | 1971\u2013present | UTC+05:00 in Pakistan | Pakistan Standard Time (PKT) |- |} ==Notation== ' ==Daylight saving time== Daylight saving time in Pakistan is no longer observed. ==IANA time zone database== The IANA time zone database contains one zone for Pakistan in the file zone.tab, named Asia/Karachi. ==References== ",
-    "title": "Time in Pakistan"
-}

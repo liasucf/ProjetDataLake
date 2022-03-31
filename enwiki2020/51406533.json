@@ -1,5 +1,0 @@
-{
-    "id": "51406533",
-    "text": "The Racah seniority number (seniority quantum number) u was introduced by Giulio Racah for the classification of electrons in an atomic configuration. The \"seniority number\", in a loosing statement, is quantum number additional to the total angular momentum L and total spin S , which gives the degree of unpaired particles. A spin-independent interaction \\hat{V} is assumed with the property : = g(2l+1)\\delta_{L0} , where L is the combined angular momentum, M_L magnetic quantum number, l is electrons' orbital angular momenta, and g is the dimensionless magnetic moment. The equation above shows there is no interaction unless the two electrons' orbital angular momenta are coupled to L = 0. The eigenvalue is the \"seniority number\" u. ==References== Category:Quantum mechanics ",
-    "title": "Racah seniority number"
-}

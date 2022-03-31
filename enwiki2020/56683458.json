@@ -1,5 +1,0 @@
-{
-    "id": "56683458",
-    "text": "The Brennan conjecture is a mathematical hypothesis (in complex analysis) for estimating (under specified conditions) the integral powers of the moduli of the derivatives of conformal maps into the open unit disk. The conjecture was formulated by James E. Brennan in 1978. Let be a simply connected open subset of \\mathbb{C} with at least two boundary points in the extended complex plane. Let \\varphi be a conformal map of onto the open unit disk. The Brennan conjecture states that \\int_W |\\varphi\\ '|^p\\, \\mathrm{d}x\\, \\mathrm{d}y < \\infty whenever 4/3 < p < 4. (Brennan proved the result when 4/3 < p < p_0 for some constant p_0 > 3. Bertilsson proved in 1999 that the result holds when 4/3 < p < 3.422 but the full result remains open.) ==References== Category:Conjectures ",
-    "title": "Brennan conjecture"
-}

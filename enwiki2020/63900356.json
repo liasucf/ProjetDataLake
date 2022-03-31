@@ -1,5 +1,0 @@
-{
-    "id": "63900356",
-    "text": "The Density Functional Based Tight Binding method is an approximation to density functional theory, which reduces the Kohn-Sham equations to a form of tight binding related to the Harris functional. The original Seifert, G., H. Eschrig, and W. Bieger. \"An approximation variant of LCAO-X-ALPHA methods.\" Zeitschrift Fur Physikalische Chemie-Leipzig 267.3 (1986): 529-539 approximation limits interactions to a non-self-consistent two center hamiltonian between confined atomic states. In the late 1990s a second-order expansion of the Kohn-Sham energy enabled a charge self-consistent treatment of systems where Mulliken charges of the atoms are solved self-consistently. This expansion has been continued to the 3rd order in charge fluctuations and with respect to spin fluctuations . Unlike empirical tight binding the wavefunction of the resulting system is available. ==References== Category:Electronic structure methods Category:Electronic band structures Category:Quantum chemistry Category:Theoretical chemistry ",
-    "title": "DFTB"
-}

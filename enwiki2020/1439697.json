@@ -1,5 +1,0 @@
-{
-    "id": "1439697",
-    "text": "ERC32 is a radiation-tolerant 32-bit RISC processor (SPARC V7 specification) developed for space applications. It was developed by Temic (acquired by Atmel and then Microchip), which by now it's obsolete for new designs. It is used in the DMS-R(Data Management System - Russian) computer of the Russian Orbital Segment to handle guidance, navigation and control, and onboard systems and subsystems control for the entire ISS, and other critical tasks. ==Versions== Two versions have been manufactured: * ERC32 Chip Set (Part Names: TSC691, TSC692, TSC693) * ERC32 Single Chip (Part Name: TSC695). ==Support== Support for the chip set version of the ERC32 has been discontinued. ==See also== * LEON ==External links== * ERC32 Page at ESA Microelectronic * ERC32 Documentation * TSC695 page on Atmel/Microchip Website * GNU/Linux SPARC-HOWTO Category:Radiation-hardened microprocessors Category:Open microprocessors Category:SPARC microprocessors ",
-    "title": "ERC32"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "1431478",
-    "text": "Minicom running a Windows 2003 EMS prompt Minicom is a text-based modem control and terminal emulator program for Unix-like operating systems, originally written by Miquel van Smoorenburg, and modeled after the popular MS-DOS program Telix. Minicom includes a dialing directory, ANSI and VT100 emulation, an (external) scripting language, and other features. Minicom is a menu-driven communications program. It also has an auto ZMODEM download. A common use for Minicom is when setting up a remote serial console, perhaps as a last resort to access a computer if the LAN is down. This can be done using nothing more than a 386 laptop with a Minicom floppy distribution such as Pitux or Serial Terminal Linux. == See also == * * tip (Unix utility) == References == == External links == * minicom(1) \u2013 Linux User Commands Manual * Category:Free communication software Category:Free software programmed in C Category:Free terminal emulators ",
-    "title": "Minicom"
-}

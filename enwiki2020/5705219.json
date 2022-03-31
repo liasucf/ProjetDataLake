@@ -1,5 +1,0 @@
-{
-    "id": "5705219",
-    "text": "In topology, a topological space is said to be resolvable if it is expressible as the union of two disjoint dense subsets. For instance, the real numbers form a resolvable topological space because the rationals and irrationals are disjoint dense subsets. A topological space that is not resolvable is termed irresolvable. == Properties == * The product of two resolvable spaces is resolvable * Every locally compact topological space without isolated points is resolvable * Every submaximal space is irresolvable ==See also== * Glossary of topology ==References== * * * Category:Properties of topological spaces ",
-    "title": "Resolvable space"
-}

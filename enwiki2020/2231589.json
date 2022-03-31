@@ -1,5 +1,0 @@
-{
-    "id": "2231589",
-    "text": "In cryptography, a pseudorandom ensemble is a family of variables meeting the following criteria: Let U = \\\\{U_n\\\\}_{n \\in \\mathbb{N}} be a uniform ensemble and X = \\\\{X_n\\\\}_{n \\in \\mathbb{N}} be an ensemble. The ensemble X is called pseudorandom if X and U are indistinguishable in polynomial time. ==References== * Goldreich, Oded (2001). Foundations of Cryptography: Volume 1, Basic Tools. Cambridge University Press. . Fragments available at the author's web site. Category:Algorithmic information theory Category:Pseudorandomness Category:Cryptography ",
-    "title": "Pseudorandom ensemble"
-}

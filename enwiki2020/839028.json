@@ -1,5 +1,0 @@
-{
-    "id": "839028",
-    "text": "Socket 423 is a 423 pin CPU socket used by the first generation of Pentium 4 processors, based on the Willamette core. It was replaced by Socket 478 in 2001. ==Technical specifications== This socket houses any processor designed in the Socket 423 package. The socket was short-lived, as it became apparent that its electrical design proved inadequate for raising clock speed beyond 2.0 GHz. Intel produced chips using this socket for less than a year, from November 2000 to August 2001. It was replaced by Socket 478. The processors used with this socket also have a locked multiplier which means that they are not overclockable unless the front side bus frequency is increased. However raising the FSB frequency could push other buses out of spec and thus cause system instability. The \"PowerLeap PL-P4/N\" is a device developed in the form of a socket adapter allowing the use of Socket 478 processors in Socket 423. ==References== ==External links== *Socket 423 to 478 adaptor review *Comparison of Socket 423, Socket 478 and Socket A fan mounting hole positions Category:Intel CPU sockets ",
-    "title": "Socket 423"
-}

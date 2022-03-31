@@ -1,5 +1,0 @@
-{
-    "id": "1433747",
-    "text": "In complex analysis, Harnack's principle or Harnack's theorem is one of several closely related theorems about the convergence of sequences of harmonic functions, that follow from Harnack's inequality. If the functions u_1(z), u_2(z), ... are harmonic in an open connected subset G of the complex plane C, and :u_1(z) \\le u_2(z) \\le \\dots in every point of G, then the limit : \\lim_{n\\to\\infty}u_n(z) either is infinite in every point of the domain G or it is finite in every point of the domain, in both cases uniformly in each compact subset of G. In case the limits are finite, the limit function : u(z) = \\lim_{n\\to\\infty}u_n(z) is harmonic in G. ==References== * * Category:Harmonic functions Category:Theorems in complex analysis Category:Mathematical principles ",
-    "title": "Harnack's principle"
-}

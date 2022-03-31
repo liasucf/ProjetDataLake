@@ -1,5 +1,0 @@
-{
-    "id": "530417",
-    "text": "A suppressor grid is a grid used in a thermionic valve (also called vacuum tube) to suppress secondary emission. A suppressor grid is also called the antidynatron grid, as it helps to reduce the dynatron effect. == Placement == In its simplest form, a suppressor grid, typically of coarse structure, is interposed between the screen grid and the anode (plate) of a tetrode, turning it into a pentode. == Electrical connection of grid == The suppressor grid is usually connected to the cathode and more often than not, this connection is made within the glass envelope. Because the grid is negatively charged relative to both the anode and the screen grid, it repels any secondary electrons back to the anode preventing them from contributing to the screen grid current, and to any negative resistance characteristic. Category:Vacuum tubes Category:Electrodes ",
-    "title": "Suppressor grid"
-}

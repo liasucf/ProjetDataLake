@@ -1,5 +1,0 @@
-{
-    "id": "60263752",
-    "text": "Spoiler is a security vulnerability on modern computer central processing units that use speculative execution. It exploits side-effects of speculative execution to improve the efficiency of Rowhammer and other related memory and cache attacks. According to reports, all modern Intel Core CPUs are vulnerable to the attack . AMD has stated that its processors are not vulnerable. Spoiler was issued a Common Vulnerabilities and Exposures ID of . == See also == * Hardware security bug * Meltdown (security vulnerability) * Microarchitectural Data Sampling == References == == External links == * * CVE-2019-0162 at National Vulnerability Database Category:Speculative execution security vulnerabilities Category:Computer security exploits Category:Hardware bugs Category:2019 in computing ",
-    "title": "Spoiler (security vulnerability)"
-}

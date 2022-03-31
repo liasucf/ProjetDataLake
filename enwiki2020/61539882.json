@@ -1,5 +1,0 @@
-{
-    "id": "61539882",
-    "text": "The IBM Virtual Machine Communication Facility (VMCF) is a feature of the VM/370 operating system introduced in Release 3 in 1976. It \"provides a method of communication and data transfer between virtual machines operating under the same VM/370 system.\" VMCF uses paravirtualization through the diagnose instruction VMCF `SEND` function to send data, in blocks of up to 2048 bytes, from one virtual machine to another. The receiving virtual machine accesses the data thru the diagnose `RECEIVE` function. It provides a simpler interface and greater performance than the prior use of virtual channel-to-channel adapters for the same purpose. ==References== ==See also== * Inter User Communication Vehicle Category:IBM mainframe operating systems Category:VM (operating system) Category:Virtualization software ",
-    "title": "Virtual Machine Communication Facility"
-}

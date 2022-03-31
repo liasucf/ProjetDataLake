@@ -1,5 +1,0 @@
-{
-    "id": "61525719",
-    "text": "In optimal control theory, a control is a variable chosen by the controller or agent to manipulate state variables, similar to an actual control valve. Unlike the state variable, it does not have a predetermined equation of motion. The goal of optimal control theory is to find some sequence of controls (within an admissible set) to achieve an optimal path for the state variables (with respect to a loss function). A control given as a function of time only is referred to as an open-loop control. In contrast, a control that gives optimal solution during some remainder period as a function of the state variable at the beginning of the period is called a closed-loop control. == See also == * Control loop == References == Category:Control theory ",
-    "title": "Control (optimal control theory)"
-}

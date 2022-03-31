@@ -1,5 +1,0 @@
-{
-    "id": "47198640",
-    "text": "The conventional method to evaluate the resolution of a tomography reconstruction is determined by the Crowther criterion. The minimum number of views, m, to reconstruct a particle of diameter D to a resolution of d (=1/R) is given by :m = \\pi \\frac{D}{d}. ==References== Category:Condensed matter physics Category:Electron microscopy Category:Medical imaging Category:Geometric measurement Category:X-ray computed tomography Category:Multidimensional signal processing ",
-    "title": "Crowther criterion"
-}

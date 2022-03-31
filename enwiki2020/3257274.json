@@ -1,5 +1,0 @@
-{
-    "id": "3257274",
-    "text": "Pyramid 2000 is an interactive fiction game.Figmentfly.com The game is an altered version of Colossal Cave that takes advantage of an Egyptian setting, re-theming some of the locations, objects, and puzzles. For instance, the \"little bird\" from Adventure is now a \"bird statue\" and the \"clam\" is a \"sarcophagus.\" ==Development== The system was written using a custom p-code machine with 32 instructions. Unlike the Infocom z-machine, this machine was specific to this game (e.g., command 13 asserted the player was carrying the emerald and only the emerald). ==Reception== It was panned by 80 Micro: \"This game is yet another example of Radio Shack's inability to deal with the consumer in a consumer's market... Pyramid suffers from the lack of a command word base... You can try typing `HELP`, but don't expect any.\" ==References== ==External links== *Pyramid 2000 Solution page Category:Adventure games Category:1970s interactive fiction Category:1979 video games Category:TRS-80 games Category:TRS-80 Color Computer games Category:Video games developed in the United States ",
-    "title": "Pyramid 2000"
-}

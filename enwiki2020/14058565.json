@@ -1,5 +1,0 @@
-{
-    "id": "14058565",
-    "text": "In vector calculus, the surface gradient is a vector differential operator that is similar to the conventional gradient. The distinction is that the surface gradient takes effect along a surface. For a surface S in a scalar field u, the surface gradient is defined and notated as : abla_S u = abla u - \\mathbf{\\hat n} (\\mathbf{\\hat n} \\cdot abla u) where \\mathbf{\\hat n} is a unit normal to the surface.R. Shankar Subramanian, Boundary Conditions in Fluid Mechanics. Examining the definition shows that the surface gradient is the (conventional) gradient with the component normal to the surface removed (subtracted), hence this gradient is tangent to the surface. In other words, the surface gradient is the orthographic projection of the gradient onto the surface. The surface gradient arises whenever the gradient of a quantity over a surface is important. In the study of capillary surfaces for example, the gradient of spatially varying surface tension doesn't make much sense, however the surface gradient does and serves certain purposes. ==References== Category:Vector calculus ",
-    "title": "Surface gradient"
-}

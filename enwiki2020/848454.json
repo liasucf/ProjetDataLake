@@ -1,5 +1,0 @@
-{
-    "id": "848454",
-    "text": "A tektronix pin-grid array DUT board 160 Pin DUT PCB DUT boards are used in automated integrated circuit testing where the term DUT stands for device under test, referring to the circuit being tested. A DUT board is a printed circuit board, and is the interface between the integrated circuit and a test head, which in turn attaches to automatic test equipment (ATE). DUT boards are designed to meet both the mechanical and electrical requirements of the particular chip and the specific test equipment to be used. One type of DUT board is used in testing the individual die (or dice) of a silicon wafer before they are cut free and packaged, and another type is used for testing packaged IC's. ==Synonyms== DUT boards are occasionally known as DIBs (Device Interface Boards), probecards, or PIBs (Probecard Interface Boards). Category:Semiconductor fabrication equipment Category:Hardware testing ",
-    "title": "DUT board"
-}

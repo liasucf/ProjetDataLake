@@ -1,5 +1,0 @@
-{
-    "id": "44311744",
-    "text": "IBM Assembly Language Processor (ALP) is an assembler written by IBM for 32-bit OS/2 Warp (OS/2 3.0), which was released in 1994. ALP accepts source programs compatible with Microsoft Macro Assembler (MASM) version 5.1, which was originally used to build many of the device drivers included with OS/2. For OS/2 versions 3 and 4 ALP was distributed, along with other tools and documentation, as part of the Device Driver Kit (DDK). The DDK was withdrawn in 2004 as part of IBM's discontinuance of OS/2. ==References== ==External links== * ALP binaries and documentation ALP Category:Assemblers Category:OS/2 software Category:Computer programming tools ",
-    "title": "IBM ALP"
-}

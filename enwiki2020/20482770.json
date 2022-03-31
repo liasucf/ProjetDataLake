@@ -1,5 +1,0 @@
-{
-    "id": "20482770",
-    "text": "In mathematics, a unimodular polynomial matrix is a square polynomial matrix whose inverse exists and is itself a polynomial matrix. Equivalently, a polynomial matrix A is unimodular if its determinant det(A) is a nonzero constant. == References == * * . == External links == * Polynomial matrix glossary at Polyx (A matlab toolbox) Category:Matrices Category:Polynomials ",
-    "title": "Unimodular polynomial matrix"
-}

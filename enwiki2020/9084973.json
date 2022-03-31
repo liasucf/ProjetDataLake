@@ -1,5 +1,0 @@
-{
-    "id": "9084973",
-    "text": "Bot herders are hackers who use automated techniques to scan specific network ranges and find vulnerable systems, such as machines without current security patches, on which to install their bot program. The infected machine then has become one of many zombies in a botnet and responds to commands given by the bot herder, usually via an Internet Relay Chat channel. One of the new bot herders includes the controller of Conficker. A bot herder usually uses a pseudonym to keep themselves anonymous, and may use proxy servers, shell accounts and bouncers to conceal their IP address thus maintaining anonymity. ==See also== * Internet bot * Botnet ==References== Category:Botnets ",
-    "title": "Bot herder"
-}

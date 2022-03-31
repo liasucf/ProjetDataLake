@@ -1,5 +1,0 @@
-{
-    "id": "2549312",
-    "text": "In number theory, a provable prime is an integer that has been calculated to be prime using a primality-proving algorithm. Boot-strapping techniques using Pocklington primality test are the most common ways to generate provable primes for cryptography. Contrast with probable prime, which is likely (but not certain) to be prime, based on the output of a probabilistic primality test. In principle, every prime number can be proved to be prime in polynomial time by using the AKS primality test. Other methods which guarantee that their result is prime, but which do not work for all primes, are useful for the random generation of provable primes.. ==See also== *Primality test *Probable prime ==References== Category:Primality tests ",
-    "title": "Provable prime"
-}

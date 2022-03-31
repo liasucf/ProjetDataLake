@@ -1,5 +1,0 @@
-{
-    "id": "63849351",
-    "text": "In mathematics, the Blumberg theorem states that for any real function there is a dense subset D of \u211d such that the restriction of f to D is continuous. For instance, the restriction of the Dirichlet function (the indicator function of the rational numbers \u211a) to \u211a is continuous, although the Dirichlet function is nowhere continuous. == Blumberg spaces == More generally, a Blumberg space is a topological space X for which any function f : X \u2192 \u211d admits a continuous restriction on a dense subset of X. Blumberg theorem therefore asserts that \u211d (equipped with its usual topology) is a Blumberg space. If X is a metric space, then X is a Blumberg space if and only if it is a Baire space. == References == * * * * * https://www.encyclopediaofmath.org/index.php/Blumberg_theorem Category:Theorems in real analysis Category:Theorems in topology ",
-    "title": "Blumberg theorem"
-}

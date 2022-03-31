@@ -1,5 +1,0 @@
-{
-    "id": "9127502",
-    "text": "In cryptography, Spectr-H64 is a block cipher designed in 2001 by N. D. Goots, A. A. Moldovyan and N. A. Moldovyan. It relies heavily on the permutation of individual bits, so is much better suited to implementation in hardware than in software. The algorithm has a block size of 64 bits and key size of 256 bits. It uses a 12 round structure in which half of the block determines the transformation of the other half in each round, similar to a Feistel cipher or RC5. This same basic design was repeated in its successor, CIKS-1. ==Cryptanalysis== An analysis of Spectr-H64 was presented in 2002 by Sel\u00e7uk Kavut and Melek D Y\u00fccel of the Middle East Technical University, showing a method of using a differential attack to retrieve half of the key bits when a single round is used. Using this method, they then presented a slide attack that requires 217 chosen plaintexts to return all key bits on the full 12 rounds. ==References== * == Further reading == * * Category:Broken block ciphers ",
-    "title": "Spectr-H64"
-}

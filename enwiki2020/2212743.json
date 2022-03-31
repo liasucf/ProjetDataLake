@@ -1,5 +1,0 @@
-{
-    "id": "2212743",
-    "text": "net2ftp is a web based FTP client, written in PHP. ==Features== As well as offering standard FTP functions, net2ftp also offers a variety of features including archiving and extracting files and directories, downloading a selected group of files and/or directories as an archive. net2ftp can be set to restrict connections via an access list and can log user actions. Other plugins can be installed to add additional functionality as well. net2ftp can also be downloaded and installed on a host server, in which the requirements are: *A web server which can run PHP *PHP 4.2.3 or greater (Optionally, one feature requires PHP 5) *At least 7.5 MB of free space for the net2ftp binaries *MySQL for daily limits and advanced logging ==Integration== net2ftp has been integrated into many popular Content Management Systems, including Drupal, Joomla, Mambo and XOOPS. net2ftp has also been translated into over 15 languages. ==References== *net2ftp homepage *net2ftp help *net2ftp.nl.eu.org is version 1.00 *Used by the Invisionix Systems IRSR Category:Free FTP clients Category:Free software programmed in PHP ",
-    "title": "Net2ftp"
-}

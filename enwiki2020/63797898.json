@@ -1,5 +1,0 @@
-{
-    "id": "63797898",
-    "text": "Cerberus is a trojan horse targeting mobile banking credentials. It is capable of logging all keystrokes (including passwords) and stealing 2FA tokens from Google Authenticator and SMS messages. It also allows remote control over the device using TeamViewer. It is sold as Malware as a service on underground forums. == History == * It was initially spotted in June 2019. * It was spotted targeting Spanish and Latin American targets in September 2019. * Attacks capabile of stealing Google Authenticator and SMS 2FA tokens was spotted in February 2020. * In April 2020, variants has been spotted posing as COVID-19-related apps. ==References== Category:Malware stubs Category:Trojan horses ",
-    "title": "Cerberus (Android)"
-}

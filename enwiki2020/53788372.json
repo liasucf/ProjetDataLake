@@ -1,5 +1,0 @@
-{
-    "id": "53788372",
-    "text": "A spatiotemporal plot of a simulation of the Kuramoto\u2013Sivashinsky equation In mathematics, the Kuramoto\u2013Sivashinsky equation (also called the KS equation or flame equation) is a fourth-order nonlinear partial differential equation, named after Yoshiki KuramotoKuramoto, Y. (1978). Diffusion-induced chaos in reaction systems. Progress of Theoretical Physics Supplement, 64, 346-367. and Gregory Sivashinsky, who derived the equation to model the diffusive instabilities in a laminar flame front in the late 1970s.Sivashinsky, G. S. (1977). Nonlinear analysis of hydrodynamic instability in laminar flames\u2014I. Derivation of basic equations. In Dynamics of Curved Fronts (pp. 459-488). The equation reads as :u_t + abla^4 u + abla^2 u + \\frac{1}{2} | abla u|^2 = 0, where abla^2 is the Laplace operator and its square, abla^4 is the biharmonic operator. The Kuramoto\u2013Sivashinsky equation is known for its chaotic behavior. ==See also== *Clarke's equation ==References== Category:Differential equations Category:Fluid dynamics Category:Combustion Category:Chaotic maps ",
-    "title": "Kuramoto\u2013Sivashinsky equation"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "61275841",
-    "text": "The MCST R2000 () is a 64-bit microprocessor developed by Moscow Center of SPARC Technologies (MCST) and fabricated by TSMC. ==MCST R2000 Highlights== *implements the SPARC V9 instruction set architecture (ISA) *octa-core *core specifications: **out-of-order, dual-issue superscalar ***two integer units ***one floating-point unit *integrated memory controller *integrated ccNUMA controller *2 GHz clock rate *28 nm process *~500 million transistors ==References== Category:Microprocessors Category:SPARC microprocessors ",
-    "title": "MCST-R2000"
-}

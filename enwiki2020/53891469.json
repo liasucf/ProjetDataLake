@@ -1,5 +1,0 @@
-{
-    "id": "53891469",
-    "text": "__NOTOC__ The computer program AmigaTeX is a port of Knuth's typesetting program TeX, and was originally written in WEB and translated to C by Tomas Rokicki. This translation was necessary because of the lack of a suitable Pascal compiler for the Amiga computer. == Features == AmigaTeX has several features not available in standard TeX: * ARexx port for example with CygnusEdhttps://www.tug.org/TUGboat/tb10-3/tb25glendown-pc.pdf * Previewhttp://www.webalice.it/fulvio.peruggi/public/Pegasos&MorphOS;/Articles/01_PegasosReview/AmigaTeX_Preview1.pnghttp://www.webalice.it/fulvio.peruggi/public/Pegasos&MorphOS;/Articles/01_PegasosReview/AmigaTeX_Preview2.png * Interchange File Format graphics integration == See also == * LuaTeX * XeTeX ==References== ==External links== * Review * A Brief History of LaTeX. * Demo version Category:TeX Category:Amiga software ",
-    "title": "AmigaTeX"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "17298697",
-    "text": "n2n is an open source Layer 2 over Layer 3 VPN app utilising peer-to-peer architecture for network membership and routing. Unlike many other VPN programs, n2n can also connect computers which reside behind NAT routers. These connections are set up with help from a third computer that both computers can reach. This computer, called a supernode, can then route the information between NATed nodes. : \"[the supernode] is basically a directory register and a packet router for those nodes that cannot talk directly\" It is free software licensed under the terms of the GNU General Public License v3. Turbo VPN is a custom Windows server/client implementation of n2n. ==References== ==External links== * n2n on Google Play Category:Free network- related software Category:Virtual private networks ",
-    "title": "N2n"
-}

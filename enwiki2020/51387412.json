@@ -1,5 +1,0 @@
-{
-    "id": "51387412",
-    "text": "DOE AMIP reanalysis data. In meteorological applications, a zonal wavenumber or hemispheric wavenumber is the dimensionless number of wavelengths fitting within a full circle around the globe at a given latitude. :k = \\frac{2\\pi r\\cos\\varphi} \\lambda where \u03bb is the wavelength, r is the Earth's radius, and \\varphi is the latitude. Zonal wavenumbers are typically counted on the upper level (say 500-millibar) geopotential maps by identifying troughs and ridges of the waves. Wavenumber 1 has one trough and one ridge, i.e. one wavelength fits 2\\pi = 360 degrees. Wavenumber 2 has two ridges and two troughs around 360 degrees. Wavenumber 0 corresponds to zonal (symmetric) flow. Wavenumbers 1\u20136 are called long waves and often synonymous in meteorological literature with the mid-latitude planetary Rossby waves. ==See also== *Wavenumber ==References== Category:Atmospheric dynamics Category:Rates ",
-    "title": "Zonal wavenumber"
-}

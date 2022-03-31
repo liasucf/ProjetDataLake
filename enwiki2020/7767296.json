@@ -1,5 +1,0 @@
-{
-    "id": "7767296",
-    "text": "T-theory is a branch of discrete mathematics dealing with analysis of trees and discrete metric spaces. ==General history== T-theory originated from a question raised by Manfred Eigen in the late 1970s. He was trying to fit twenty distinct t-RNA molecules of the Escherichia coli bacterium into a tree. An important concept of T-theory is the tight span of a metric space. If X is a metric space, the tight span T(X) of X is, up to isomorphism, the unique minimal injective metric space that contains X. John Isbell was the first to discover the tight span in 1964, which he called the injective envelope. Andreas Dress independently constructed the same construct, which he called the tight span. ==Application areas== * Phylogenetic analysis, which is used to create phylogenetic trees. * Online algorithms - k-server problem ==Recent developments== * Bernd Sturmfels, Professor of Mathematics and Computer Science at Berkeley, and Josephine Yu classified six-point metrics using T-theory. ==References== * * * * Category:Metric geometry Category:Trees (data structures) ",
-    "title": "T-theory"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "7851126",
-    "text": "The order condition is the state of a set of simultaneous equations in an econometric system such that all its parameters may be identified. For an equation in a system of equations to be identified, the number of excluded exogenous variables in that equation must be at least as great as the number of included endogenous variables, less one. However, a stronger argument is the rank condition which is both necessary and sufficient for identification. == Further reading == * * == External links == * by Mark Thoma Category:Simultaneous equation methods (econometrics) ",
-    "title": "Order condition"
-}

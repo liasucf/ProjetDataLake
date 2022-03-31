@@ -1,5 +1,0 @@
-{
-    "id": "2227982",
-    "text": "Looking Glass servers are computers on the Internet running one of a variety of publicly available Looking Glass software implementations. A Looking Glass server (or LG server) is accessed remotely for the purpose of viewing routing information. Essentially, the server acts as a limited, read-only portal to routers of whatever organization is running the LG server. Typically, publicly accessible Looking Glass servers are run by Internet service providers (ISPs) or Internet exchange points (IXPs). ==External links== * Source code for the *original* Multi-Router Looking Glass (MRLG) by John Fraizer @ OP-SEC.US * Packet Clearing House Looking Glass servers around the world. * Looking Glass server source code * Clickable map of known Reverse Lookup and Looking Glass servers in the world * Looking Glass Wiki - List of hundreds of Looking Glass servers, sorted by Autonomous System Number. * IPv4 and IPv6 BGP Looking Glasses at BGP4.as * BGP Looking Glass links collection at LookinGlass.org Category:Servers (computing) ",
-    "title": "Looking Glass server"
-}

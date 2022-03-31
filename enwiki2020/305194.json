@@ -1,5 +1,0 @@
-{
-    "id": "305194",
-    "text": "Devnull is the name of a computer worm for the Linux operating system that has been named after , Unix's null device. This worm was found on 30 September 2002. This worm, once the host has been compromised, downloads and executes a shell script from a web server. This script downloads a gzipped executable file named from the same address, and then decompresses and runs the file. This downloaded file appears to be an IRC client. It connects to different channels and waits for commands to process on the infected host. Then the worm checks for presence of the GCC compiler on the local system and, if found, creates a directory called . Next, it downloads a compressed file called . After decompressing, two files are created: an ELF binary file called and a source script file called . The latter gets compiled into the ELF binary . The executable will scan for vulnerable hosts and use the compiled program to exploit a known OpenSSL vulnerability. ==See also== *Linux malware == External links == *F-Secure's Website: Linux/Devnull Category:Computer worms Category:Linux malware ",
-    "title": "Devnull"
-}

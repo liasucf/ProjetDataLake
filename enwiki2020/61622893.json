@@ -1,5 +1,0 @@
-{
-    "id": "61622893",
-    "text": "Code page 776 (also known as CP 776) is a code page used under DOS to write the Lithuanian language. It is a modification of Code page 770 to support the accented Lithuanian letters and phonetic symbols for Lithuanian. ==Character set== The following table shows code page 776. Each character is shown with its equivalent Unicode code point. Only the second half of the table (code points 128\u2013255) is shown, the first half (code points 0\u2013127) being the same as code page 437. {| |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |} ==References== 776 ",
-    "title": "Code page 776"
-}

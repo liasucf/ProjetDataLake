@@ -1,5 +1,0 @@
-{
-    "id": "61582803",
-    "text": "In cryptography, H.234 is an international standard that defines popular encryption systems used to secure communications, specifically Diffie-Hellman key exchange and RSA. It also defines ISO 8732 key management. == History == H.234 was first defined by the International Telecommunications Union's Standardization sector (ITU-T) in 1994 by Study Group 15. Subsequently, the standard was revised by Study Group 16 in November 2002, which remains in force to date. At the time of first publication of H.234, RSA was covered by a patent in the United States (but not elsewhere), the US patent expired in 2000. == Specification == The standard describes three methods of encryption key management: *Diffie-Hellman * RSA *ISO 8732 == References == Category:ITU-T recommendations Category:ITU-T H Series Recommendations Category:Cryptography standards ",
-    "title": "H.234"
-}

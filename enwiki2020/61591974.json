@@ -1,5 +1,0 @@
-{
-    "id": "61591974",
-    "text": "The Qualcomm MSM Interface is a proprietary interface for interacting with Qualcomm baseband processors and is a replacement for the legacy cellular extensions of the Hayes command set.. With mobile chipsets, communication between the application processor and the baseband processor happens through shared memory. On PCs with data cards, QMI is exposed through USB. == Linux == In the Linux kernel, QMI can be used through two mutually exclusive drivers: `GobiNet` and `qmi_wwan`. These two drivers take completely different approaches to handle the protocol. `GobiNet` is a complex driver which implements within the kernel most of the core protocol logic, while `qmi_wwan` leaves all those tasks to user-space processes, and therefore keeping the kernel driver as small as possible. There are several userspace implementations, such as `uqmi` on OpenWrt, oFono and `libqmi` == See also == * Radio Interface Layer == References == Category:Modems Category:Qualcomm ",
-    "title": "Qualcomm MSM Interface"
-}

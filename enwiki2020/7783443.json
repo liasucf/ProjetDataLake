@@ -1,5 +1,0 @@
-{
-    "id": "7783443",
-    "text": "LZJB is a lossless data compression algorithm invented by Jeff Bonwick to compress crash dumps and data in ZFS. The software is CDDL license licensed. It includes a number of improvements to the LZRW1 algorithm, a member of the Lempel\u2013Ziv family of compression algorithms.. The name LZJB is derived from its parent algorithm and its creator\u2014Lempel Ziv Jeff Bonwick. Bonwick is also one of two architects of ZFS, and the creator of the Slab Allocator. == References == ==External links== * * * LZJB python binding * Javascript port of the LZJB algorithm Category:Lossless compression algorithms Category:Sun Microsystems software Category:Free software Category:Software using the CDDL license ",
-    "title": "LZJB"
-}

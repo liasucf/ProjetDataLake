@@ -1,5 +1,0 @@
-{
-    "id": "53828762",
-    "text": "NEMA standard (NEMA ICS 16-2001)http://www.nema.org/Standards/SecureDocuments/ICS16.pdf describes stepper motors. NEMA stepper motors are labeled most notably by faceplate size, NEMA 17 being a stepper motor with a 1.7 x 1.7 inch faceplate. == NEMA 17 stepper motor == NEMA 17 stepper motor is a stepper motor type specified by NEMA. NEMA 17 steppers have a 1.7 x 1.7 inch faceplate. NEMA 17 steppers have usually more torque than the smaller variants, such as NEMA 14. NEMA 17 steppers are commonly used in 3D-printers, CNC router, Linear actuators and mid-torque precise movement applications. == References == == Further reading == http://reprap.org/wiki/NEMA_Motor Stepper motor ",
-    "title": "NEMA stepper motor"
-}

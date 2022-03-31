@@ -1,5 +1,0 @@
-{
-    "id": "61609252",
-    "text": "In software architecture, a service mesh is a dedicated infrastructure layer for facilitating service-to-service communications between microservices, often using a sidecar proxy. Having such a dedicated communication layer can provide a number of benefits, such as providing observability into communications, providing secure connections, or automating retries and backoff for failed requests. == See also == * Microservices * Open Service Mesh * Proxy server Category:Software architecture ",
-    "title": "Service mesh"
-}

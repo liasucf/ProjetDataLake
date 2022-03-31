@@ -1,5 +1,0 @@
-{
-    "id": "63950387",
-    "text": "In functional analysis, a discipline within mathematics, a locally convex topological vector space (TVS) is said to be infrabarrelled (sometimes spelled infrabarreled) if every bounded absorbing barrel is a neighborhood of the origin. == Characterizations == If is a Hausdorff locally convex space then the canonical injection from into its bidual is a topological embedding if and only if is infrabarrelled. == Properties == * Every quasi-complete infrabarrelled space is barrelled. == Examples == * Every barrelled space is infrabarrelled. * Every product and locally convex direct sum of any family of infrabarrelled spaces is infrabarrelled. * Every separated quotient of an infrabarrelled space is infrabarrelled. A closed vector subspace of an infrabarrelled space is, however, not necessarily infrabarrelled. == See also == * Barrelled space == References == ==Bibliography== * * * * * * * Category:Functional analysis ",
-    "title": "Infrabarrelled space"
-}

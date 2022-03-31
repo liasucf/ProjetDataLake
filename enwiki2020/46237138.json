@@ -1,5 +1,0 @@
-{
-    "id": "46237138",
-    "text": "In mathematics, the Hall\u2013Petresco identity (sometimes misspelled Hall\u2013Petrescu identity) is an identity holding in any group. It was introduced by and . It can be proved using the commutator collecting process, and implies that p-groups of small class are regular. ==Statement== The Hall\u2013Petresco identity states that if x and y are elements of a group G and m is a positive integer then :x^my^m=(xy)^mc_2^{\\binom{m}{2}}c_3^{\\binom{m}{3}}\\cdots c_{m-1}^{\\binom{m}{m-1}}c_m where each ci is in the subgroup Ki of the descending central series of G. ==See also== * Baker\u2013Campbell\u2013Hausdorff formula * Algebra of symbols ==References== * * * * Category:P-groups Category:Combinatorial group theory ",
-    "title": "Hall\u2013Petresco identity"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "12802718",
-    "text": "Globus resource allocation manager (or GRAM) is a software component of the Globus Toolkit that can locate, submit, monitor, and cancel jobs on Grid computing resources. It provides reliable operation, stateful monitoring, credential management, and file staging. GRAM does not provide job scheduler functionality and is in fact just a front-end (or interoperability bridge) to the functionality provided by an external scheduler that does not natively support the Globus web service protocols. The jobs submitted to GRAM are targeted at a single computation resource, and consist of an optional input file staging phase, job execution, and an optional output file staging and cleanup stage. In GRAM4, jobs are described internally using the job description language. In the earlier GRAM system (now known as GRAM2), its predecessor, the resource specification language (RSL), was used instead. , planning efforts are underway to enable future versions of GRAM to use the Job Submission Description Language instead. ==References== * GRAM on the Globus wiki Category:Grid computing ",
-    "title": "Grid resource allocation manager"
-}

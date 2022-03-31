@@ -1,5 +1,0 @@
-{
-    "id": "2547402",
-    "text": "Let G(V,E) be a graph and M a matching in G. A vertex v\\in V(G) is said to be saturated by M if there is an edge in M incident to v. A vertex v\\in V(G) with no such edge is said to be unsaturated by M. We also say that M saturates v.Saturate. PlanetMath. ==See also== * Hall's marriage theorem * Bipartite matching ==References== Category:Matching (graph theory) ",
-    "title": "Saturation (graph theory)"
-}

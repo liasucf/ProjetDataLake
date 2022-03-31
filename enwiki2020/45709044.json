@@ -1,5 +1,0 @@
-{
-    "id": "45709044",
-    "text": "The astrophysical S-factor is a rescaled variant of the total cross section that accounts for the Coulomb repulsion between charged reactants. == Definition == The quantity is defined as : S(E) \\equiv \\frac{E}{\\exp(-2 \\pi \\eta)} \\sigma(E) Here, is the dimensionless Sommerfeld parameter, : \\eta \\equiv \\frac{Z_1 Z_2 e^2}{4 \\pi \\epsilon_0 \\hbar v} where * is the product of the charges of the reactants and * is the magnitude of the relative incident velocity. == Motivation == The Coulomb barrier causes the cross section to have a strong exponential dependence on the center-of-mass energy . The S-factor remedies this by factoring out the Coulomb component of the cross section. == References == Category:Nuclear physics Category:Astrophysics ",
-    "title": "S-factor"
-}

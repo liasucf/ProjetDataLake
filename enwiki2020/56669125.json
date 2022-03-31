@@ -1,5 +1,0 @@
-{
-    "id": "56669125",
-    "text": "The Arabic letter mark (ALM) is a non-printing character used in the computerized typesetting of bi-directional text containing mixed left-to-right scripts (such as Latin and Cyrillic) and right-to-left scripts (such as Persian, Arabic, Syriac and Hebrew). Similar to Right-to-left mark (RLM), it is used to change the way adjacent characters are grouped with respect to text direction, with some difference on how it affects the bidirectional level resolutions for nearby characters. ==Unicode== In Unicode, the ALM character is encoded at . In UTF-8 it is . Usage is prescribed in the Unicode Bidirectional Algorithm. == See also == *Right-to-left mark *Left-to-right mark *Bi-directional text == External links == *Proposal to encode the Arabic Letter Mark (ALM) *Unicode standard annex #9: The bidirectional algorithm *Unicode character (U+061C) Category:Control characters Category:Digital typography Category:Unicode formatting code points ",
-    "title": "Arabic letter mark"
-}

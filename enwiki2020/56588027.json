@@ -1,5 +1,0 @@
-{
-    "id": "56588027",
-    "text": "Datex II or Datex2 is a data exchange standard for exchanging traffic information between traffic management centres, traffic service providers, traffic operators and media partners. It contains for example traffic incidents, current road works and other special traffic-related events. These data is presented in XML-format and is modeled with UML. The standard is developed by the technical body Intelligent transport systems (CEN/TC 278) of the European Committee for Standardization. The standard contains 6 parts: # Context and framework # Location referencing # Situation publication # Variable Message Sign (VMS) Publications # Measured and Elaborated Data Publications # Parking Publications ==References== ==External links== * Official Datex II website * Datex II example messages * Datex on openstreetmap Category:EN standards Category:Intelligent transportation systems ",
-    "title": "Datex II"
-}

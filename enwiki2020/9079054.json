@@ -1,5 +1,0 @@
-{
-    "id": "9079054",
-    "text": "Voice peering, also called VoIP peering, refers to the forwarding of calls from one ITSP to another ITSP directly using VoIP technology. The call is not forwarded over the PSTN and this leads to costs savings (no call charges) and better quality because there is no transcoding between the VoIP cloud and the PSTN, and then back from the PSTN to the next VoIP cloud. VoIP peering may occur on Layer 2 basis, i.e. a private network is provided, and carriers connected with it manage peering between one another, or on a layer 5 basis, i.e. peering occurs on open networks, with routing and signaling managed by a central provider. Voice peering can occur on a bilateral or multilateral basis. Bilateral peering does not scale when many service providers seek to interconnect and peer with one another. Standards on Multilateral, layer 5 peering are under development by the IETF working group on VoIP Peering, SPEERMINT. == See also == * Telephone number mapping * Distributed Universal Number Discovery * iNum Initiative == External links == * White Paper on SIP Peering Category:Voice over IP ",
-    "title": "Voice peering"
-}

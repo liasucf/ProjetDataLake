@@ -1,5 +1,0 @@
-{
-    "id": "51534689",
-    "text": "Fork and pull model refers to a software development model mostly used on GitHub, where multiple developers working on an open shared project make their own contributions by sharing a main repository and pushing changes after granted pull request by integrator users. Followed by the appearance of distributed version control systems (DVCS), Git naturally enables the usage of a pull-based development model, in which developers can copy the project onto their own repository, and push their changes to the original repository, where the integrators will determine the validity of the pull request. Ever since its appearance, pull-based development received large popularity within the open software development community. On GitHub, about more than 400000 pull- requests emerged per month on average in 2015. It is also model shared on most collaborative coding platforms, like BitBucket, Gitorious etc. More and more functionalities are added to facilitate pull-based model. ==References== Category:Version control Category:Git (software) ",
-    "title": "Fork and pull model"
-}

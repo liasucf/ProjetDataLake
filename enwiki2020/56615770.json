@@ -1,5 +1,0 @@
-{
-    "id": "56615770",
-    "text": "Code page 903 (CCSID 903) is encoded for use as the single byte component of certain simplified Chinese character encodings. It is used in China. Despite this, it follows ISO 646-JP / the Roman half of JIS X 0201, in that it replaces the ASCII backslash 0x5C (rather than the ASCII dollar sign 0x24 as in GB 1988 / ISO 646-CN) with the yen/yuan sign. It also uses the same C0 replacement graphics as code page 897. When combined with the double-byte Code page 928, it forms the two code-sets of IBM code page 936. ==Codepage layout== {| |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |- ! || || || || || || || || || || || || || || || || |} ==References== 903 ",
-    "title": "Code page 903"
-}

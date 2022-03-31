@@ -1,5 +1,0 @@
-{
-    "id": "51384538",
-    "text": "jOrgan is a Java-based MIDI processor. It is free software for complex transmitting and dynamical modifying of MIDI messages on their way between MIDI encoders and MIDI decoders, through an own MIDI Programming Language MPL. It can be used as Virtual Pipe Organ (virtual organ console). Runs on Microsoft Windows, Linux and macOS operating systems. == Features == * use a graphical user interface * customize your disposition conveniently. Set your MIDI inputs and basic settings * execute arbitrary commands * utilize Creative soundcards specific features * embed a Fluidsynth sampler in jOrgan * conveniently configure LinuxSampler * import elements from different sources * Use a virtual keyboard * connect to Midi devices on other computers with LAN devices * show disposition information on an LCD * store combinations in a memory * merge MIDI devices * record and share your performances * connect stop action magnets (SAM) driven stop tabs with your disposition * work with Soundfonts * work with MIDI tools and utilities == External references == Category:MIDI Category:Java (programming language) ",
-    "title": "JOrgan"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "60311833",
-    "text": "Example chromatogram showing signal as a function of retention time In chromatography, resolution is a measure of the separation of two peaks of different retention time t in a chromatogram. == Expression == Chromatographic peak resolution is given by :R_s = 2\\cfrac{t_{R2}-t_{R1}}{w_{b1}+w_{b2}} where tR is the retention time and wb is the peak width at baseline. Here compound 1 elutes before compound 2. If the peaks have the same width :R_s = \\cfrac{t_{R2}-t_{R1}}{w_b} . ==Plate number== Two resolved peaks in a chromatogram The theoretical plate height is given by :H = \\frac{L}{N} where L is the column length and N the number of theoretical plates. The relation between plate number and peak width at the base is given by :N = 16 \\cdot \\left(\\frac{t_R}{W_b}\\right)^2 \\,. ==See also== *Van Deemter equation *Resolution (mass spectrometry) *Image resolution ==References== ==External links== *IUPAC Nomenclature for Chromatography ",
-    "title": "Resolution (chromatography)"
-}

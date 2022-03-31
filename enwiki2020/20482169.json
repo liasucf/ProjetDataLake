@@ -1,5 +1,0 @@
-{
-    "id": "20482169",
-    "text": "Random logic is a semiconductor circuit design technique that translates high- level logic descriptions directly into hardware features such as AND and OR gates. The name derives from the fact that few easily discernible patterns are evident in the arrangement of features on the chip and in the interconnects between them. In VLSI chips, random logic is often implemented with standard cells and gate arrays. Random logic accounts for a large part of the circuit design in modern microprocessors. Compared to microcode, another popular design technique, random logic offers faster execution of processor opcodes, provided that processor speeds are faster than memory speeds. A disadvantage is that it is difficult to design random logic circuitry for processors with large and complex instruction sets. The hard-wired instruction logic occupies a large percentage of the chip's area, and it becomes difficult to lay out the logic so that related circuits are close to one another. ==References== Category:Semiconductors ",
-    "title": "Random logic"
-}

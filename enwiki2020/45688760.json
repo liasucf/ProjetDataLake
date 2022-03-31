@@ -1,5 +1,0 @@
-{
-    "id": "45688760",
-    "text": "The acoustic pressure in a cylindrical duct can be expressed as the superposition of duct modes: :p = \\sum \\alpha_i \\phi_i where \\alpha_i is the participation factor or modal amplitude and \\phi_i is the mode shape. The duct mode shape are analytically determined from the solution of the Helmholtz equation.John M. Tyler, Thomas G. Sofrin. Axial flow compressor noise studies. No. 620532. SAE Technical Paper, 1962. ==References== Category:Acoustics ",
-    "title": "Duct modes"
-}

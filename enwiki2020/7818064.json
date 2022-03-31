@@ -1,5 +1,0 @@
-{
-    "id": "7818064",
-    "text": "In set theory, a nice name is used in forcing to impose an upper bound on the number of subsets in the generic model. It is used in the context of forcing to prove independence results in set theory such as Easton's theorem. ==Formal definition== Let M \\models ZFC be transitive, (\\mathbb{P}, <) a forcing notion in M, and suppose G \\subseteq \\mathbb{P} is generic over M. Then for any \\mathbb{P}-name in M, \\tau, \\eta is a nice name for a subset of \\tau if \\eta is a \\mathbb{P}-name satisfying the following properties: (1) \\textrm{dom}(\\eta) \\subseteq \\textrm{dom}(\\tau) (2) For all \\mathbb{P}-names \\sigma \\in M, \\\\{p \\in \\mathbb{P}| \\langle\\sigma, p\\rangle \\in \\eta\\\\} forms an antichain. (3) (Natural addition): If \\langle\\sigma, p\\rangle \\in \\eta, then there exists q \\geq p in \\mathbb{P} such that \\langle\\sigma, q\\rangle \\in \\tau. ==References== * Kenneth Kunen (1980) Set theory: an introduction to independence proofs, Volume 102 of Studies in logic and the foundations of mathematics (Elsevier) , p.208 Category:Forcing (mathematics) ",
-    "title": "Nice name"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "3271460",
-    "text": "A Least squares conformal map (LSCM) is a 2-D representation of a 3-D shape created using the Least Squares Conformal Mapping Method. By using the map as a guide when creating a new 2-D image, the colors of the 2-D image can be applied to the original 3-D model. LSCM is used in computer graphics as a method of producing a UV map from a polygonal mesh to a texture map such that the shape of the polygons as mapped to the texture is relatively undistorted. ==See also== * Conformal map * UV mapping ==External links== * Least Squares Conformal Maps for Automatic Texture Atlas Generation, ACM SIGGRAPH conference proceedings, 2002 Category:Computer graphics data structures ",
-    "title": "Least squares conformal map"
-}

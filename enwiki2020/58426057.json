@@ -1,5 +1,0 @@
-{
-    "id": "58426057",
-    "text": "Google Dataset Search is a search engine from Google that helps researchers locate online data that is freely available for use. The company launched the service on September 5, 2018, and stated that the product was targeted at scientists and data journalists. The service was out of beta as of January 23rd, 2020. Google Dataset Search complements Google Scholar, the company's search engine for academic studies and reports. == Features == Dataset Search can filter results based on the desired type of data (for example, focusing on images or text). It is also available in mobile. == Technology == Dataset Search is heavily reliant on dataset providers' use of metadata in accordance with the standards defined by the schema.org consortium. According to the Google AI blog, == Versions == Dataset Search was initially released in beta on September 5, 2018. It moved out of beta on January 23, 2020. == References == == External links == * *https://www.technicalsaad.com/2020/01/google- dataset-search-makes-millions.html Dataset Search Dataset Search ",
-    "title": "Google Dataset Search"
-}

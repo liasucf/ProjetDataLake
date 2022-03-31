@@ -1,5 +1,0 @@
-{
-    "id": "12852798",
-    "text": "In mathematics -- specifically, in complex analysis -- the Berezin transform is an integral operator acting on functions defined on the open unit disk D of the complex plane C. Formally, for a function \u0192 : D \u2192 C, the Berezin transform of \u0192 is a new function B\u0192 : D \u2192 C defined at a point z \u2208 D by :(B f)(z) = \\int_D \\frac{(1 - |z|^2)^2}{| 1 - z \\bar{w} |^4} f(w) \\, \\mathrm{d}A (w), where denotes the complex conjugate of w and \\mathrm{d}A is the area measure. It is named after Felix Alexandrovich Berezin. ==References== * ==External links== * Category:Complex analysis Category:Operator theory ",
-    "title": "Berezin transform"
-}

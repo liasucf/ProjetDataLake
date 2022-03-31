@@ -1,5 +1,0 @@
-{
-    "id": "9078663",
-    "text": "Call origination, also known as voice origination, refers to the collecting of the calls initiated by a calling party on a telephone exchange of the PSTN, and handing off the calls to a VoIP endpoint or to another exchange or telephone company for completion to a called party. In the VoIP world, the opposite of call origination is call termination, where a call initiated as a VoIP call is terminated to the PSTN. The term is often used in referring to a VoIP trunking service that provides the ability for calls to originate on the PSTN and be delivered to a customer's VoIP endpoint. It is often referred to as \"DID\" (for Direct Inward Dialing) which more properly refers to a service entirely within the PSTN where individual PSTN numbers can terminate on a customer's PBX. Category:Voice over IP Category:Teletraffic ",
-    "title": "Call origination"
-}

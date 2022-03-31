@@ -1,5 +1,0 @@
-{
-    "id": "2577479",
-    "text": "A Jakarta EE application (formerly also called Java EE or J2EE application) is any deployable unit of Jakarta EE functionality. This can be a single Jakarta EE module or a group of modules packaged into an EAR file along with a Jakarta EE application deployment descriptor. Jakarta EE applications are typically engineered to be distributed across multiple computing tiers. Enterprise applications can consist of combinations of the following: * Jakarta Enterprise Beans (EJB) modules (packaged in JAR files); * Web modules (packaged in WAR files); * connector modules or resource adapters (packaged in RAR files); * Session Initiation Protocol (SIP) modules (packaged in SAR files); * application client modules; * Additional JAR files containing dependent classes or other components required by the application; ==See also== * Enterprise software ==References== * http://java.sun.com/javaee/reference/glossary/index.jsp Category:Java enterprise platform ",
-    "title": "Jakarta EE application"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "20484815",
-    "text": "In analytic number theory, the Petersson trace formula is a kind of orthogonality relation between coefficients of a holomorphic modular form. It is a specialization of the more general Kuznetsov trace formula. In its simplest form the Petersson trace formula is as follows. Let \\mathcal{F} be an orthonormal basis of S_k(\\Gamma(1)), the space of cusp forms of weight k>2 on SL_2(\\mathbb{Z}). Then for any positive integers m,n we have : \\frac{\\Gamma(k-1)}{(4\\pi \\sqrt{mn})^{k-1}} \\sum_{f \\in \\mathcal{F}} \\bar{\\hat{f}}(m) \\hat{f}(n) = \\delta_{mn} + 2\\pi i^{-k} \\sum_{c > 0}\\frac{S(m,n;c)}{c} J_{k-1}\\left(\\frac{4\\pi \\sqrt{mn}}{c}\\right), where \\delta is the Kronecker delta function, S is the Kloosterman sum and J is the Bessel function of the first kind. == References == * Henryk Iwaniec: Topics in Classical Automorphic Forms. Graduate Studies in Mathematics 17, American Mathematics Society, Providence, RI, 1991. Category:Theorems in analytic number theory ",
-    "title": "Petersson trace formula"
-}

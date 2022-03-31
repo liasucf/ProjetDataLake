@@ -1,5 +1,0 @@
-{
-    "id": "12831111",
-    "text": "Star worlds are mathematical concepts used in robot navigation. Essentially, a star world is any n-dimensional shape that can be mapped to a sphere world of the same dimension. For example, a cube is a star world because every point on the box can be mapped onto a sphere, and a pentagon is a two dimensional star world because every point on its perimeter can be mapped onto a circle. Star worlds are useful for modeling simple worlds, robots and obstacles. To model more complex robots, one needs to construct a forest of stars. ==See also== * Topology Category:Robot navigation ",
-    "title": "Star world"
-}

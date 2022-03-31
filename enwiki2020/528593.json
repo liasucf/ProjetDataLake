@@ -1,5 +1,0 @@
-{
-    "id": "528593",
-    "text": "XML Script and XML-Script are two unrelated XML technologies. The former (XML Script) is an XML transformation language, while the latter (XML-Script) is a Microsoft technology preview for scripting web browsers - think of it as an XML version of ECMA JavaScript. Microsoft is expected to rename their XML- Script as Atlas Script before first release. ==External links== * XML Script home page * Microsoft AJAX Library home page Category:XML-based standards ",
-    "title": "XML Script"
-}

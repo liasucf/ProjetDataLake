@@ -1,5 +1,0 @@
-{
-    "id": "61252437",
-    "text": "C2x is an informal name for the next (after C18) major C language standard revision. It is not expected to be voted on until 2021. ==Features== Among proposed features: * single-argument _Static_assert * C++11 style attribute syntax * extended binary floating-point arithmetic, decimal floating-point arithmetic * `memccpy()`, `strdup()`, `strndup()` \\- similar to functions found in the POSIX and SVID C extensions * `char8_t` type, in the same vein as `char16_t` and `char32_t` added in C11 (proposal N2231). It adds a new principle to the \"Original Principles\" of C: ==Support== The GCC 9 and Clang 9.0 compilers support the -std=c2x option to support this standard. ==References== ==External links== * C Working Group WG14 Documents * N2573, working draft of the standard (October 2020) Category:C (programming language) Category:Programming language standards ",
-    "title": "C2x"
-}

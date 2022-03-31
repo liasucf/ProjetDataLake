@@ -1,5 +1,0 @@
-{
-    "id": "2732574",
-    "text": "Initiative for Open Authentication (OATH) is an industry-wide collaboration to develop an open reference architecture using open standards to promote the adoption of strong authentication. It has close to thirty coordinating and contributing members and is proposing standards for a variety of authentication technologies, with the aim of lowering costs and simplifying their functions. == Terminology == The name OATH is an acronym from the phrase \"open authentication\", and is pronounced as the English word \"oath\". OATH is not related to OAuth, an open standard for authorization. == See also == *HOTP: An HMAC-Based One-Time Password Algorithm (RFC 4226) *TOTP: Time-Based One-Time Password Algorithm (RFC 6238) *OCRA: OATH Challenge-Response Algorithm (RFC 6287) *Portable Symmetric Key Container (PSKC) (RFC 6030) *Dynamic Symmetric Key Provisioning Protocol (DSKPP) (RFC 6063) == References == == External links == * *List of OATH members *OATH Specifications Category:Computer security organizations Category:Computer access control ",
-    "title": "Initiative for Open Authentication"
-}

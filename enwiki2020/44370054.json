@@ -1,5 +1,0 @@
-{
-    "id": "44370054",
-    "text": "Hildreth\u2013Lu estimation, named for Clifford Hildreth and John Y. Lu, is a method for adjusting a linear model in response to the presence of serial correlation in the error term. It is an iterative procedure related to the Cochrane\u2013Orcutt estimation. The idea is to repeatedly apply non-linear least squares to: :y_t - \\rho y_{t-1} = \\alpha(1-\\rho)+\\beta(X_t - \\rho X_{t-1}) + e_t. \\, for different values of \\rho between \u22121 and 1. From all these auxiliary regressions, one selects the one that yields the smallest residual sum of squares. == See also == * Prais\u2013Winsten estimation == References == == Further reading == * * * * Category:Autocorrelation Category:Regression with time series structure ",
-    "title": "Hildreth\u2013Lu estimation"
-}

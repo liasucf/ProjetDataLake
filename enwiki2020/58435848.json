@@ -1,5 +1,0 @@
-{
-    "id": "58435848",
-    "text": "A barrier certificate Prajna, Stephen, and Ali Jadbabaie. \"Safety verification of hybrid systems using barrier certificates.\" International Workshop on Hybrid Systems: Computation and Control. Springer, Berlin, Heidelberg, 2004. is an object that can serve as a proof of safety of an ordinary differential equation or hybrid dynamical system. Barrier certificates play the analogical role for safety to the role of Lyapunov functions for stability. For every ordinary differential equation that robustly fulfills a safety property of a certain type there is a corresponding barrier certificate.Stefan Ratschan: \"Converse Theorems for Safety and Barrier Certificates\". IEEE Trans. on Automatic Control, Volume 63, Issue 8, 2018 == References == Category:Differential equations ",
-    "title": "Barrier certificate"
-}

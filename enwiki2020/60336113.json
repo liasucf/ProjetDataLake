@@ -1,5 +1,0 @@
-{
-    "id": "60336113",
-    "text": "Kerr\u2013Schild perturbations are a special type of perturbation to a spacetime metric which only appear linearly in the Einstein field equations which describe general relativity. They were found by Roy Kerr and Alfred Schild in 1965. ==Form== A generalised Kerr\u2013Schild perturbation has the form h_{ab}=V l_a l_b, where V is a scalar and l_a is a null vector with respect to the background spacetime. It can be shown that any perturbation of this form will only appear quadratically in the Einstein equations, and only linearly if the condition l^a abla_a l_b =\\phi l_b, where \\phi is a scalar, is imposed. This condition is equivalent to requiring that the orbits of l^a are geodesics. ==Applications== While the form of the perturbation may appear very restrictive, there are several black hole metrics which can be written in Kerr\u2013Schild form, such as Schwarzschild (stationary black hole), Kerr (rotating), Reissner\u2013Nordstr\u00f6m (charged) and Kerr\u2013Newman (both charged and rotating). ==References== Category:General relativity ",
-    "title": "Kerr\u2013Schild perturbations"
-}

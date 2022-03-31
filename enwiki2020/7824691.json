@@ -1,5 +1,0 @@
-{
-    "id": "7824691",
-    "text": "In mathematics, the dual bundle of a vector bundle is a vector bundle whose fibers are the dual spaces to the fibers of E. The dual bundle can be constructed using the associated bundle construction by taking the dual representation of the structure group. Specifically, given a local trivialization of E with transition functions t, a local trivialization of E is given by the same open cover of X with transition functions t = (t)\u22121 (the inverse of the transpose). The dual bundle E is then constructed using the fiber bundle construction theorem. For example, the dual to the tangent bundle of a differentiable manifold is the cotangent bundle. If the base space X is paracompact and Hausdorff then a real, finite-rank vector bundle E and its dual E are isomorphic as vector bundles. However, just as for vector spaces, there is no canonical choice of isomorphism unless E is equipped with an inner product. This is not true in the case of complex vector bundles, for example the tautological line bundle over the Riemann sphere is not isomorphic to its dual. ==References== Category:Vector bundles ",
-    "title": "Dual bundle"
-}

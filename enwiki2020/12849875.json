@@ -1,5 +1,0 @@
-{
-    "id": "12849875",
-    "text": "A IA5String is a restricted character string type in the ASN.1 notation. It is used to represent ISO 646 (IA5) characters. According to the ITU-T Rec. X.680 (ASN.1 Specification of basic notation) the entire character set contains precisely 128 characters. Those characters are generally equivalent to the first 128 characters of the ASCII alphabet which is the predecessor of ISO/IEC 646 but different national versions can include accents or other characters specific to a regional language. == See also == * The X.690 encoding standard for ASN.1 Category:Data types Category:ASN.1 ",
-    "title": "IA5STRING"
-}

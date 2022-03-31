@@ -1,5 +1,0 @@
-{
-    "id": "1442890",
-    "text": "ptx is a Unix utility, named after the permuted index algorithm which it uses to produce a search or concordance report in the Keyword in Context (KWIC) format. It is available on most Unix and Unix-like operating systems (e.g. Linux, FreeBSD). The GNU implementationAt www.gnu.org - The GNU Info entry for PTX using Gnu extensions uses extensions that are more powerful than the older SysV implementation. There is also a corresponding IBM mainframe utility which performs the same function. Permuted indexes are often used in such places as bibliographic or medical databases, documentation, thesauri, or web sites to aid in locating entries of interest. ==See also== * Concordancer ==References== Category:Information retrieval systems Category:Unix text processing utilities ",
-    "title": "Ptx (Unix)"
-}

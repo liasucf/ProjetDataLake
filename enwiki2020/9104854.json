@@ -1,5 +1,0 @@
-{
-    "id": "9104854",
-    "text": "mklivecd is a script for Linux distributions that allows for one to compile a \"snapshot\" of the current hard drive partition and all data which resides in it (all settings, applications, documents, bookmarks, etc.) and compress it into an ISO 9660 CD-image. This allows easy backup of a user's data and also makes it easy to create customized Linux-distribution. Some Linux- distributions like PCLinuxOS include a graphical frontend for easier script usage. ==Used by== * AmaroK Live CD * Dreamlinux * Mandriva Linux * Ruby on Rails Live CD * Unity Linux Live CD == See also == * Live CD * Software remastering * Remastersys, a similar tool (for Debian/Ubuntu) * List of remastering software ==External links== * mklivecd source code * mklivecd project page (obsolete) Category:Operating system distributions bootable from read-only media Category:Debian-based distributions ",
-    "title": "Mklivecd"
-}

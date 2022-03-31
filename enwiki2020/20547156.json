@@ -1,5 +1,0 @@
-{
-    "id": "20547156",
-    "text": "The FDMNES program calculates the spectra of different spectroscopies related to the real or virtual absorption of x-ray in material. It gives the absorption cross sections of photons around the ionization edge, that is in the energy range of XANES. The calculation is performed with all conditions of rectilinear or circular polarization. In the same way, it calculates the structure factors and intensities of anomalous or resonant diffraction spectra (DAFS or RXS). The code uses two techniques of monoelectronic calculations. The first one is based on the Finite Difference Method (FDM) to solve the Schr\u00f6dinger equation. In that way the shape of the potential is free and in particular avoid the muffin-tin approximation. The second one uses the Green formalism (multiple scattering) on a muffin- tin potential. This approach can be less precise but is faster. FDMNES is used as external program to calculate basic spectra for XANES fitting using FitIt. ==References== * ==External links== * FDMNES home page Category:Physics software ",
-    "title": "FDMNES"
-}

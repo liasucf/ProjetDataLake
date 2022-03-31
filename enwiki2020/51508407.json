@@ -1,5 +1,0 @@
-{
-    "id": "51508407",
-    "text": "In mathematics, and more specifically in abstract algebra, a pseudo-ring is one of the following variants of a ring: * A rng, i.e., a structure satisfying all the axioms of a ring except for the existence of a multiplicative identity. * A set R with two binary operations + and \u00b7 such that (R,+) is an abelian group with identity 0, and a(b+c) + a0 =ab +ac and (b+c)a +0a=ba+ca for all a, b, c in R. * An abelian group (A,+) equipped with a subgroup B and a multiplication B \u00d7 A \u2192 A making B a ring and A a B-module. No two of these definitions are equivalent, so it is best to avoid the term \"pseudo-ring\" or to clarify which meaning is intended. == See also == * Semiring \u2013 an algebraic structure similar to a ring, but without the requirement that each element must have an additive inverse == References == Category:Ring theory Category:Algebraic structures Category:Algebras ",
-    "title": "Pseudo-ring"
-}

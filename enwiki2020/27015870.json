@@ -1,5 +1,0 @@
-{
-    "id": "27015870",
-    "text": "In statistics, the Cunningham function or Pearson-Cunningham function \u03c9m,n(x) is a generalisation of a special function introduced by and studied in the form here by . It can be defined in terms of the confluent hypergeometric function U, by :\\displaystyle \\omega_{m,n}(x) = \\frac{e^{-x+\\pi i (m/2-n)}}{\\Gamma(1+n-m/2)}U(m/2-n,1+m,x). The function was studied by Cunningham in the context of a multivariate generalisation of the Edgeworth expansion for approximating a probability density function based on its (joint) moments. In a more general context, the function is related to the solution of the constant-coefficient diffusion equation, in one or more dimensions. The function \u03c9m,n(x) is a solution of the differential equation for X: : xX+(x+1+m)X'+(n+\\tfrac{1}{2}m+1)X. The special function studied by Pearson is given, in his notation by, : \\omega_{2n}(x) =\\omega_{0,n}(x). ==Notes== ==References== * * * * See exercise 10, chapter XVI, p. 353 Category:Special hypergeometric functions Category:Statistical approximations ",
-    "title": "Cunningham function"
-}

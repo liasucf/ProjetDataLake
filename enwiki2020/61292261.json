@@ -1,5 +1,0 @@
-{
-    "id": "61292261",
-    "text": "Private set intersection is a secure multiparty computation cryptographic technique that allows two parties holding sets to compare encrypted versions of these sets in order to compute the intersection. In this scenario, neither party reveals anything to the counterparty except for the elements in the intersection. Other variants of this exist, such as the server-client scenario, in which only the client learns the intersection of her set with the set of the server, without the server learning intersection of his set with the clients. For the comparison of data sets by cryptographic hashes on a small and predictable domain, precautions should be taken to prevent dictionary attacks. == References == Category:Cryptography Category:Hashing ",
-    "title": "Private set intersection"
-}

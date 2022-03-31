@@ -1,5 +1,0 @@
-{
-    "id": "26987804",
-    "text": "In mathematics, the Toronto function T(m,n,r) is a modification of the confluent hypergeometric function defined by , Weisstein, as :T(m,n,r)=r^{2n-m+1}e^{-r^2}\\frac{\\Gamma(\\frac 1{2}m+\\frac 1{2})}{\\Gamma(n+1)}{}_1F_1({\\textstyle\\frac 1{2}}m+{\\textstyle\\frac 1{2}};n+1;r^2). :Later, Heatley (1964) recomputed to 12 decimals the table of the M(R)-function, and gave some corrections of the original tables. The table was also extended from x = 4 to x = 16 (Heatley, 1965). An example of the Toronto function has appeared in a study on the theory of turbulence (Heatley, 1965). ==References== * *Heatley, A. H. (1964), \"A short table of the Toronto function\", Mathematics of Computation, 18, No.88: 361 *Heatley, A. H. (1965), \"An extension of the table of the Toronto function\", Mathematics of Computation, 19, No.89: 118-123 *Weisstein, E. W., \"Toronto Function\", From Math World - A Wolfram Web Resource Category:Special hypergeometric functions ",
-    "title": "Toronto function"
-}

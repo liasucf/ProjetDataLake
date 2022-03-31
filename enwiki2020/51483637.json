@@ -1,5 +1,0 @@
-{
-    "id": "51483637",
-    "text": "IBM's Hierarchical File System (HFS) is a POSIX-style file system for IBM's z/OS and its predecessor operating systems for z System mainframes. IBM introduced HFS in 1993 as part of its DFSMS/MVS Version 1 Release 2 software product alongside OpenEdition MVS, an optional POSIX application subsystem for MVS/ESA Version 4 Release 3 and higher. Although z/OS 2.2 (introduced in September, 2015) still supports HFS, IBM functionally stabilized HFS starting with z/OS 1.7. The z/OS File System (zFS) is the higher performance successor to HFS, and IBM recommends migration from HFS to zFS. z/OS includes a tool, BPXWH2Z, to convert HFS to zFS. == See also == * Apple HFS == References == Category:Disk file systems Category:IBM file systems Category:IBM mainframe operating systems ",
-    "title": "Hierarchical File System (IBM MVS)"
-}

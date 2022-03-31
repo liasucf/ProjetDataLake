@@ -1,5 +1,0 @@
-{
-    "id": "20553619",
-    "text": "SIO is a serial port driver package for OS/2 written by Raymond L. Gwinn. It is designed to not only improve performance over OS/2's default serial drivers, but also improve compatibility. SIO contains a virtualized FOSSIL (VX00) driver that can be loaded to provide FOSSIL support to DOS based communications software. SIO later added the ability to create virtualized COM ports, which, combined with the included program VMODEM, allows incoming telnet connections to be directed toward the virtualized COM port. Older communications software are also able to \"call out\" to telnet sites. This is possible due to a custom set of \"AT\" commands that allow users to pass a hostname to the VMODEM software. . SIO (and the included VMODEM software) became very popular among Bulletin Board System operators due to the incoming telnet feature, as well as drastic speed improvements over other telnet solutions of the time. ==See also== *Ray Gwinn's story about the SIO-driver! *Download location of SIO/VMODEM ==References== Category:Device drivers Category:FOSSIL ",
-    "title": "SIO (software)"
-}

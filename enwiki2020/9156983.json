@@ -1,5 +1,0 @@
-{
-    "id": "9156983",
-    "text": "Bonding (short for \"Bandwidth ON Demand INteroperability Group\") protocol is a generic name for a method of bonding or aggregation of multiple physical links to form a single logical link. Bonding is the term often used in Linux implementations: on Windows based systems the term teaming is often used, and between network-devices we talk about link aggregation, LAG and Link Aggregation Control Protocol. == Major categories == * Asynchronous bonding protocol * Synchronous bonding protocol ==See also== * Channel bonding * Inverse multiplexer * Link aggregation ==References== ==External links== * * ",
-    "title": "Bonding protocol"
-}

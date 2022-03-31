@@ -1,5 +1,0 @@
-{
-    "id": "2228580",
-    "text": "' (Austrum Latvijas Linukss) is a bootable live CD Linux distribution (size 329 MB for version 3.7.7 ) . It is based on Slackware. It was created, and is currently being maintained by, a group of programmers from Latgale region of Latvia. As of August 2018, the latest official release of Austrumi Linux is 3.8.4. The entire operating system and all the applications run from RAM, making AUSTRUMI faster than larger distros that must read from a disk, and allowing the boot medium to be removed after the operating system has booted. ==See also== * Comparison of Linux Live Distros * Lightweight Linux distribution * List of Linux distributions that run from RAM ==References== ==External links== * * * Mirrorserver ftp://austrumi.ru.lv/ Category:Slackware Category:Linux distributions without systemd ",
-    "title": "Austrumi Linux"
-}

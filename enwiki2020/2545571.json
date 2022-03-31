@@ -1,5 +1,0 @@
-{
-    "id": "2545571",
-    "text": "XNUMBERS is a multi-precision floating point computing and numerical methods library for Microsoft Excel. Xnumbers claims to be an open source Excel addin (xla), the license however is not an open source license. XNUMBERS performs multi-precision floating point arithmetic from 15 up to 200 significant digits. The version 5.6 as of 2008 is compatible with Excel 2003/XP and consists of a set of more than 300 functions for arithmetic, complex, trigonometric, logarithm, exponential calculus. The Foxes team members (around Leonardo Volpi) stopped their development efforts in 2008. Recently, an American astronomer had his brother John Beyers make the Italian versions compatible to recent versions of Microsoft Excel/Windows/VisualBasic. Several forked versions are made available in the last section of the astronomer's homepage, entitled \"Downloads and links\". ==Screenshots== File:XNumbersShot1.jpgThe XNumbers Macro Organizer ==External links== * XNUMBERS 6.0.5.6 for Excel - John Beyers, last update 11 Dec 2013 * XNUMBERS 5.6 for Excel - Foxes Team Category:Microsoft Office ",
-    "title": "XNUMBERS"
-}

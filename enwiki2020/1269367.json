@@ -1,5 +1,0 @@
-{
-    "id": "1269367",
-    "text": "Wily is a text editor created by Gary Capell for the X Window System. It is based on Acme, the mouse-centric editing environment for the Plan 9 operating system. Wily is one of the few editors that supports mouse chording. Unlike Acme, it does not support mouse scrolls and its interface is black and white. Development and usage of Wily has been deprecated in favour of the port of Acme to Unix systems as part of Plan 9 from User Space. ==See also== * Whiley * Wile E. Coyote and Road Runner, cartoon characters, the first of whose names sounds similar to \"Wily\" * Wiley (disambiguation) * Willey (disambiguation) * Wily (disambiguation) * Wyle (disambiguation) * Wylie (disambiguation) * Wyllie * Wyly * Wylye (disambiguation) == External links == * Wily Homepage * Comparison with other editors in The Art of Unix Programming * Gary Capell Category:Unix text editors Category:X Window programs Category:Software using the BSD license ",
-    "title": "Wily"
-}

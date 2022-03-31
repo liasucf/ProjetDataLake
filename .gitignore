@@ -1,2 +1,3 @@
-enwiki20201020/
- .ipynb_checkpoints/*
+enwiki-mini-clean/
+enwiki-mini-tfidf/
+.ipynb_checkpoints/

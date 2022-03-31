@@ -1,5 +1,0 @@
-{
-    "id": "9072590",
-    "text": "A utilization distribution is a probability distribution giving the probability density that an animal is found at a given point in space. It is estimated from data sampling the location of an individual or individuals in space over a period of time using, for example, telemetry or GPS based methods. Estimation of utilization distribution was traditionally based on histograms but newer nonparametric methods based on Fourier transformations , kernel density and local convex hull methods have been developed. The typical application for this distribution is estimating the home range distribution of animals. According to Lichti & Swihart (2011), kernel density methods provided, in many cases, less biased home-range area estimates compared to convex hull methods. ==See also== *Home range *Local convex hull == References == Category:Types of probability distributions ",
-    "title": "Utilization distribution"
-}

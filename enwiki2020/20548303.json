@@ -1,5 +1,0 @@
-{
-    "id": "20548303",
-    "text": "PARATEC (PARAllel Total Energy Code) is a package that performs ab initio quantum mechanical total energy calculations using pseudopotentials and a plane wave basis set. PARATEC is designed primarily for a massively parallel computing platform, and can run on serial machines. Calculations of XANES within such a full-potential approach has been implemented within PARATEC. The total energy minimization of the electrons can be done by two methods: (i) the more traditional self-consistent field (SCF) method and (ii) direct minimization (currently only implemented for systems with a gap) of the total energy. ==References== * * ==External links== * PARATEC home page Category:Physics software ",
-    "title": "PARATEC"
-}

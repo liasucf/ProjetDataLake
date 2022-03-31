@@ -1,5 +1,0 @@
-{
-    "id": "272977",
-    "text": "Null fill is used in radio antenna systems which are located on mountains or tall towers, to prevent too much of the signal from overshooting the nearest part of intended coverage area. Phasing is used between antenna elements to take power away from the main lobe and electrically direct more of it at a more downward angle in the vertical plane. This requires a phased array. Changing the relative power supplied to each element also changes the radiation pattern in this manner, and often both methods are used in combination. ==References== * \"Analysis of Antenna Null-fill and Broadcast Coverage.\" Myron D. Fanton. ERI Technical Series, vol. 6, April 2006. * \"The Tide is Turning.\" Charles Rhodes. * \"A Study on Null-Fill Array Antenna for Service Coverage Expansion in PCS Band\" Youngseok Ko ==See also== *Null (radio) *Beam tilt Category:Antennas (radio) Category:Broadcast engineering ",
-    "title": "Null fill"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "20527981",
-    "text": "The chrominance subcarrier is a separate subcarrier signal that carries the color information during transmission of a composite video signal. It is modulated and synchronized using the colorburst signal and then attached to the back porch of the signal. By synchronizing the subcarrier with the local oscillator of the television receiver, the RGB colors can be decoded successfully. ==References== Category:Video signal ",
-    "title": "Chrominance subcarrier"
-}

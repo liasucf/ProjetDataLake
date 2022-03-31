@@ -1,5 +1,0 @@
-{
-    "id": "17280075",
-    "text": "KoKo Virus is a memory resident computer virus created in March 1991. KoKo's name came from the creator himself, which was a nickname used by his friends. Many on-line virus databases refer to KoKo as Koko.1780. KoKo is written in the Assembly programming language and the executable file usually has an approximate file size of around 1780 bytes. The KoKo virus infects the target system by hooking the Windows interrupt INT 21h and writes itself to the end of COM and EXE files that are executed. The payload of this virus activates on July 29 and February 15. When activated the virus displays a message and may erase the computers disk sectors. The message displayed on an infected system is: Stop Keyboard Clicking KoKo is Sleeping in Your PC. ! To Scan & Clean Call, Adham H. Hammam Fax & Phone (20) 066 - 261841 == External links == * Koko.1780 at Virus database * Koko.1780 at Prosecure * Koko.1780 at Panda Security Category:DOS file viruses Category:Windows file viruses ",
-    "title": "KoKo (computer virus)"
-}

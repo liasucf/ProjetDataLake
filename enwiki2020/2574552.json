@@ -1,5 +1,0 @@
-{
-    "id": "2574552",
-    "text": "In mathematics, a homology theory in algebraic topology is compactly supported if, in every degree n, the relative homology group Hn(X, A) of every pair of spaces :(X, A) is naturally isomorphic to the direct limit of the nth relative homology groups of pairs (Y, B), where Y varies over compact subspaces of X and B varies over compact subspaces of A.. Singular homology is compactly supported, since each singular chain is a finite sum of simplices, which are compactly supported. Strong homology is not compactly supported. If one has defined a homology theory over compact pairs, it is possible to extend it into a compactly supported homology theory in the wider category of Hausdorff pairs (X, A) with A closed in X, by defining that the homology of a Hausdorff pair (X, A) is the direct limit over pairs (Y, B), where Y, B are compact, Y is a subset of X, and B is a subset of A. ==References== Category:Homology theory ",
-    "title": "Compactly-supported homology"
-}

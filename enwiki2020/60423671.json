@@ -1,5 +1,0 @@
-{
-    "id": "60423671",
-    "text": "In algebraic geometry, a normally flat ring along a proper ideal I is a local ring A such that I^n/I^{n+1} is flat over A/I for each integer n \\ge 0. The notion was introduced by Hironaka in his proof of the resolution of singularities as a refinement of equimultiplicity and was later generalized by Alexander Grothendieck and others. == References == *Herrmann, M., S. Ikeda, and U. Orbanz: Equimultiplicity and Blowing Up. An Algebraic Study with an Appendix by B. Moonen. Springer Verlag, Berlin Heidelberg New-York, 1988. Category:Algebraic geometry ",
-    "title": "Normally flat ring"
-}

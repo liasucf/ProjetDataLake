@@ -1,5 +1,0 @@
-{
-    "id": "2728035",
-    "text": "In mathematics and theoretical physics, resummation is a procedure to obtain a finite result from a divergent sum (series) of functions. Resummation involves a definition of another (convergent) function in which the individual terms defining the original function are re-scaled, and an integral transformation of this new function to obtain the original function. Borel resummation is probably the most well-known example. The simplest method is an extension of a variational approach to higher order based on a paper by R.P. Feynman and H. Kleinert. In quantum mechanics it was extended to any order here, and in quantum field theory here. Kleinert, H., \"Critical exponents from seven-loop strong-coupling \u03c64 theory in three dimensions\". Physical Review D 60, 085001 (1999) See also Chapters 16\u201320 in the textbook cited below. == References == == Books == * Hagen Kleinert, Critical Properties of \u03c64-Theories, World Scientific (Singapore, 2001); Paperback (also available online) (together with V. Schulte-Frohlinde). Category:Quantum field theory Category:Summability methods ",
-    "title": "Resummation"
-}

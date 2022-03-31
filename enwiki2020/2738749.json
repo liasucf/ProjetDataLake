@@ -1,5 +1,0 @@
-{
-    "id": "2738749",
-    "text": "In computer file systems, a block allocation map is a data structure used to track disk blocks that are considered \"in use\". Blocks may also be referred to as allocation units or clusters. CP/M used a block allocation map in its directory. Each directory entry could list 8 or 16 blocks (depending on disk format) that were allocated to a file. If a file used more blocks, additional directory entries would be needed. Thus, a single file could have multiple directory entries. A benefit of this method is the possibility to use sparse files by declaring a large file size but only allocating blocks that are actually used. A detriment of this method is the disk may have free space (unallocated blocks) but data cannot be appended to a file because all directory entries are used. ==Errata== The Commodore DOS used a similarly named but significantly different Block availability map. ==See also== *File Allocation Table *Design of the FAT file system ==References== Category:Computer file systems ",
-    "title": "Block allocation map"
-}

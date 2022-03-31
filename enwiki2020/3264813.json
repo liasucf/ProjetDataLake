@@ -1,5 +1,0 @@
-{
-    "id": "3264813",
-    "text": "Injection seeders are devices that direct the output of small \"seed\" lasers into the cavity of a much larger laser to stabilize the latter's output. Most seed lasers are stable, single-frequency lasers that emit within the linewidth of the larger laser's gain medium. The single frequency encourages the larger laser to lase in a single longitudinal mode, and the seed laser can also improve the laser's spatial profile and improve the M2 parameter. Seed lasers can be continuous or pulsed. Seeding a pulsed laser can reduce variations in the output energy and timing (jitter) from pulse to pulse, and smooth out temporal variations within the pulse. Many commercial lasers use a laser diode as a seeding source. ==See also== *Laser construction *Q-switching *Mode locking ==References== *Spotlight: Injection Seeding, Technical University of Darmstadt ==Bibliography== * * Category:Laser science ",
-    "title": "Injection seeder"
-}

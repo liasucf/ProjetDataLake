@@ -1,5 +1,0 @@
-{
-    "id": "31397430",
-    "text": "In transport, D-value is a rating in kN that is typically attributed to mechanical couplings, and reflects dynamic loading limits between a towing vehicle and a trailer. The corresponding formula for a truck and trailer combination, used to determine the required D-value of a coupling, is: T = Weight of towing vehicle including the vertical load on the fifth wheel R = Total weight of the loaded semi-trailer U = Vertical load on the fifth wheel g = Acceleration due to gravity (assumed to be 9.81 m/s 2 ) D (kN) = g x ((0.6 x T x R)/(T + R - U)) ==References== Category:Mechanical engineering ",
-    "title": "D-value (transport)"
-}

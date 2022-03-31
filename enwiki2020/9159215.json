@@ -1,5 +1,0 @@
-{
-    "id": "9159215",
-    "text": "OOHDM (Object Oriented Hypermedia Design Method) is a method for the development of Web applications. It was one of the first methods to postulate the separation of concerns that defines its various models - requirements, conceptual, navigation, abstract interface and implementation. OOHDM, and its successor, SHDM (Semantic Hypermedia Design Method, which uses Semantic Web models) are supported by an open source, freely available environment, HyperDE. == See also == * Web engineering * Web modeling ==External links== * OOHDM Wiki * HyperDE. Category:Software architecture Category:Web applications Category:Web development ",
-    "title": "OOHDM"
-}

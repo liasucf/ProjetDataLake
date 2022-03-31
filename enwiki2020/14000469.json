@@ -1,5 +1,0 @@
-{
-    "id": "14000469",
-    "text": "The Virtual Switch Redundancy Protocol (VSRP) is a proprietary network resilience protocol developed by Foundry Networks and currently being sold in products manufactured by both Brocade Communications Systems (formerly Foundry Networks) and Hewlett Packard. The protocol differs from many others in use as it combines Layer 2 and Layer 3 resilience \u2013 effectively doing the jobs of both Spanning tree protocol and the Virtual Router Redundancy Protocol at the same time. Whilst the restrictions on the physical topologies able to make use of VSRP mean that it is less flexible than STP and VRRP it does significantly improve on the failover times provided by either of those protocols. == See also == * Common Address Redundancy Protocol * Virtual Router Redundancy Protocol * Hot Standby Router Protocol * Spanning Tree Protocol == External links == * Configuration Guide - Brocade Communications Systems Category:Internet protocols Category:Routing protocols ",
-    "title": "Virtual Switch Redundancy Protocol"
-}

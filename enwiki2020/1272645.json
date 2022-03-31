@@ -1,5 +1,0 @@
-{
-    "id": "1272645",
-    "text": "Switched Multi-megabit Data Service (SMDS) was a connectionless service used to connect LANs, MANs and WANs to exchange data, in early 1990s. In Europe, the service was known as Connectionless Broadband Data Service (CBDS). SMDS was specified by Bellcore, and was based on the IEEE 802.6 metropolitan area network (MAN) standard, as implemented by Bellcore, and used cell relay transport, Distributed Queue Dual Bus layer-2 switching arbitrator, and standard SONET or G.703 as access interfaces. It is a switching service that provides data transmission in the range between 1.544 Mbit/s (T1 or DS1) to 45 Mbit/s (T3 or DS3). SMDS was developed by Bellcore as an interim service until Asynchronous Transfer Mode matured. SMDS was notable for its initial introduction of the 53-byte cell and cell switching approaches, as well as the method of inserting 53-byte cells onto G.703 and SONET. In the mid-1990s, SMDS was replaced, largely by Frame Relay. ==References== == External links == * Cisco guide to SMDS * SMDS | SIP Protocol Category:Computer networking ",
-    "title": "Switched Multi-megabit Data Service"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "12813110",
-    "text": "TilEm is an emulator that simulates certain Texas Instruments calculators on a generic computer. It is similar to TiEmu, uses GTK+, and works on many different operating systems like Linux/Unix, FreeBSD, 32-bit Microsoft Windows and so on. If you have a copy of the information in the ROM from one of the ZiLOG Z80 series Texas Instruments Graphing Calculators (TI-82, TI-83 series, TI-84 Plus series, TI-85, TI-86, and TI-81), TilEm will emulate the behavior of the calculator without requiring the actual calculator hardware. TilEm is licensed under the GPL License. Category:Linux emulation software Category:Graphing calculator software ",
-    "title": "TilEm"
-}

@@ -1,5 +1,0 @@
-{
-    "id": "2737856",
-    "text": "r=\\frac{\\sin \\theta}{\\theta}, -20<\\theta<20 cochleoid (solid) and its polar inverse (dashed) A cochleoid is a snail-shaped curve similar to a strophoid which can be represented by the polar equation :r=\\frac{a \\sin \\theta}{\\theta}, the Cartesian equation :(x^2+y^2)\\arctan\\frac{y}{x}=ay, or the parametric equations :x=\\frac{a\\sin t\\cos t}{t}, \\quad y=\\frac{a\\sin^2 t}{t}. The cochleoid is the inverse curve of Hippias' quadratrix. Heinrich Wieleitner: Spezielle Ebene Kurven. G\u00f6schen, Leipzig, 1908, pp. 256-259 (German) ==Notes== ==References== * *Cochleoid in the Encyclopedia of Mathematics *Liliana Luca, Iulian Popescu: A Special Spiral: The Cochleoid. Fiabilitate si Durabilitate - Fiability & Durability no 1(7)/ 2011, Editura \"Academica Br\u00e2ncu\u015fi\" , T\u00e2rgu Jiu, *Roscoe Woods: The Cochlioid. The American Mathematical Monthly, Vol. 31, No. 5 (May, 1924), pp. 222\u2013227 (JSTOR) * Howard Eves: A Graphometer. The Mathematics Teacher, Vol. 41, No. 7 (November 1948), pp. 311-313 (JSTOR) == External links == *cochleoid at 2dcurves.com * Category:Curves ",
-    "title": "Cochleoid"
-}

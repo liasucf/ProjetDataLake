@@ -1,5 +1,0 @@
-{
-    "id": "58321041",
-    "text": "The Rice index is a metric which indicates the degree of agreement, or roll- call cohesion, within any sized voting body. A result of 0 indicates a stalemate, while a 1 indicates a perfect consensus. The formula is often used in the social sciences, and is the ratio of the difference between majority and minority to the sum of majority and minority. :RI = \\frac{|\\text{yes} - \\text{no}|}{\\text{yes} + \\text{no}} Yes = Number of yes votes, No = Number of votes against. It is named for Stuart A. Rice (1889-1969), Chairman of the United States Central Statistical Board, president of the American Statistical Association in 1933 and Assistant Director of the Office of Statistical Standards in the Bureau of the Budget from 1940\u20131955. == References == Category:Voting theory ",
-    "title": "Rice index"
-}

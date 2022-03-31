@@ -1,5 +1,0 @@
-{
-    "id": "2567156",
-    "text": "The inter-working function (IWF) is a method for interfacing a wireless telecommunication network with the public switched telephone network (PSTN). The IWF converts the data transmitted over the air interface into a format suitable for the PSTN. IWF contains both the hardware and software elements that provide the rate adaptation and protocol conversion between PSTN and the wireless network. Some systems require more IWF capability than others, depending on the network which is being connected. The IWF also incorporates a \"modem bank\", which may be used when, for example, the GSM Data Terminal Equipment (DTE) exchanges data with a land DTE connected via analogue modem The IWF provides the function to enable the GSM system to interface with the various forms of public and private data networks currently available. The basic features of the IWF are: * Data rate adaption * Protocol conversion Category:Wireless networking Category:Telephony ",
-    "title": "Inter-working function"
-}

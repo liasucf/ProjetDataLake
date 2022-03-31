@@ -1,5 +1,0 @@
-{
-    "id": "12873488",
-    "text": "Sotoarc is a commercial static code analysis tool for software architects. It graphically visualizes the static structure of software systems written in Java, C# or in C++ code. The code structure is displayed as hierarchies (trees) of modules, packages and files. Besides the user can describe by graphical means the specified software architecture of a software system. By doing so the tool is immediately comparing this intended architecture with the implemented code structure and is highlighting all architecture violations (i.e. all code references and dependencies which do not correspond to the intended architecture.) As an add-on tool to Sotoarc an Eclipse plug-in is able to do the architecture conformance check directly in Eclipse. This plug- in informs the developer immediately when he has just implemented code which is violating architecture constraints. ==See also== *List of tools for static code analysis == References == *\"Eclipse Auf Dem Pr\u00fcfstand: Eine Fallstudie Zur Statischen Programmanalyse\" (in German) ==External links== * Category:Static program analysis tools ",
-    "title": "Sotoarc"
-}

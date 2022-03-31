@@ -1,5 +1,0 @@
-{
-    "id": "31308010",
-    "text": "In logic, especially as applied in mathematics, concept is a special case or specialization of concept precisely if every instance of is also an instance of but not vice versa, or equivalently, if is a generalization of . A limiting case is a type of special case which is arrived at by taking some aspect of the concept to the extreme of what is permitted in the general case. A degenerate case is a special case which is in some way qualitatively different from almost all of the cases allowed. Special case examples include the following: * All squares are rectangles (but not all rectangles are squares); therefore the square is a special case of the rectangle. * Fermat's Last Theorem, that has no solutions in positive integers with , is a special case of Beal's conjecture, that has no primitive solutions in positive integers with , , and all greater than 2, specifically, the case of . == See also == * Specialization (logic) Category:Mathematical logic ",
-    "title": "Special case"
-}

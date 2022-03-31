@@ -1,5 +1,0 @@
-{
-    "id": "2748941",
-    "text": "The butterfly curve. The butterfly curve is a transcendental plane curve discovered by Temple H. Fay of University of Southern Mississippi in 1989. ==Equation== An animated construction gives an idea of the complexity of the curve (Click for enlarged version). The curve is given by the following parametric equations: :x = \\sin(t) \\left(e^{\\cos(t)} - 2\\cos(4t) - \\sin^5\\left({t \\over 12}\\right)\\right) :y = \\cos(t) \\left(e^{\\cos(t)} - 2\\cos(4t) - \\sin^5\\left({t \\over 12}\\right)\\right) :0\\le t \\le 12\\pi or by the following polar equation: :r=e^{\\sin \\theta} - 2 \\cos (4 \\theta ) + \\sin^5\\left(\\frac{2 \\theta - \\pi}{24}\\right) The sin term has been added for purely aesthetic reasons. == Developments == In 2006, two mathematicians using Mathematica analyzed the function, and found variants where leafs, flowers or other insects became apparent. ==See also== * Butterfly curve (algebraic) ==References== ==External links== * Butterfly Curve plotted in WolframAlpha Category:Curves ",
-    "title": "Butterfly curve (transcendental)"
-}

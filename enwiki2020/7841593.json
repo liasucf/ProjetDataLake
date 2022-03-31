@@ -1,5 +1,0 @@
-{
-    "id": "7841593",
-    "text": "OpenVera was a hardware verification language developed by System Science and acquired by Synopsys.https://www.eetimes.com/synopsys-acquires-systems- science-inc/ OpenVera was an interoperable, open hardware verification language for testbench creation. The OpenVera language was used as the basis for the advanced verification features in the IEEE Std. 1800 SystemVerilog standard, for the benefit of the entire verification community including companies in the semiconductor, systems, IP and EDA industries along with verification services. The OpenVera language reference manual (LRM) can be obtained at no cost, but modifications to the language must go through Synopsys. ==See also== * e (verification language) * SystemVerilog ==References== ==External links== * ASIC World Vera Tutorial Category:Hardware verification languages ",
-    "title": "OpenVera"
-}
