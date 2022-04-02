@@ -264,6 +264,21 @@ for pos_json in tqdm(os.listdir(path_to_json)):
 dictionary = dict((k, int(str(v))) for k,v in vectorizer.vocabulary_.items())
 
 
+#build inverted index 
+path_to_json = 'enwiki-mini/'
+index = 1
+inverted_index = dict()
+for pos_json in tqdm(os.listdir(path_to_json)):
+    if pos_json.endswith('.json'):
+        path = 'enwiki-mini/' + str(pos_json)
+        df = spark.read.option("multiline","true").json(path).toPandas()
+        text = set([word for word in cleanup_text(df['text'].tolist()[0]).lower().split() if len(word)>4])
+        for word in text:
+            if word in inverted_index:
+                inverted_index[word].append(path)
+            else:
+                inverted_index[word] = [path]
+
 #Create collection for global metadata mapping and 
 #adding the vocabulary inside the collection
 
@@ -272,13 +287,17 @@ Collection = db["global_metadata"]
 data = {
     #Technical metadata
    "global-dataset-metadata": 
-    [{ 
+    { 
     "tokenizer_dictionary":
     [
         dictionary,
      
-    ] 
-   }]
+    ],
+    "inverted_index":
+    [
+        inverted_index 
+    ]
+   }
 
 }
 Collection.insert_one(data)
